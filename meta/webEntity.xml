@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<WebEntity>		
+<WebEntity>
 	<trialDay>15</trialDay>
-	<unLockCode>AMRCP-0007</unLockCode>	
+	<unLockCode>AMRCP-0007</unLockCode>
 	<reqMinAppVersion>3.2.0</reqMinAppVersion>
-	
-	<baseUrl>https://rcpsync.github.io/update/</baseUrl>
-	
-	<urlRepository>https://rcpsync.github.io/update/repository/</urlRepository>		
+
+	<updateBaseUrl>https://rcpsync.github.io/update</updateBaseUrl>
+
+	<urlRepository>repository</urlRepository>
 	<versionApp>3.3.4</versionApp>
+
+	<urlDbsBase>dbs</urlDbsBase>
+	<versionDbs>3.3.4</versionDbs>
+
+	<urlFFMpeg>ext/ffmpeg.zip</urlFFMpeg>
+	<versionFFMpeg>4.1.1</versionFFMpeg>
+
+	<urlOpenCV>ext/opencv.zip</urlOpenCV>
+	<versionOpenCV>4.0.1</versionOpenCV>
+
+	<urlVersionHistory>https://rcpsync.github.io/update/meta/versionHistory.html</urlVersionHistory>
+	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>
+
+	<phpBaseUrl>https://amrcp.sourceforge.io/web</phpBaseUrl>
+	<rpcServiceUrl>rpcService.php</rpcServiceUrl>
 	
-	<urlDbsBase>https://rcpsync.github.io/update/dbs/</urlDbsBase>
-	<versionDbs>3.3.4</versionDbs>	
-		
-	<urlVersionHistory>https://rcpsync.github.io/update/meta/versionHistory.html</urlVersionHistory>		
-	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>			
-	
-	<urlFFMpeg>https://rcpsync.github.io/update/ext/ffmpeg.zip</urlFFMpeg>
-	<versionFFMpeg>4.1.1</versionFFMpeg>			
-	
-	<urlOpenCV>https://rcpsync.github.io/update/ext/opencv.zip</urlOpenCV>				
-	<versionOpenCV>4.0.1</versionOpenCV>	
 </WebEntity>
