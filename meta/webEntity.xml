@@ -4,7 +4,7 @@
 	<unLockCode>AMRCP-0007</unLockCode>
 	<reqMinAppVersion>3.2.0</reqMinAppVersion>
 
-	<updateBaseUrl>https://rcpsync.github.io/update</updateBaseUrl>
+	<urlUpdateBase>https://rcpsync.github.io/update</urlUpdateBase>
 
 	<urlRepository>repository</urlRepository>
 	<versionApp>3.3.4</versionApp>
@@ -21,7 +21,7 @@
 	<urlVersionHistory>https://rcpsync.github.io/update/meta/versionHistory.html</urlVersionHistory>
 	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>
 
-	<phpBaseUrl>https://amrcp.sourceforge.io/web</phpBaseUrl>
-	<rpcServiceUrl>rpcService.php</rpcServiceUrl>
+	<urlPhpBase>https://amrcp.sourceforge.io/web</urlPhpBase>
+	<urlRpcService>rpcService.php</urlRpcService>
 	
 </WebEntity>
