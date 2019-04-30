@@ -1,0 +1,4101 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>MIDE409 최종본</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+P { margin-top:2pt; margin-bottom:2pt; margin-left:8pt; margin-right:8pt; 
+    text-align:center;
+    font-size:20pt; font-family:arial, sans-serif; font-weight:normal; color:white; }
+.KRCC { Name:한글; lang:ko-KR; SAMIType:CC;}
+.ENCC { Name:영어; lang:en-US; SAMIType:CC;}
+#STDPrn { Name:보통;}
+#LargePrn { Name:크게; font-size:25pt;}
+#SmallPrn { Name:작게; font-size:15pt;}
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+<SYNC Start=8><P Class=KRCC>자막 제작, 배포 쿠쿠다스닷컴<br><font color=#FFFFC6>K</font><font color=#FFFFA2>U</font><font color=#FFFF7E>K</font><font color=#FFFF5A>U</font><font color=#E1FF36>D</font><font color=#BDFF12>A</font><font color=#ABF200>S</font><font color=#99E000>.</font><font color=#87CE00>C</font><font color=#75BC00>O</font><font color=#87CE00>M</font>
+<SYNC Start=124529><P Class=KRCC>&nbsp;
+<SYNC Start=161954><P Class=KRCC><font color="#0080ff">나의 누나는 그라비아 아이돌...</font>
+<SYNC Start=169872><P Class=KRCC>&nbsp;
+<SYNC Start=169873><P Class=KRCC><font color="#0080ff">일 할때 노출이 많은 옷을 입는데..</font>
+<SYNC Start=177683><P Class=KRCC>&nbsp;
+<SYNC Start=177684><P Class=KRCC>누나<br><font color="#0080ff">평소에도 이런옷을 입어서 빈틈이 많단 말이지</font>
+<SYNC Start=179602><P Class=KRCC>&nbsp;
+<SYNC Start=179603><P Class=KRCC>응?<br><font color="#0080ff">평소에도 이런옷을 입어서 빈틈이 많단 말이지</font>
+<SYNC Start=181603><P Class=KRCC>&nbsp;
+<SYNC Start=181604><P Class=KRCC>또 나왔네
+<SYNC Start=183195><P Class=KRCC>&nbsp;
+<SYNC Start=183196><P Class=KRCC>뭐가?
+<SYNC Start=186126><P Class=KRCC>&nbsp;
+<SYNC Start=186127><P Class=KRCC>뭐냐니
+<SYNC Start=188030><P Class=KRCC>&nbsp;
+<SYNC Start=188031><P Class=KRCC>이거
+<SYNC Start=192155><P Class=KRCC>&nbsp;
+<SYNC Start=192156><P Class=KRCC>엄청나네
+<SYNC Start=194369><P Class=KRCC>&nbsp;
+<SYNC Start=194370><P Class=KRCC>잡지?
+<SYNC Start=195571><P Class=KRCC>&nbsp;
+<SYNC Start=195572><P Class=KRCC>응
+<SYNC Start=197045><P Class=KRCC>&nbsp;
+<SYNC Start=197046><P Class=KRCC>보고있어?
+<SYNC Start=200650><P Class=KRCC>&nbsp;
+<SYNC Start=200651><P Class=KRCC>응.. 보고있다랄까 뭐..
+<SYNC Start=203778><P Class=KRCC>&nbsp;
+<SYNC Start=203779><P Class=KRCC>보지마~
+<SYNC Start=207141><P Class=KRCC>&nbsp;
+<SYNC Start=207142><P Class=KRCC>응.. 미안
+<SYNC Start=210758><P Class=KRCC>&nbsp;
+<SYNC Start=210759><P Class=KRCC>엄청나지?
+<SYNC Start=212962><P Class=KRCC>&nbsp;
+<SYNC Start=212963><P Class=KRCC>응
+<SYNC Start=215785><P Class=KRCC>&nbsp;
+<SYNC Start=215786><P Class=KRCC>여전히 바쁘구나
+<SYNC Start=219034><P Class=KRCC>&nbsp;
+<SYNC Start=219035><P Class=KRCC>응
+<SYNC Start=221663><P Class=KRCC>&nbsp;
+<SYNC Start=221664><P Class=KRCC>바쁘지만 즐거워
+<SYNC Start=224869><P Class=KRCC>&nbsp;
+<SYNC Start=224870><P Class=KRCC>으응.. 그렇구나
+<SYNC Start=230540><P Class=KRCC>&nbsp;
+<SYNC Start=230541><P Class=KRCC>저기
+<SYNC Start=232170><P Class=KRCC>&nbsp;
+<SYNC Start=232171><P Class=KRCC>응?
+<SYNC Start=233387><P Class=KRCC>&nbsp;
+<SYNC Start=233388><P Class=KRCC>이번에 본 시험 어땟어?
+<SYNC Start=236625><P Class=KRCC>&nbsp;
+<SYNC Start=236626><P Class=KRCC>아~
+<SYNC Start=238445><P Class=KRCC>&nbsp;
+<SYNC Start=238446><P Class=KRCC>음..뭐..
+<SYNC Start=240219><P Class=KRCC>&nbsp;
+<SYNC Start=240220><P Class=KRCC>그럭저럭
+<SYNC Start=241834><P Class=KRCC>&nbsp;
+<SYNC Start=241835><P Class=KRCC>에?
+<SYNC Start=243383><P Class=KRCC>&nbsp;
+<SYNC Start=243384><P Class=KRCC>공부 안했어?
+<SYNC Start=246182><P Class=KRCC>&nbsp;
+<SYNC Start=246183><P Class=KRCC>으..응..
+<SYNC Start=249200><P Class=KRCC>&nbsp;
+<SYNC Start=249201><P Class=KRCC>머리에 잘 안들어와서
+<SYNC Start=251282><P Class=KRCC>&nbsp;
+<SYNC Start=251283><P Class=KRCC>그러면 안 되지~ 맨날 놀기만하고
+<SYNC Start=255333><P Class=KRCC>&nbsp;
+<SYNC Start=255334><P Class=KRCC>응..
+<SYNC Start=260945><P Class=KRCC>&nbsp;
+<SYNC Start=260946><P Class=KRCC>제대로 공부해야지
+<SYNC Start=265561><P Class=KRCC>&nbsp;
+<SYNC Start=265562><P Class=KRCC>응
+<SYNC Start=266953><P Class=KRCC>&nbsp;
+<SYNC Start=266954><P Class=KRCC>그렇지
+<SYNC Start=273954><P Class=KRCC>&nbsp;
+<SYNC Start=300735><P Class=KRCC>누나
+<SYNC Start=302269><P Class=KRCC>&nbsp;
+<SYNC Start=302270><P Class=KRCC>뭐해?
+<SYNC Start=303515><P Class=KRCC>&nbsp;
+<SYNC Start=303516><P Class=KRCC>응?
+<SYNC Start=305653><P Class=KRCC>&nbsp;
+<SYNC Start=305654><P Class=KRCC>라인<br><font color="#0080ff">(우리나라에서 카톡쓰는것 처럼 일본에서는 라인을 대부분 사용합니다)</font>
+<SYNC Start=308308><P Class=KRCC>&nbsp;
+<SYNC Start=308309><P Class=KRCC>아..그..그래?
+<SYNC Start=310247><P Class=KRCC>&nbsp;
+<SYNC Start=310248><P Class=KRCC>응
+<SYNC Start=310966><P Class=KRCC>&nbsp;
+<SYNC Start=310967><P Class=KRCC>친구가 라인을 엄청 보내
+<SYNC Start=316283><P Class=KRCC>&nbsp;
+<SYNC Start=316284><P Class=KRCC>그렇구나
+<SYNC Start=323284><P Class=KRCC>&nbsp;
+<SYNC Start=347134><P Class=KRCC>잠깐
+<SYNC Start=348756><P Class=KRCC>&nbsp;
+<SYNC Start=348757><P Class=KRCC>너 뭘 그렇게 보고있어
+<SYNC Start=352571><P Class=KRCC>&nbsp;
+<SYNC Start=352572><P Class=KRCC>아..
+<SYNC Start=353745><P Class=KRCC>&nbsp;
+<SYNC Start=353746><P Class=KRCC>발기 했잖아
+<SYNC Start=355268><P Class=KRCC>&nbsp;
+<SYNC Start=355269><P Class=KRCC>에?
+<SYNC Start=359006><P Class=KRCC>&nbsp;
+<SYNC Start=359007><P Class=KRCC>누나를 보고 발기하다니<br>중딩도 아니고
+<SYNC Start=362360><P Class=KRCC>&nbsp;
+<SYNC Start=362361><P Class=KRCC>아니.. 그게..
+<SYNC Start=364356><P Class=KRCC>&nbsp;
+<SYNC Start=364357><P Class=KRCC>누나가 노출이 너무 많지 않아? 그 옷은
+<SYNC Start=368803><P Class=KRCC>&nbsp;
+<SYNC Start=368804><P Class=KRCC>응?
+<SYNC Start=371432><P Class=KRCC>&nbsp;
+<SYNC Start=371433><P Class=KRCC>그런가?
+<SYNC Start=372859><P Class=KRCC>&nbsp;
+<SYNC Start=372860><P Class=KRCC>별로 안 그런데
+<SYNC Start=374355><P Class=KRCC>&nbsp;
+<SYNC Start=374356><P Class=KRCC>에...
+<SYNC Start=376957><P Class=KRCC>&nbsp;
+<SYNC Start=376958><P Class=KRCC>이 옷 귀엽지?
+<SYNC Start=379626><P Class=KRCC>&nbsp;
+<SYNC Start=379627><P Class=KRCC>그라비아때 사용한 옷 받아왔어
+<SYNC Start=383189><P Class=KRCC>&nbsp;
+<SYNC Start=383190><P Class=KRCC>아..그렇구나
+<SYNC Start=385573><P Class=KRCC>&nbsp;
+<SYNC Start=385574><P Class=KRCC>아
+<SYNC Start=386219><P Class=KRCC>&nbsp;
+<SYNC Start=386220><P Class=KRCC>맞다
+<SYNC Start=387420><P Class=KRCC>&nbsp;
+<SYNC Start=387421><P Class=KRCC>새 수영복 좀 봐줘
+<SYNC Start=389383><P Class=KRCC>&nbsp;
+<SYNC Start=389384><P Class=KRCC>에?
+<SYNC Start=391112><P Class=KRCC>&nbsp;
+<SYNC Start=391113><P Class=KRCC>좋잖아
+<SYNC Start=392867><P Class=KRCC>&nbsp;
+<SYNC Start=392868><P Class=KRCC>무슨 말을 하는거야
+<SYNC Start=395537><P Class=KRCC>&nbsp;
+<SYNC Start=395538><P Class=KRCC>니가 발기를 안하면<br>그라비아로써 성립이 안되잖아
+<SYNC Start=402594><P Class=KRCC>&nbsp;
+<SYNC Start=402595><P Class=KRCC>괜찮잖아
+<SYNC Start=403714><P Class=KRCC>&nbsp;
+<SYNC Start=403715><P Class=KRCC>이리 좀 와봐
+<SYNC Start=408367><P Class=KRCC>&nbsp;
+<SYNC Start=408368><P Class=KRCC>이게 뭐니
+<SYNC Start=412047><P Class=KRCC>&nbsp;
+<SYNC Start=412048><P Class=KRCC>알았지?
+<SYNC Start=413198><P Class=KRCC>&nbsp;
+<SYNC Start=413199><P Class=KRCC>부탁할게
+<SYNC Start=416379><P Class=KRCC>&nbsp;
+<SYNC Start=416380><P Class=KRCC>그럼
+<SYNC Start=418663><P Class=KRCC>&nbsp;
+<SYNC Start=418664><P Class=KRCC>이 자지를 가라않게 해주면
+<SYNC Start=422151><P Class=KRCC>&nbsp;
+<SYNC Start=422152><P Class=KRCC>부탁 들어줄께
+<SYNC Start=423934><P Class=KRCC>&nbsp;
+<SYNC Start=423935><P Class=KRCC>에?
+<SYNC Start=425680><P Class=KRCC>&nbsp;
+<SYNC Start=425681><P Class=KRCC>싫어
+<SYNC Start=427345><P Class=KRCC>&nbsp;
+<SYNC Start=427346><P Class=KRCC>니가 스스로해
+<SYNC Start=430459><P Class=KRCC>&nbsp;
+<SYNC Start=430460><P Class=KRCC>누나가 앞에서 그라비아 보여 줄테니까
+<SYNC Start=438731><P Class=KRCC>&nbsp;
+<SYNC Start=445462><P Class=KRCC>내가 스스로 하는거야?
+<SYNC Start=448243><P Class=KRCC>&nbsp;
+<SYNC Start=448244><P Class=KRCC>빨리
+<SYNC Start=449356><P Class=KRCC>&nbsp;
+<SYNC Start=449357><P Class=KRCC>스스로 해봐
+<SYNC Start=455357><P Class=KRCC>&nbsp;
+<SYNC Start=461512><P Class=KRCC>누나 섹시하지?
+<SYNC Start=464695><P Class=KRCC>&nbsp;
+<SYNC Start=464696><P Class=KRCC>응
+<SYNC Start=466824><P Class=KRCC>&nbsp;
+<SYNC Start=466825><P Class=KRCC>엄청
+<SYNC Start=470281><P Class=KRCC>&nbsp;
+<SYNC Start=470282><P Class=KRCC>어떤 포즈가 좋아?
+<SYNC Start=476282><P Class=KRCC>&nbsp;
+<SYNC Start=482635><P Class=KRCC>엉덩이가 보이는 포즈려나
+<SYNC Start=486009><P Class=KRCC>&nbsp;
+<SYNC Start=486010><P Class=KRCC>엉덩이 좋아해?
+<SYNC Start=489823><P Class=KRCC>&nbsp;
+<SYNC Start=489824><P Class=KRCC>응.. 뭐..
+<SYNC Start=495824><P Class=KRCC>&nbsp;
+<SYNC Start=496606><P Class=KRCC>빨리.<br>자위해도 된다니까
+<SYNC Start=498992><P Class=KRCC>&nbsp;
+<SYNC Start=498993><P Class=KRCC>어차피 매일 하고 있잖아?
+<SYNC Start=501634><P Class=KRCC>&nbsp;
+<SYNC Start=501635><P Class=KRCC>누나 앞에서 하는건..
+<SYNC Start=503680><P Class=KRCC>&nbsp;
+<SYNC Start=503681><P Class=KRCC>에? 상관 없잖아
+<SYNC Start=505471><P Class=KRCC>&nbsp;
+<SYNC Start=505472><P Class=KRCC>남매인데
+<SYNC Start=511472><P Class=KRCC>&nbsp;
+<SYNC Start=515160><P Class=KRCC>이거봐
+<SYNC Start=516428><P Class=KRCC>&nbsp;
+<SYNC Start=516429><P Class=KRCC>아.. 엄청나
+<SYNC Start=522429><P Class=KRCC>&nbsp;
+<SYNC Start=523953><P Class=KRCC>어때?
+<SYNC Start=526054><P Class=KRCC>&nbsp;
+<SYNC Start=526055><P Class=KRCC>커..
+<SYNC Start=528156><P Class=KRCC>&nbsp;
+<SYNC Start=528157><P Class=KRCC>잡지에서 본 그대로야
+<SYNC Start=531403><P Class=KRCC>&nbsp;
+<SYNC Start=531404><P Class=KRCC>자 빨리 치라니까
+<SYNC Start=533465><P Class=KRCC>&nbsp;
+<SYNC Start=533466><P Class=KRCC>에?
+<SYNC Start=534751><P Class=KRCC>&nbsp;
+<SYNC Start=534752><P Class=KRCC>아니.. 그런건..
+<SYNC Start=539048><P Class=KRCC>&nbsp;
+<SYNC Start=539049><P Class=KRCC>누나가 그라돌이라 좋겠네?<br><font color="#0080ff">(그라비아 아이돌의 줄임말)</font>
+<SYNC Start=542128><P Class=KRCC>&nbsp;
+<SYNC Start=542129><P Class=KRCC>응..
+<SYNC Start=548129><P Class=KRCC>&nbsp;
+<SYNC Start=553246><P Class=KRCC>빨리 벗으라니까
+<SYNC Start=555767><P Class=KRCC>&nbsp;
+<SYNC Start=555768><P Class=KRCC>아니.. 그건..
+<SYNC Start=557802><P Class=KRCC>&nbsp;
+<SYNC Start=557803><P Class=KRCC>창피한데..
+<SYNC Start=559284><P Class=KRCC>&nbsp;
+<SYNC Start=559285><P Class=KRCC>왜?
+<SYNC Start=560977><P Class=KRCC>&nbsp;
+<SYNC Start=560978><P Class=KRCC>괜찮잖아. 빨리
+<SYNC Start=564623><P Class=KRCC>&nbsp;
+<SYNC Start=564624><P Class=KRCC>자..잠깐..
+<SYNC Start=566779><P Class=KRCC>&nbsp;
+<SYNC Start=566780><P Class=KRCC>괜찮다니까
+<SYNC Start=568368><P Class=KRCC>&nbsp;
+<SYNC Start=568369><P Class=KRCC>안돼
+<SYNC Start=570955><P Class=KRCC>&nbsp;
+<SYNC Start=570956><P Class=KRCC>잠깐만.. 누나
+<SYNC Start=572097><P Class=KRCC>&nbsp;
+<SYNC Start=572098><P Class=KRCC>어차피 매일 하고 있을거 아니야
+<SYNC Start=573664><P Class=KRCC>&nbsp;
+<SYNC Start=573665><P Class=KRCC>아니.. 그건 그렇지만..
+<SYNC Start=575742><P Class=KRCC>&nbsp;
+<SYNC Start=575743><P Class=KRCC>그건 혼자서 몰래 하는건데..
+<SYNC Start=577766><P Class=KRCC>&nbsp;
+<SYNC Start=577767><P Class=KRCC>괜찮다니까
+<SYNC Start=579013><P Class=KRCC>&nbsp;
+<SYNC Start=579014><P Class=KRCC>자 빨리 보여줘
+<SYNC Start=581027><P Class=KRCC>&nbsp;
+<SYNC Start=581028><P Class=KRCC>빨리 벗으라니까
+<SYNC Start=587028><P Class=KRCC>&nbsp;
+<SYNC Start=593038><P Class=KRCC>너..
+<SYNC Start=596196><P Class=KRCC>&nbsp;
+<SYNC Start=596197><P Class=KRCC>이렇게 커져서
+<SYNC Start=602197><P Class=KRCC>&nbsp;
+<SYNC Start=605815><P Class=KRCC>이렇게 컷었나?
+<SYNC Start=608998><P Class=KRCC>&nbsp;
+<SYNC Start=608999><P Class=KRCC>그런.. 보지마..창피해 왠지
+<SYNC Start=614778><P Class=KRCC>&nbsp;
+<SYNC Start=614779><P Class=KRCC>어릴때는 이렇게 크지 않았는데?
+<SYNC Start=620421><P Class=KRCC>&nbsp;
+<SYNC Start=620422><P Class=KRCC>귀두에서 뭔가 흘러 나오고있어
+<SYNC Start=623145><P Class=KRCC>&nbsp;
+<SYNC Start=623146><P Class=KRCC>그런 말 하지마..<br>창피해
+<SYNC Start=629146><P Class=KRCC>&nbsp;
+<SYNC Start=630345><P Class=KRCC>우와
+<SYNC Start=631839><P Class=KRCC>&nbsp;
+<SYNC Start=631840><P Class=KRCC>아~ 대단한데
+<SYNC Start=635276><P Class=KRCC>&nbsp;
+<SYNC Start=635277><P Class=KRCC>이렇게 늘어나고 있어
+<SYNC Start=640154><P Class=KRCC>&nbsp;
+<SYNC Start=640155><P Class=KRCC>엄청 나오고 있어
+<SYNC Start=645155><P Class=KRCC>&nbsp;
+<SYNC Start=645906><P Class=KRCC>그게.. 누나가 섹시한 포즈 같은걸 취하니까
+<SYNC Start=650298><P Class=KRCC>&nbsp;
+<SYNC Start=650299><P Class=KRCC>쉽게 젖는건 누나랑 똑같네
+<SYNC Start=653489><P Class=KRCC>&nbsp;
+<SYNC Start=653490><P Class=KRCC>에?
+<SYNC Start=654185><P Class=KRCC>&nbsp;
+<SYNC Start=654186><P Class=KRCC>무슨 말을 하는거야
+<SYNC Start=657627><P Class=KRCC>&nbsp;
+<SYNC Start=657628><P Class=KRCC>우와 엄청 나와
+<SYNC Start=661643><P Class=KRCC>&nbsp;
+<SYNC Start=661644><P Class=KRCC>귀두가 이렇게 빨게 졌어
+<SYNC Start=666644><P Class=KRCC>&nbsp;
+<SYNC Start=666656><P Class=KRCC>항상 누나 상상하면서 자위하니까 그렇지
+<SYNC Start=669576><P Class=KRCC>&nbsp;
+<SYNC Start=669577><P Class=KRCC>에?.. 아니 그건..
+<SYNC Start=675657><P Class=KRCC>&nbsp;
+<SYNC Start=677790><P Class=KRCC>너무 많이 해서 그래
+<SYNC Start=681984><P Class=KRCC>&nbsp;
+<SYNC Start=681985><P Class=KRCC>평소에 어떻게 해?
+<SYNC Start=685887><P Class=KRCC>&nbsp;
+<SYNC Start=685888><P Class=KRCC>어떻게라니..
+<SYNC Start=688433><P Class=KRCC>&nbsp;
+<SYNC Start=688434><P Class=KRCC>누나한테 보여줘 봐
+<SYNC Start=692086><P Class=KRCC>&nbsp;
+<SYNC Start=692087><P Class=KRCC>정말로?<br>- 응
+<SYNC Start=697087><P Class=KRCC>&nbsp;
+<SYNC Start=703798><P Class=KRCC>이렇게 하는 구나
+<SYNC Start=706363><P Class=KRCC>&nbsp;
+<SYNC Start=706364><P Class=KRCC>부끄러워. 그런 말 하면
+<SYNC Start=709371><P Class=KRCC>&nbsp;
+<SYNC Start=709372><P Class=KRCC>이거봐 좀 더 평소 처럼 해보라니까
+<SYNC Start=713359><P Class=KRCC>&nbsp;
+<SYNC Start=713360><P Class=KRCC>에.. 평소대로?
+<SYNC Start=718360><P Class=KRCC>&nbsp;
+<SYNC Start=719035><P Class=KRCC>엄청 딱딱해졌어
+<SYNC Start=724035><P Class=KRCC>&nbsp;
+<SYNC Start=730010><P Class=KRCC>누나
+<SYNC Start=731637><P Class=KRCC>&nbsp;
+<SYNC Start=731638><P Class=KRCC>그렇게 가까이서 뚫어지게 쳐다보면 부끄러워
+<SYNC Start=735644><P Class=KRCC>&nbsp;
+<SYNC Start=735645><P Class=KRCC>괜찮잖아
+<SYNC Start=740645><P Class=KRCC>&nbsp;
+<SYNC Start=742369><P Class=KRCC>좀 더 해봐
+<SYNC Start=744760><P Class=KRCC>&nbsp;
+<SYNC Start=744761><P Class=KRCC>좀 더?
+<SYNC Start=749761><P Class=KRCC>&nbsp;
+<SYNC Start=750731><P Class=KRCC>누나 가슴 보여?
+<SYNC Start=754155><P Class=KRCC>&nbsp;
+<SYNC Start=754156><P Class=KRCC>으응..
+<SYNC Start=755444><P Class=KRCC>&nbsp;
+<SYNC Start=755445><P Class=KRCC>보여
+<SYNC Start=757663><P Class=KRCC>&nbsp;
+<SYNC Start=757664><P Class=KRCC>딱딱하네
+<SYNC Start=759957><P Class=KRCC>&nbsp;
+<SYNC Start=759958><P Class=KRCC>엄청나
+<SYNC Start=764958><P Class=KRCC>&nbsp;
+<SYNC Start=765987><P Class=KRCC>누나..
+<SYNC Start=767873><P Class=KRCC>&nbsp;
+<SYNC Start=767874><P Class=KRCC>가슴 좀 더 보고 싶어
+<SYNC Start=770523><P Class=KRCC>&nbsp;
+<SYNC Start=770524><P Class=KRCC>에?
+<SYNC Start=775524><P Class=KRCC>&nbsp;
+<SYNC Start=778802><P Class=KRCC>너 껍질 안까고 자위하는구나?
+<SYNC Start=781825><P Class=KRCC>&nbsp;
+<SYNC Start=781826><P Class=KRCC>에? 뭐야 그게
+<SYNC Start=784224><P Class=KRCC>&nbsp;
+<SYNC Start=784225><P Class=KRCC>엄청 껍질이 씌워져있어<br><font color="#0080ff">(일본은 포경을 우리나라 처럼 많이 안해요)</font>
+<SYNC Start=788019><P Class=KRCC>&nbsp;
+<SYNC Start=788020><P Class=KRCC>보통 그렇지 않아?
+<SYNC Start=790876><P Class=KRCC>&nbsp;
+<SYNC Start=790877><P Class=KRCC>잘은 모르겠지만
+<SYNC Start=793163><P Class=KRCC>&nbsp;
+<SYNC Start=793164><P Class=KRCC>이렇게 껍질이 있는데?
+<SYNC Start=798164><P Class=KRCC>&nbsp;
+<SYNC Start=799344><P Class=KRCC>부끄러워 누나
+<SYNC Start=802956><P Class=KRCC>&nbsp;
+<SYNC Start=802957><P Class=KRCC>핏줄도 엄청 튀어 나왔어
+<SYNC Start=806134><P Class=KRCC>&nbsp;
+<SYNC Start=806135><P Class=KRCC>핏줄?
+<SYNC Start=808129><P Class=KRCC>&nbsp;
+<SYNC Start=808130><P Class=KRCC>누나 보면서 딸쳐도 돼
+<SYNC Start=813130><P Class=KRCC>&nbsp;
+<SYNC Start=814459><P Class=KRCC>괜찮아?<br>- 응
+<SYNC Start=818738><P Class=KRCC>&nbsp;
+<SYNC Start=818739><P Class=KRCC>자 많이 봐
+<SYNC Start=822423><P Class=KRCC>&nbsp;
+<SYNC Start=822424><P Class=KRCC>가까이서 봐도 될까?
+<SYNC Start=826027><P Class=KRCC>&nbsp;
+<SYNC Start=826028><P Class=KRCC>좀 더 가까이와서 봐
+<SYNC Start=829019><P Class=KRCC>&nbsp;
+<SYNC Start=829020><P Class=KRCC>응
+<SYNC Start=834020><P Class=KRCC>&nbsp;
+<SYNC Start=843422><P Class=KRCC>어때?
+<SYNC Start=847411><P Class=KRCC>&nbsp;
+<SYNC Start=847412><P Class=KRCC>누나 엄청 이뻐
+<SYNC Start=852412><P Class=KRCC>&nbsp;
+<SYNC Start=852663><P Class=KRCC>이쁘지?
+<SYNC Start=854348><P Class=KRCC>&nbsp;
+<SYNC Start=854349><P Class=KRCC>응
+<SYNC Start=859349><P Class=KRCC>&nbsp;
+<SYNC Start=879339><P Class=KRCC>엄청 부드러워 보여
+<SYNC Start=881960><P Class=KRCC>&nbsp;
+<SYNC Start=881961><P Class=KRCC>부드러워
+<SYNC Start=886961><P Class=KRCC>&nbsp;
+<SYNC Start=889295><P Class=KRCC>만지고 싶다
+<SYNC Start=891128><P Class=KRCC>&nbsp;
+<SYNC Start=891129><P Class=KRCC>에~?
+<SYNC Start=893139><P Class=KRCC>&nbsp;
+<SYNC Start=893140><P Class=KRCC>보기만해
+<SYNC Start=895784><P Class=KRCC>&nbsp;
+<SYNC Start=895785><P Class=KRCC>보기만 해야 돼?
+<SYNC Start=900495><P Class=KRCC>&nbsp;
+<SYNC Start=900496><P Class=KRCC>만지면 안돼?
+<SYNC Start=902912><P Class=KRCC>&nbsp;
+<SYNC Start=902913><P Class=KRCC>안돼
+<SYNC Start=906216><P Class=KRCC>&nbsp;
+<SYNC Start=906217><P Class=KRCC>좀 더 딸쳐봐
+<SYNC Start=909397><P Class=KRCC>&nbsp;
+<SYNC Start=909398><P Class=KRCC>응..
+<SYNC Start=914398><P Class=KRCC>&nbsp;
+<SYNC Start=915899><P Class=KRCC>너무 가깝잖아
+<SYNC Start=918767><P Class=KRCC>&nbsp;
+<SYNC Start=918768><P Class=KRCC>너무 가까워
+<SYNC Start=921513><P Class=KRCC>&nbsp;
+<SYNC Start=921514><P Class=KRCC>가까이서 봐도 되잖아
+<SYNC Start=924239><P Class=KRCC>&nbsp;
+<SYNC Start=924240><P Class=KRCC>그렇게 가까이서 보는거야?
+<SYNC Start=927057><P Class=KRCC>&nbsp;
+<SYNC Start=927058><P Class=KRCC>응
+<SYNC Start=931000><P Class=KRCC>&nbsp;
+<SYNC Start=931001><P Class=KRCC>누나<br>- 응?
+<SYNC Start=933414><P Class=KRCC>&nbsp;
+<SYNC Start=933415><P Class=KRCC>뒤로 돌아주지 않을래?
+<SYNC Start=936072><P Class=KRCC>&nbsp;
+<SYNC Start=936073><P Class=KRCC>정말~ 뒤를 좋아한다니까
+<SYNC Start=939158><P Class=KRCC>&nbsp;
+<SYNC Start=939159><P Class=KRCC>이렇게?
+<SYNC Start=940393><P Class=KRCC>&nbsp;
+<SYNC Start=940394><P Class=KRCC>응
+<SYNC Start=945394><P Class=KRCC>&nbsp;
+<SYNC Start=957533><P Class=KRCC>역시 이런 포즈를 남자들이 좋아하는구나
+<SYNC Start=963962><P Class=KRCC>&nbsp;
+<SYNC Start=964239><P Class=KRCC>응 그렇지..
+<SYNC Start=969239><P Class=KRCC>&nbsp;
+<SYNC Start=969649><P Class=KRCC>엉덩이 이쁘지?
+<SYNC Start=972274><P Class=KRCC>&nbsp;
+<SYNC Start=972275><P Class=KRCC>응 누나 엉덩이 엄청 이뻐
+<SYNC Start=978483><P Class=KRCC>&nbsp;
+<SYNC Start=1020838><P Class=KRCC>누나.. 보여주는거야?
+<SYNC Start=1026291><P Class=KRCC>&nbsp;
+<SYNC Start=1027493><P Class=KRCC>자
+<SYNC Start=1031019><P Class=KRCC>&nbsp;
+<SYNC Start=1031020><P Class=KRCC>아슬아슬~
+<SYNC Start=1036020><P Class=KRCC>&nbsp;
+<SYNC Start=1037289><P Class=KRCC>이 이상은 안되는거야?
+<SYNC Start=1040273><P Class=KRCC>&nbsp;
+<SYNC Start=1040274><P Class=KRCC>안돼
+<SYNC Start=1045274><P Class=KRCC>&nbsp;
+<SYNC Start=1048221><P Class=KRCC>보일것 같지?
+<SYNC Start=1051951><P Class=KRCC>&nbsp;
+<SYNC Start=1051952><P Class=KRCC>으응... 근데 안보여.
+<SYNC Start=1056952><P Class=KRCC>&nbsp;
+<SYNC Start=1059843><P Class=KRCC>조금만 더 내리면 보이게돼
+<SYNC Start=1064843><P Class=KRCC>&nbsp;
+<SYNC Start=1065384><P Class=KRCC>누나.. 아직 안보여
+<SYNC Start=1070384><P Class=KRCC>&nbsp;
+<SYNC Start=1070925><P Class=KRCC>조금만 더
+<SYNC Start=1073734><P Class=KRCC>&nbsp;
+<SYNC Start=1073735><P Class=KRCC>안돼
+<SYNC Start=1077298><P Class=KRCC>&nbsp;
+<SYNC Start=1077299><P Class=KRCC>전혀 안보이는데
+<SYNC Start=1080299><P Class=KRCC>&nbsp;
+<SYNC Start=1080300><P Class=KRCC>보이잖아~
+<SYNC Start=1085300><P Class=KRCC>&nbsp;
+<SYNC Start=1088893><P Class=KRCC>잠깐..
+<SYNC Start=1091355><P Class=KRCC>&nbsp;
+<SYNC Start=1091356><P Class=KRCC>닿고 있어
+<SYNC Start=1093637><P Class=KRCC>&nbsp;
+<SYNC Start=1093638><P Class=KRCC>당고 있어?
+<SYNC Start=1096421><P Class=KRCC>&nbsp;
+<SYNC Start=1096422><P Class=KRCC>발바닥에 닿고 있어
+<SYNC Start=1099061><P Class=KRCC>&nbsp;
+<SYNC Start=1099062><P Class=KRCC>간지러워
+<SYNC Start=1104062><P Class=KRCC>&nbsp;
+<SYNC Start=1104369><P Class=KRCC>저기
+<SYNC Start=1106536><P Class=KRCC>&nbsp;
+<SYNC Start=1106537><P Class=KRCC>누나..
+<SYNC Start=1109938><P Class=KRCC>&nbsp;
+<SYNC Start=1109939><P Class=KRCC>역시..
+<SYNC Start=1112056><P Class=KRCC>&nbsp;
+<SYNC Start=1112057><P Class=KRCC>내가 스스로 하는것 보다
+<SYNC Start=1115124><P Class=KRCC>&nbsp;
+<SYNC Start=1115125><P Class=KRCC>만져 줬으면 하는데
+<SYNC Start=1117967><P Class=KRCC>&nbsp;
+<SYNC Start=1117968><P Class=KRCC>만져 줬으면 좋겠어?
+<SYNC Start=1120127><P Class=KRCC>&nbsp;
+<SYNC Start=1120128><P Class=KRCC>응
+<SYNC Start=1125128><P Class=KRCC>&nbsp;
+<SYNC Start=1128943><P Class=KRCC>어쩔수 없구나
+<SYNC Start=1131282><P Class=KRCC>&nbsp;
+<SYNC Start=1131283><P Class=KRCC>만져 주는거야?
+<SYNC Start=1136283><P Class=KRCC>&nbsp;
+<SYNC Start=1139478><P Class=KRCC>그럼 이거야
+<SYNC Start=1141815><P Class=KRCC>&nbsp;
+<SYNC Start=1141816><P Class=KRCC>이게 뭐야?
+<SYNC Start=1146816><P Class=KRCC>&nbsp;
+<SYNC Start=1147888><P Class=KRCC>뭐 하는 거야? 누나
+<SYNC Start=1150778><P Class=KRCC>&nbsp;
+<SYNC Start=1150779><P Class=KRCC>발로
+<SYNC Start=1153890><P Class=KRCC>&nbsp;
+<SYNC Start=1153891><P Class=KRCC>발로 해줄게
+<SYNC Start=1155450><P Class=KRCC>&nbsp;
+<SYNC Start=1155451><P Class=KRCC>왜 발이야?
+<SYNC Start=1157094><P Class=KRCC>&nbsp;
+<SYNC Start=1157095><P Class=KRCC>발을 좋아하잖아?
+<SYNC Start=1161120><P Class=KRCC>&nbsp;
+<SYNC Start=1161121><P Class=KRCC>손이라니 주제넘게
+<SYNC Start=1166121><P Class=KRCC>&nbsp;
+<SYNC Start=1167392><P Class=KRCC>좋아하긴 하지만..
+<SYNC Start=1169913><P Class=KRCC>&nbsp;
+<SYNC Start=1169914><P Class=KRCC>손이 더 좋지 않을까?
+<SYNC Start=1172209><P Class=KRCC>&nbsp;
+<SYNC Start=1172210><P Class=KRCC>안돼
+<SYNC Start=1173907><P Class=KRCC>&nbsp;
+<SYNC Start=1173908><P Class=KRCC>넌 발로 충분해
+<SYNC Start=1178908><P Class=KRCC>&nbsp;
+<SYNC Start=1185154><P Class=KRCC>이거봐 발로 해주는데도<br>기분 좋아 보이잖아
+<SYNC Start=1189285><P Class=KRCC>&nbsp;
+<SYNC Start=1189286><P Class=KRCC>으...으응... 그게..
+<SYNC Start=1193125><P Class=KRCC>&nbsp;
+<SYNC Start=1193126><P Class=KRCC>누나가 잘하는걸..
+<SYNC Start=1197170><P Class=KRCC>&nbsp;
+<SYNC Start=1197171><P Class=KRCC>누나는 발로도 잘해
+<SYNC Start=1201653><P Class=KRCC>&nbsp;
+<SYNC Start=1201654><P Class=KRCC>왜...
+<SYNC Start=1203723><P Class=KRCC>&nbsp;
+<SYNC Start=1203724><P Class=KRCC>잘하는거야?
+<SYNC Start=1206188><P Class=KRCC>&nbsp;
+<SYNC Start=1206189><P Class=KRCC>뭐든지 잘한다고
+<SYNC Start=1209859><P Class=KRCC>&nbsp;
+<SYNC Start=1209860><P Class=KRCC>어때?
+<SYNC Start=1214290><P Class=KRCC>&nbsp;
+<SYNC Start=1214291><P Class=KRCC>그런것도 할줄 아는거야?
+<SYNC Start=1218124><P Class=KRCC>&nbsp;
+<SYNC Start=1218125><P Class=KRCC>귀두가 엄청 젖어있네
+<SYNC Start=1223125><P Class=KRCC>&nbsp;
+<SYNC Start=1225601><P Class=KRCC>왜 그런지 모르겠는데<br>멋대로 막나와
+<SYNC Start=1229326><P Class=KRCC>&nbsp;
+<SYNC Start=1229327><P Class=KRCC>너무 흥분했네
+<SYNC Start=1232131><P Class=KRCC>&nbsp;
+<SYNC Start=1232132><P Class=KRCC>이거봐
+<SYNC Start=1237132><P Class=KRCC>&nbsp;
+<SYNC Start=1246148><P Class=KRCC>쌔빨가네
+<SYNC Start=1249273><P Class=KRCC>&nbsp;
+<SYNC Start=1249274><P Class=KRCC>귀두가 엄청 빨게 졌어
+<SYNC Start=1254274><P Class=KRCC>&nbsp;
+<SYNC Start=1256172><P Class=KRCC>아 기분좋아
+<SYNC Start=1258567><P Class=KRCC>&nbsp;
+<SYNC Start=1258568><P Class=KRCC>좋아?
+<SYNC Start=1260361><P Class=KRCC>&nbsp;
+<SYNC Start=1260362><P Class=KRCC>응
+<SYNC Start=1262716><P Class=KRCC>&nbsp;
+<SYNC Start=1262717><P Class=KRCC>역시 발을 좋아하네
+<SYNC Start=1266655><P Class=KRCC>&nbsp;
+<SYNC Start=1266656><P Class=KRCC>야
+<SYNC Start=1267265><P Class=KRCC>&nbsp;
+<SYNC Start=1267266><P Class=KRCC>발이 지쳤어
+<SYNC Start=1271033><P Class=KRCC>&nbsp;
+<SYNC Start=1271034><P Class=KRCC>그러니까 손이 낫다니까
+<SYNC Start=1274355><P Class=KRCC>&nbsp;
+<SYNC Start=1274356><P Class=KRCC>안된다니까
+<SYNC Start=1279057><P Class=KRCC>&nbsp;
+<SYNC Start=1279058><P Class=KRCC>자
+<SYNC Start=1280885><P Class=KRCC>&nbsp;
+<SYNC Start=1280886><P Class=KRCC>뭐야? 자 라니?
+<SYNC Start=1282902><P Class=KRCC>&nbsp;
+<SYNC Start=1282903><P Class=KRCC>여기
+<SYNC Start=1284347><P Class=KRCC>&nbsp;
+<SYNC Start=1284348><P Class=KRCC>스스로 해봐
+<SYNC Start=1289225><P Class=KRCC>&nbsp;
+<SYNC Start=1289226><P Class=KRCC>스스로?
+<SYNC Start=1294226><P Class=KRCC>&nbsp;
+<SYNC Start=1295294><P Class=KRCC>이렇게?
+<SYNC Start=1300294><P Class=KRCC>&nbsp;
+<SYNC Start=1302671><P Class=KRCC>좋아?
+<SYNC Start=1307671><P Class=KRCC>&nbsp;
+<SYNC Start=1309076><P Class=KRCC>좋아
+<SYNC Start=1311367><P Class=KRCC>&nbsp;
+<SYNC Start=1311368><P Class=KRCC>누나 발 기분 좋지?
+<SYNC Start=1313964><P Class=KRCC>&nbsp;
+<SYNC Start=1313965><P Class=KRCC>응
+<SYNC Start=1318965><P Class=KRCC>&nbsp;
+<SYNC Start=1320783><P Class=KRCC>가슴도 잘 봐봐
+<SYNC Start=1325783><P Class=KRCC>&nbsp;
+<SYNC Start=1327066><P Class=KRCC>가깝잖아
+<SYNC Start=1330164><P Class=KRCC>&nbsp;
+<SYNC Start=1330165><P Class=KRCC>가슴 보라고 했잖아
+<SYNC Start=1332606><P Class=KRCC>&nbsp;
+<SYNC Start=1332607><P Class=KRCC>그렇게 가까우면 더 안보여
+<SYNC Start=1337607><P Class=KRCC>&nbsp;
+<SYNC Start=1347470><P Class=KRCC>그렇게 가까이서 보면<br>나도 이상한 기분이 되어 버리잖아
+<SYNC Start=1353144><P Class=KRCC>&nbsp;
+<SYNC Start=1353145><P Class=KRCC>이상한 기분이라니?
+<SYNC Start=1357288><P Class=KRCC>&nbsp;
+<SYNC Start=1357289><P Class=KRCC>이상한 기분!
+<SYNC Start=1360403><P Class=KRCC>&nbsp;
+<SYNC Start=1360404><P Class=KRCC>아까 말한 나랑 똑같이<br>쉽게 젖는다는거?
+<SYNC Start=1365404><P Class=KRCC>&nbsp;
+<SYNC Start=1365696><P Class=KRCC>그래<br>- 에? 그런거야?
+<SYNC Start=1369105><P Class=KRCC>&nbsp;
+<SYNC Start=1369106><P Class=KRCC>그게 누나도 쉽게 젖는걸
+<SYNC Start=1371612><P Class=KRCC>&nbsp;
+<SYNC Start=1371613><P Class=KRCC>그건 누나도 흥분했다는 거야?
+<SYNC Start=1374195><P Class=KRCC>&nbsp;
+<SYNC Start=1374196><P Class=KRCC>이렇게되면 나도 흥분되지
+<SYNC Start=1377246><P Class=KRCC>&nbsp;
+<SYNC Start=1377247><P Class=KRCC>이렇게 딱딱해져서
+<SYNC Start=1380444><P Class=KRCC>&nbsp;
+<SYNC Start=1380445><P Class=KRCC>들어왔다가 나갔다가 하면
+<SYNC Start=1384839><P Class=KRCC>&nbsp;
+<SYNC Start=1384840><P Class=KRCC>그런걸 보게되면 흥분하게 되잖아
+<SYNC Start=1391741><P Class=KRCC>&nbsp;
+<SYNC Start=1396458><P Class=KRCC>좀.. 뭐하는 거야?
+<SYNC Start=1399278><P Class=KRCC>&nbsp;
+<SYNC Start=1399279><P Class=KRCC>누나
+<SYNC Start=1401536><P Class=KRCC>&nbsp;
+<SYNC Start=1401537><P Class=KRCC>야한 냄새가나
+<SYNC Start=1403868><P Class=KRCC>&nbsp;
+<SYNC Start=1403869><P Class=KRCC>좀.. 안돼..
+<SYNC Start=1405574><P Class=KRCC>&nbsp;
+<SYNC Start=1405575><P Class=KRCC>건방진 소리 하지마
+<SYNC Start=1410173><P Class=KRCC>&nbsp;
+<SYNC Start=1410174><P Class=KRCC>누워
+<SYNC Start=1415174><P Class=KRCC>&nbsp;
+<SYNC Start=1418091><P Class=KRCC>건방진 소리 하지마
+<SYNC Start=1423091><P Class=KRCC>&nbsp;
+<SYNC Start=1428510><P Class=KRCC>누나.. 아까보다 더.. 좋아<br>압력이 가해져서
+<SYNC Start=1435085><P Class=KRCC>&nbsp;
+<SYNC Start=1435669><P Class=KRCC>이쪽이 더 좋다고?
+<SYNC Start=1438786><P Class=KRCC>&nbsp;
+<SYNC Start=1438787><P Class=KRCC>으응..
+<SYNC Start=1443787><P Class=KRCC>&nbsp;
+<SYNC Start=1450066><P Class=KRCC>빨리 젖꼭지를 보이란 말이야
+<SYNC Start=1452833><P Class=KRCC>&nbsp;
+<SYNC Start=1452834><P Class=KRCC>에.. 젖꼭지?
+<SYNC Start=1457247><P Class=KRCC>&nbsp;
+<SYNC Start=1457248><P Class=KRCC>뜸들이지 말고 빨리 보이라고
+<SYNC Start=1462248><P Class=KRCC>&nbsp;
+<SYNC Start=1473263><P Class=KRCC>누나.. 정말.. 왜 이렇게 발로 잘하는거야?
+<SYNC Start=1478212><P Class=KRCC>&nbsp;
+<SYNC Start=1478213><P Class=KRCC>그냥 잘하는 거야
+<SYNC Start=1483213><P Class=KRCC>&nbsp;
+<SYNC Start=1492354><P Class=KRCC>꼭지로 느끼는구나?
+<SYNC Start=1495388><P Class=KRCC>&nbsp;
+<SYNC Start=1495389><P Class=KRCC>그게..
+<SYNC Start=1497537><P Class=KRCC>&nbsp;
+<SYNC Start=1497538><P Class=KRCC>너무 좋은걸
+<SYNC Start=1500484><P Class=KRCC>&nbsp;
+<SYNC Start=1500485><P Class=KRCC>꼭지가 기분좋지?
+<SYNC Start=1502766><P Class=KRCC>&nbsp;
+<SYNC Start=1502767><P Class=KRCC>응
+<SYNC Start=1507079><P Class=KRCC>&nbsp;
+<SYNC Start=1507080><P Class=KRCC>그럼 이건?
+<SYNC Start=1511320><P Class=KRCC>&nbsp;
+<SYNC Start=1511321><P Class=KRCC>뭐야 그건
+<SYNC Start=1516321><P Class=KRCC>&nbsp;
+<SYNC Start=1517438><P Class=KRCC>누나.. 그거 너무 좋아..
+<SYNC Start=1520366><P Class=KRCC>&nbsp;
+<SYNC Start=1520367><P Class=KRCC>이게 좋아?
+<SYNC Start=1522393><P Class=KRCC>&nbsp;
+<SYNC Start=1522394><P Class=KRCC>응
+<SYNC Start=1527394><P Class=KRCC>&nbsp;
+<SYNC Start=1528116><P Class=KRCC>왜 그런걸 할줄 아는거야?
+<SYNC Start=1532272><P Class=KRCC>&nbsp;
+<SYNC Start=1532273><P Class=KRCC>누나도 연습중이야
+<SYNC Start=1536616><P Class=KRCC>&nbsp;
+<SYNC Start=1536617><P Class=KRCC>아~ 또 이렇게 나오고 있어
+<SYNC Start=1543017><P Class=KRCC>&nbsp;
+<SYNC Start=1543458><P Class=KRCC>와~ 엄청 늘어나네
+<SYNC Start=1549520><P Class=KRCC>&nbsp;
+<SYNC Start=1551803><P Class=KRCC>점점 넘쳐나네
+<SYNC Start=1554803><P Class=KRCC>&nbsp;
+<SYNC Start=1555545><P Class=KRCC>누나도 똑같은거지?
+<SYNC Start=1558406><P Class=KRCC>&nbsp;
+<SYNC Start=1558407><P Class=KRCC>흐음.. 누나도 엄청 나오고 있어
+<SYNC Start=1561407><P Class=KRCC>&nbsp;
+<SYNC Start=1574828><P Class=KRCC>여긴 어때?
+<SYNC Start=1577828><P Class=KRCC>&nbsp;
+<SYNC Start=1578679><P Class=KRCC>부드러운 느낌이 너무 좋아
+<SYNC Start=1581679><P Class=KRCC>&nbsp;
+<SYNC Start=1585196><P Class=KRCC>불알도 실룩실룩 거리고 있어
+<SYNC Start=1588196><P Class=KRCC>&nbsp;
+<SYNC Start=1592534><P Class=KRCC>부끄러워 그런건..
+<SYNC Start=1595534><P Class=KRCC>&nbsp;
+<SYNC Start=1605078><P Class=KRCC>발로 가버려
+<SYNC Start=1607861><P Class=KRCC>&nbsp;
+<SYNC Start=1607862><P Class=KRCC>에~? 발로?
+<SYNC Start=1610862><P Class=KRCC>&nbsp;
+<SYNC Start=1626466><P Class=KRCC>아 너무좋아 격렬해
+<SYNC Start=1629466><P Class=KRCC>&nbsp;
+<SYNC Start=1651263><P Class=KRCC>아~ 엄청나. 실룩실룩
+<SYNC Start=1654263><P Class=KRCC>&nbsp;
+<SYNC Start=1661952><P Class=KRCC>저기... 누나..<br>- 응?
+<SYNC Start=1664952><P Class=KRCC>&nbsp;
+<SYNC Start=1665455><P Class=KRCC>역시 손이 좋겠어
+<SYNC Start=1668455><P Class=KRCC>&nbsp;
+<SYNC Start=1669948><P Class=KRCC>부탁이야
+<SYNC Start=1672413><P Class=KRCC>&nbsp;
+<SYNC Start=1672414><P Class=KRCC>어쩔수 없네
+<SYNC Start=1675414><P Class=KRCC>&nbsp;
+<SYNC Start=1679256><P Class=KRCC>살짝 닿은것만으로
+<SYNC Start=1682256><P Class=KRCC>&nbsp;
+<SYNC Start=1682705><P Class=KRCC>엄청 실룩실룩 거리고 있어
+<SYNC Start=1685705><P Class=KRCC>&nbsp;
+<SYNC Start=1700608><P Class=KRCC>역시.. 손이 좋아
+<SYNC Start=1703608><P Class=KRCC>&nbsp;
+<SYNC Start=1709922><P Class=KRCC>귀두쪽 좋아?<br>- 응
+<SYNC Start=1712922><P Class=KRCC>&nbsp;
+<SYNC Start=1724890><P Class=KRCC>그런식으로 만져주는건 처음이야
+<SYNC Start=1727890><P Class=KRCC>&nbsp;
+<SYNC Start=1728639><P Class=KRCC>그래?
+<SYNC Start=1731212><P Class=KRCC>&nbsp;
+<SYNC Start=1731213><P Class=KRCC>엄청 어리광쟁이 같은 얼굴이 되고있어
+<SYNC Start=1734213><P Class=KRCC>&nbsp;
+<SYNC Start=1734870><P Class=KRCC>에? 어리광쟁이?
+<SYNC Start=1737870><P Class=KRCC>&nbsp;
+<SYNC Start=1737948><P Class=KRCC>옛날부터 어리광쟁이 였잖아
+<SYNC Start=1740948><P Class=KRCC>&nbsp;
+<SYNC Start=1741426><P Class=KRCC>그랬나?
+<SYNC Start=1744426><P Class=KRCC>&nbsp;
+<SYNC Start=1745527><P Class=KRCC>누나는 그런 얼굴 좋아해
+<SYNC Start=1748527><P Class=KRCC>&nbsp;
+<SYNC Start=1750449><P Class=KRCC>그..그래?
+<SYNC Start=1753449><P Class=KRCC>&nbsp;
+<SYNC Start=1756289><P Class=KRCC>에?
+<SYNC Start=1757227><P Class=KRCC>&nbsp;
+<SYNC Start=1757228><P Class=KRCC>누..누나?
+<SYNC Start=1760228><P Class=KRCC>&nbsp;
+<SYNC Start=1767100><P Class=KRCC>미끌미끌한게 기분좋지?<br>- 응
+<SYNC Start=1770100><P Class=KRCC>&nbsp;
+<SYNC Start=1788524><P Class=KRCC>누나<br>- 응?
+<SYNC Start=1791524><P Class=KRCC>&nbsp;
+<SYNC Start=1791915><P Class=KRCC>엉덩이 보고 싶어
+<SYNC Start=1794849><P Class=KRCC>&nbsp;
+<SYNC Start=1794850><P Class=KRCC>엉덩이 보고 싶다고?<br>- 응
+<SYNC Start=1797850><P Class=KRCC>&nbsp;
+<SYNC Start=1797993><P Class=KRCC>음.. 어쩔수 없구나
+<SYNC Start=1800993><P Class=KRCC>&nbsp;
+<SYNC Start=1804882><P Class=KRCC>자
+<SYNC Start=1806939><P Class=KRCC>&nbsp;
+<SYNC Start=1806940><P Class=KRCC>아.. 눈앞에
+<SYNC Start=1809940><P Class=KRCC>&nbsp;
+<SYNC Start=1813500><P Class=KRCC>엉덩이 보여?<br>- 응
+<SYNC Start=1816500><P Class=KRCC>&nbsp;
+<SYNC Start=1817167><P Class=KRCC>가까이서 보여
+<SYNC Start=1820167><P Class=KRCC>&nbsp;
+<SYNC Start=1825613><P Class=KRCC>또 귀여운 얼굴이 되었네
+<SYNC Start=1828613><P Class=KRCC>&nbsp;
+<SYNC Start=1829373><P Class=KRCC>에~? 또?
+<SYNC Start=1832373><P Class=KRCC>&nbsp;
+<SYNC Start=1843708><P Class=KRCC>거기.. 불알 너무 좋아
+<SYNC Start=1846489><P Class=KRCC>&nbsp;
+<SYNC Start=1846490><P Class=KRCC>불알도 좋은거야?<br>- 응
+<SYNC Start=1849490><P Class=KRCC>&nbsp;
+<SYNC Start=1865643><P Class=KRCC>이게 좋은거야?
+<SYNC Start=1868643><P Class=KRCC>&nbsp;
+<SYNC Start=1870752><P Class=KRCC>그거 너무 좋아
+<SYNC Start=1872236><P Class=KRCC>&nbsp;
+<SYNC Start=1872237><P Class=KRCC>아.. 누나..그거 너무 기분 좋아
+<SYNC Start=1875237><P Class=KRCC>&nbsp;
+<SYNC Start=1880497><P Class=KRCC>누나..
+<SYNC Start=1882081><P Class=KRCC>&nbsp;
+<SYNC Start=1882082><P Class=KRCC>야
+<SYNC Start=1883732><P Class=KRCC>&nbsp;
+<SYNC Start=1883733><P Class=KRCC>안돼!
+<SYNC Start=1885501><P Class=KRCC>&nbsp;
+<SYNC Start=1885502><P Class=KRCC>뭐 하는 거야
+<SYNC Start=1887000><P Class=KRCC>&nbsp;
+<SYNC Start=1887001><P Class=KRCC>너무 보고 싶은걸
+<SYNC Start=1890001><P Class=KRCC>&nbsp;
+<SYNC Start=1890484><P Class=KRCC>안돼?
+<SYNC Start=1892125><P Class=KRCC>&nbsp;
+<SYNC Start=1892126><P Class=KRCC>아 정말
+<SYNC Start=1893810><P Class=KRCC>&nbsp;
+<SYNC Start=1893811><P Class=KRCC>안돼!
+<SYNC Start=1895841><P Class=KRCC>&nbsp;
+<SYNC Start=1895842><P Class=KRCC>야
+<SYNC Start=1897234><P Class=KRCC>&nbsp;
+<SYNC Start=1897235><P Class=KRCC>보고 싶단 말이야
+<SYNC Start=1898883><P Class=KRCC>&nbsp;
+<SYNC Start=1898884><P Class=KRCC>살짝만 볼게
+<SYNC Start=1900109><P Class=KRCC>&nbsp;
+<SYNC Start=1900110><P Class=KRCC>벌써 다 보이네
+<SYNC Start=1903110><P Class=KRCC>&nbsp;
+<SYNC Start=1907358><P Class=KRCC>그럼 나도 정액 나오는걸 보고 싶은데
+<SYNC Start=1910358><P Class=KRCC>&nbsp;
+<SYNC Start=1924172><P Class=KRCC>야
+<SYNC Start=1925344><P Class=KRCC>&nbsp;
+<SYNC Start=1925345><P Class=KRCC>이제 싸고 싶지?
+<SYNC Start=1927701><P Class=KRCC>&nbsp;
+<SYNC Start=1927702><P Class=KRCC>으응.. 싸고 싶어
+<SYNC Start=1930702><P Class=KRCC>&nbsp;
+<SYNC Start=1933832><P Class=KRCC>그럼 많이 싸야돼
+<SYNC Start=1935985><P Class=KRCC>&nbsp;
+<SYNC Start=1935986><P Class=KRCC>싸도 돼?
+<SYNC Start=1938986><P Class=KRCC>&nbsp;
+<SYNC Start=1943516><P Class=KRCC>좋아?
+<SYNC Start=1946516><P Class=KRCC>&nbsp;
+<SYNC Start=1948383><P Class=KRCC>이렇게?
+<SYNC Start=1951383><P Class=KRCC>&nbsp;
+<SYNC Start=1952520><P Class=KRCC>누나
+<SYNC Start=1954541><P Class=KRCC>&nbsp;
+<SYNC Start=1954542><P Class=KRCC>응?
+<SYNC Start=1955835><P Class=KRCC>&nbsp;
+<SYNC Start=1955836><P Class=KRCC>불알도 만져줘
+<SYNC Start=1958672><P Class=KRCC>&nbsp;
+<SYNC Start=1958673><P Class=KRCC>여기?
+<SYNC Start=1961168><P Class=KRCC>&nbsp;
+<SYNC Start=1961169><P Class=KRCC>정말 자기 멋대로야
+<SYNC Start=1964169><P Class=KRCC>&nbsp;
+<SYNC Start=1972744><P Class=KRCC>좋아?<br>- 응
+<SYNC Start=1975744><P Class=KRCC>&nbsp;
+<SYNC Start=1992500><P Class=KRCC>누나..<br>- 응?
+<SYNC Start=1994604><P Class=KRCC>&nbsp;
+<SYNC Start=1994605><P Class=KRCC>싸도 돼?
+<SYNC Start=1996929><P Class=KRCC>&nbsp;
+<SYNC Start=1996930><P Class=KRCC>많이 싸도 돼
+<SYNC Start=1999930><P Class=KRCC>&nbsp;
+<SYNC Start=2002316><P Class=KRCC>나올거 같아?<br>- 응
+<SYNC Start=2005316><P Class=KRCC>&nbsp;
+<SYNC Start=2006978><P Class=KRCC>만이 싸줘
+<SYNC Start=2009978><P Class=KRCC>&nbsp;
+<SYNC Start=2021361><P Class=KRCC>아 누나.. 나온다
+<SYNC Start=2024361><P Class=KRCC>&nbsp;
+<SYNC Start=2027843><P Class=KRCC>아~ 엄청나
+<SYNC Start=2030843><P Class=KRCC>&nbsp;
+<SYNC Start=2034899><P Class=KRCC>많이 나왔어
+<SYNC Start=2037899><P Class=KRCC>&nbsp;
+<SYNC Start=2044764><P Class=KRCC>대단하네
+<SYNC Start=2047764><P Class=KRCC>&nbsp;
+<SYNC Start=2049911><P Class=KRCC>이렇게 많이 나왔어
+<SYNC Start=2052911><P Class=KRCC>&nbsp;
+<SYNC Start=2069836><P Class=KRCC>많이 나왔네
+<SYNC Start=2072836><P Class=KRCC>&nbsp;
+<SYNC Start=2074087><P Class=KRCC>응.. 엄청 기분 좋았어
+<SYNC Start=2077087><P Class=KRCC>&nbsp;
+<SYNC Start=2078417><P Class=KRCC>좋았어?<br>- 응
+<SYNC Start=2081417><P Class=KRCC>&nbsp;
+<SYNC Start=2087721><P Class=KRCC>그럼 내 새 수영복 봐줘야돼
+<SYNC Start=2090721><P Class=KRCC>&nbsp;
+<SYNC Start=2091112><P Class=KRCC>약속이야<br>- 응
+<SYNC Start=2094112><P Class=KRCC>&nbsp;
+<SYNC Start=2094238><P Class=KRCC>알았어
+<SYNC Start=2097238><P Class=KRCC>&nbsp;
+<SYNC Start=2106107><P Class=KRCC>누나..
+<SYNC Start=2109107><P Class=KRCC>&nbsp;
+<SYNC Start=2109110><P Class=KRCC>뭐 하는 거야<br>더이상 안돼..
+<SYNC Start=2112110><P Class=KRCC>&nbsp;
+<SYNC Start=2121678><P Class=KRCC>아~ 진짜 타카쇼(이름 줄임말)다<br>엄청나~~
+<SYNC Start=2124678><P Class=KRCC>&nbsp;
+<SYNC Start=2126513><P Class=KRCC>아 안녕하세요<br>- 안녕하세요
+<SYNC Start=2128218><P Class=KRCC>&nbsp;
+<SYNC Start=2128219><P Class=KRCC>자.. 잠깐..
+<SYNC Start=2129331><P Class=KRCC>&nbsp;
+<SYNC Start=2129332><P Class=KRCC>기다려봐
+<SYNC Start=2130054><P Class=KRCC>&nbsp;
+<SYNC Start=2130055><P Class=KRCC>좋네 좋아
+<SYNC Start=2131650><P Class=KRCC>&nbsp;
+<SYNC Start=2131651><P Class=KRCC>누나 또 왜 그런 야한<br>복장을 하고 있는 거야
+<SYNC Start=2134651><P Class=KRCC>&nbsp;
+<SYNC Start=2135302><P Class=KRCC>뭐가 야해
+<SYNC Start=2137447><P Class=KRCC>&nbsp;
+<SYNC Start=2137448><P Class=KRCC>야하다니까
+<SYNC Start=2138885><P Class=KRCC>&nbsp;
+<SYNC Start=2138886><P Class=KRCC>부끄럽지도 안아?
+<SYNC Start=2140477><P Class=KRCC>&nbsp;
+<SYNC Start=2140478><P Class=KRCC>이런건 끈이나 마찬가지잖아
+<SYNC Start=2142479><P Class=KRCC>&nbsp;
+<SYNC Start=2142480><P Class=KRCC>야하지도 않고<br>괜찮다니까
+<SYNC Start=2144747><P Class=KRCC>&nbsp;
+<SYNC Start=2144748><P Class=KRCC>아니 우리집이니까
+<SYNC Start=2147202><P Class=KRCC>&nbsp;
+<SYNC Start=2147203><P Class=KRCC>그런건 일할때만 입어
+<SYNC Start=2149103><P Class=KRCC>&nbsp;
+<SYNC Start=2149104><P Class=KRCC>에?
+<SYNC Start=2150080><P Class=KRCC>&nbsp;
+<SYNC Start=2150081><P Class=KRCC>괜찮잖아
+<SYNC Start=2151180><P Class=KRCC>&nbsp;
+<SYNC Start=2151181><P Class=KRCC>저기. 너무 가까이서 찍지마요
+<SYNC Start=2153305><P Class=KRCC>&nbsp;
+<SYNC Start=2153306><P Class=KRCC>누나는 부끄럽지도 않아?
+<SYNC Start=2154808><P Class=KRCC>&nbsp;
+<SYNC Start=2154809><P Class=KRCC>하나도 안부끄러워
+<SYNC Start=2157809><P Class=KRCC>&nbsp;
+<SYNC Start=2158173><P Class=KRCC>의자!
+<SYNC Start=2160939><P Class=KRCC>&nbsp;
+<SYNC Start=2160940><P Class=KRCC>네...네..
+<SYNC Start=2163940><P Class=KRCC>&nbsp;
+<SYNC Start=2166770><P Class=KRCC>에?
+<SYNC Start=2167666><P Class=KRCC>&nbsp;
+<SYNC Start=2167667><P Class=KRCC>뭐야 그거~
+<SYNC Start=2169068><P Class=KRCC>&nbsp;
+<SYNC Start=2169069><P Class=KRCC>치사하게~
+<SYNC Start=2170585><P Class=KRCC>&nbsp;
+<SYNC Start=2170586><P Class=KRCC>나랑 바꾸자
+<SYNC Start=2173126><P Class=KRCC>&nbsp;
+<SYNC Start=2173127><P Class=KRCC>의자가 되고 싶다. 나도<br>부러워 죽겠어
+<SYNC Start=2176977><P Class=KRCC>&nbsp;
+<SYNC Start=2176978><P Class=KRCC>부럽다고?
+<SYNC Start=2179023><P Class=KRCC>&nbsp;
+<SYNC Start=2179024><P Class=KRCC>근데 누구야?
+<SYNC Start=2181290><P Class=KRCC>&nbsp;
+<SYNC Start=2181291><P Class=KRCC>아아. 내 친구
+<SYNC Start=2183103><P Class=KRCC>&nbsp;
+<SYNC Start=2183104><P Class=KRCC>사진 동호회에 가입했고<br>아이돌 오타쿠야
+<SYNC Start=2186104><P Class=KRCC>&nbsp;
+<SYNC Start=2187022><P Class=KRCC>누나 새 수영복 체크해준다니까<br>따라와 버렸어
+<SYNC Start=2190022><P Class=KRCC>&nbsp;
+<SYNC Start=2193501><P Class=KRCC>죄송해요
+<SYNC Start=2195297><P Class=KRCC>&nbsp;
+<SYNC Start=2195298><P Class=KRCC>누나가 타카쇼라고 해서<br>진짜인지 확인해보려고 따라 왔어요
+<SYNC Start=2200860><P Class=KRCC>&nbsp;
+<SYNC Start=2201076><P Class=KRCC>아 저는 이미지 비디오(IV)라던가<br>그라비아 같은걸 자주봐요
+<SYNC Start=2206169><P Class=KRCC>&nbsp;
+<SYNC Start=2206671><P Class=KRCC>그래서 제대로 체크 해드릴수 잇는데
+<SYNC Start=2209364><P Class=KRCC>&nbsp;
+<SYNC Start=2209365><P Class=KRCC>정말?
+<SYNC Start=2210701><P Class=KRCC>&nbsp;
+<SYNC Start=2210702><P Class=KRCC>그럼 여러가지 포즈 취해볼테니까
+<SYNC Start=2213268><P Class=KRCC>&nbsp;
+<SYNC Start=2213269><P Class=KRCC>그 카메라로 찍어줘
+<SYNC Start=2216269><P Class=KRCC>&nbsp;
+<SYNC Start=2216383><P Class=KRCC>네!
+<SYNC Start=2219383><P Class=KRCC>&nbsp;
+<SYNC Start=2221961><P Class=KRCC>그럼 벗을게<br>- 네
+<SYNC Start=2224961><P Class=KRCC>&nbsp;
+<SYNC Start=2228154><P Class=KRCC>오오~~
+<SYNC Start=2229993><P Class=KRCC>&nbsp;
+<SYNC Start=2229994><P Class=KRCC>대단해
+<SYNC Start=2231766><P Class=KRCC>&nbsp;
+<SYNC Start=2231767><P Class=KRCC>누나 엄청난 복장인데
+<SYNC Start=2234767><P Class=KRCC>&nbsp;
+<SYNC Start=2235630><P Class=KRCC>진짜다
+<SYNC Start=2237892><P Class=KRCC>&nbsp;
+<SYNC Start=2237893><P Class=KRCC>그럼 찍어봐<br>- 네 부탁드릴게요
+<SYNC Start=2240893><P Class=KRCC>&nbsp;
+<SYNC Start=2243064><P Class=KRCC>와~ 쩐다
+<SYNC Start=2246064><P Class=KRCC>&nbsp;
+<SYNC Start=2246295><P Class=KRCC>이쪽 봐줘요
+<SYNC Start=2248753><P Class=KRCC>&nbsp;
+<SYNC Start=2248754><P Class=KRCC>네 귀엽고요~
+<SYNC Start=2251754><P Class=KRCC>&nbsp;
+<SYNC Start=2252069><P Class=KRCC>아 왔다 왔어
+<SYNC Start=2255069><P Class=KRCC>&nbsp;
+<SYNC Start=2265456><P Class=KRCC>겨드랑이 최고
+<SYNC Start=2267576><P Class=KRCC>&nbsp;
+<SYNC Start=2267577><P Class=KRCC>엉덩이도 귀엽네
+<SYNC Start=2270387><P Class=KRCC>&nbsp;
+<SYNC Start=2270388><P Class=KRCC>진짜는 정말 다르네
+<SYNC Start=2273388><P Class=KRCC>&nbsp;
+<SYNC Start=2275647><P Class=KRCC>아 이쪽도 봐줘요
+<SYNC Start=2278228><P Class=KRCC>&nbsp;
+<SYNC Start=2278229><P Class=KRCC>귀엽네
+<SYNC Start=2281229><P Class=KRCC>&nbsp;
+<SYNC Start=2289843><P Class=KRCC>가슴 모으는 포즈 같은것도 부탁드려요
+<SYNC Start=2292014><P Class=KRCC>&nbsp;
+<SYNC Start=2292015><P Class=KRCC>이렇게?<br>- 아~ 그거에요 그거
+<SYNC Start=2295015><P Class=KRCC>&nbsp;
+<SYNC Start=2296229><P Class=KRCC>좋네~
+<SYNC Start=2297342><P Class=KRCC>&nbsp;
+<SYNC Start=2297343><P Class=KRCC>네 그렇게 쳐다봐 줘요
+<SYNC Start=2299786><P Class=KRCC>&nbsp;
+<SYNC Start=2299787><P Class=KRCC>아 사랑에 빠질거같아<br>그렇게 쳐다보면
+<SYNC Start=2302787><P Class=KRCC>&nbsp;
+<SYNC Start=2306594><P Class=KRCC>밑에서도 찍어도돼?<br>- 그래~
+<SYNC Start=2309180><P Class=KRCC>&nbsp;
+<SYNC Start=2309181><P Class=KRCC>내려다 봐줘
+<SYNC Start=2311578><P Class=KRCC>&nbsp;
+<SYNC Start=2311579><P Class=KRCC>아~ 최고!
+<SYNC Start=2313674><P Class=KRCC>&nbsp;
+<SYNC Start=2313675><P Class=KRCC>이쪽이 더 나은거 같네<br>- 정말?
+<SYNC Start=2315834><P Class=KRCC>&nbsp;
+<SYNC Start=2315835><P Class=KRCC>더 내려다 봐줘요
+<SYNC Start=2317719><P Class=KRCC>&nbsp;
+<SYNC Start=2317720><P Class=KRCC>응?
+<SYNC Start=2318419><P Class=KRCC>&nbsp;
+<SYNC Start=2318420><P Class=KRCC>쓰레기라고 생각하고<br>내려다 봐줘
+<SYNC Start=2320469><P Class=KRCC>&nbsp;
+<SYNC Start=2320470><P Class=KRCC>째려봐
+<SYNC Start=2322216><P Class=KRCC>&nbsp;
+<SYNC Start=2322217><P Class=KRCC>아~ 좋네
+<SYNC Start=2323495><P Class=KRCC>&nbsp;
+<SYNC Start=2323496><P Class=KRCC>혼나고 싶네
+<SYNC Start=2325436><P Class=KRCC>&nbsp;
+<SYNC Start=2325437><P Class=KRCC>좋구만~
+<SYNC Start=2326805><P Class=KRCC>&nbsp;
+<SYNC Start=2326806><P Class=KRCC>다음에는 저한테도 앉아주세요
+<SYNC Start=2329806><P Class=KRCC>&nbsp;
+<SYNC Start=2334125><P Class=KRCC>아~ 귀여워
+<SYNC Start=2337125><P Class=KRCC>&nbsp;
+<SYNC Start=2337219><P Class=KRCC>좀 더 다른 포즈를 보고싶은데요
+<SYNC Start=2339715><P Class=KRCC>&nbsp;
+<SYNC Start=2339716><P Class=KRCC>에? 어쩌지?
+<SYNC Start=2341655><P Class=KRCC>&nbsp;
+<SYNC Start=2341656><P Class=KRCC>앉아서<br>- 앉아?
+<SYNC Start=2344656><P Class=KRCC>&nbsp;
+<SYNC Start=2347334><P Class=KRCC>아~ 좋아
+<SYNC Start=2350334><P Class=KRCC>&nbsp;
+<SYNC Start=2352559><P Class=KRCC>본적있는데 그거
+<SYNC Start=2355559><P Class=KRCC>&nbsp;
+<SYNC Start=2356281><P Class=KRCC>거긴 됐어<br>- 아니. 삐져나온 털이 있나
+<SYNC Start=2359281><P Class=KRCC>&nbsp;
+<SYNC Start=2359551><P Class=KRCC>체크해볼게요<br>- 싫어~
+<SYNC Start=2360951><P Class=KRCC>&nbsp;
+<SYNC Start=2360952><P Class=KRCC>이게 타카쇼의 삐져나온 털이구나!<br>- 싫어~
+<SYNC Start=2363378><P Class=KRCC>&nbsp;
+<SYNC Start=2363379><P Class=KRCC>엄청나~<br>- 삐져 나왔어?
+<SYNC Start=2365708><P Class=KRCC>&nbsp;
+<SYNC Start=2365709><P Class=KRCC>완전 레어네
+<SYNC Start=2366759><P Class=KRCC>&nbsp;
+<SYNC Start=2366760><P Class=KRCC>너무 가깝지 않냐?
+<SYNC Start=2367767><P Class=KRCC>&nbsp;
+<SYNC Start=2367768><P Class=KRCC>아니 체크하는 거니까
+<SYNC Start=2368809><P Class=KRCC>&nbsp;
+<SYNC Start=2368810><P Class=KRCC>그...그래?
+<SYNC Start=2370217><P Class=KRCC>&nbsp;
+<SYNC Start=2370218><P Class=KRCC>그렇죠?<br>- 응
+<SYNC Start=2373218><P Class=KRCC>&nbsp;
+<SYNC Start=2374353><P Class=KRCC>그렇게 연사하면 흥분돼
+<SYNC Start=2376550><P Class=KRCC>&nbsp;
+<SYNC Start=2376551><P Class=KRCC>에?
+<SYNC Start=2378302><P Class=KRCC>&nbsp;
+<SYNC Start=2378303><P Class=KRCC>흥분이요?
+<SYNC Start=2381077><P Class=KRCC>&nbsp;
+<SYNC Start=2381078><P Class=KRCC>역시 그라돌은<br>찍힐때 흥분되나요?
+<SYNC Start=2384078><P Class=KRCC>&nbsp;
+<SYNC Start=2385072><P Class=KRCC>응
+<SYNC Start=2386214><P Class=KRCC>&nbsp;
+<SYNC Start=2386215><P Class=KRCC>그라돌도 흥분하지<br>- 와~~
+<SYNC Start=2388954><P Class=KRCC>&nbsp;
+<SYNC Start=2388955><P Class=KRCC>그랬구나 누나.
+<SYNC Start=2391393><P Class=KRCC>&nbsp;
+<SYNC Start=2391394><P Class=KRCC>이러다 꼭지가 나오겠다
+<SYNC Start=2394394><P Class=KRCC>&nbsp;
+<SYNC Start=2394485><P Class=KRCC>찍어줘 찍어줘<br>- 네~
+<SYNC Start=2397485><P Class=KRCC>&nbsp;
+<SYNC Start=2397791><P Class=KRCC>그럼 서비스 좀 해줄까?
+<SYNC Start=2399389><P Class=KRCC>&nbsp;
+<SYNC Start=2399390><P Class=KRCC>네? 서비스요?
+<SYNC Start=2401440><P Class=KRCC>&nbsp;
+<SYNC Start=2401441><P Class=KRCC>이건 어때?
+<SYNC Start=2402515><P Class=KRCC>&nbsp;
+<SYNC Start=2402516><P Class=KRCC>아~~~↗
+<SYNC Start=2404557><P Class=KRCC>&nbsp;
+<SYNC Start=2404558><P Class=KRCC>쩔어~~~
+<SYNC Start=2407558><P Class=KRCC>&nbsp;
+<SYNC Start=2408105><P Class=KRCC>아~ 타카쇼의
+<SYNC Start=2410750><P Class=KRCC>&nbsp;
+<SYNC Start=2410751><P Class=KRCC>어라? 이거 좀 삐져나온거 아니야?<br>- 응? 나왔어?
+<SYNC Start=2413751><P Class=KRCC>&nbsp;
+<SYNC Start=2413963><P Class=KRCC>잠깐 누나..<br>너무 야해
+<SYNC Start=2415866><P Class=KRCC>&nbsp;
+<SYNC Start=2415867><P Class=KRCC>그래?
+<SYNC Start=2417248><P Class=KRCC>&nbsp;
+<SYNC Start=2417249><P Class=KRCC>삐져나오면 큰일 이잖아
+<SYNC Start=2419275><P Class=KRCC>&nbsp;
+<SYNC Start=2419276><P Class=KRCC>아니 체크하는 거니까<br>- 응
+<SYNC Start=2421662><P Class=KRCC>&nbsp;
+<SYNC Start=2421663><P Class=KRCC>그렇지~
+<SYNC Start=2423037><P Class=KRCC>&nbsp;
+<SYNC Start=2423038><P Class=KRCC>아 다시 안보인다
+<SYNC Start=2426021><P Class=KRCC>&nbsp;
+<SYNC Start=2426022><P Class=KRCC>잠깐.. 안된다니까 그 이상은
+<SYNC Start=2428089><P Class=KRCC>&nbsp;
+<SYNC Start=2428090><P Class=KRCC>자 빨리 봐봐
+<SYNC Start=2430120><P Class=KRCC>&nbsp;
+<SYNC Start=2430121><P Class=KRCC>좀 더 얇게 부탁드립니다~<br>- 좀 더 얇게?
+<SYNC Start=2433121><P Class=KRCC>&nbsp;
+<SYNC Start=2433246><P Class=KRCC>안돼지.<br>너 뭐하는건데
+<SYNC Start=2435591><P Class=KRCC>&nbsp;
+<SYNC Start=2435592><P Class=KRCC>누나는 또 왜 그걸 하는건데
+<SYNC Start=2438209><P Class=KRCC>&nbsp;
+<SYNC Start=2438210><P Class=KRCC>아 진짜..
+<SYNC Start=2441210><P Class=KRCC>&nbsp;
+<SYNC Start=2441327><P Class=KRCC>우와..
+<SYNC Start=2443985><P Class=KRCC>&nbsp;
+<SYNC Start=2443986><P Class=KRCC>왠지 신이나기 시작했어
+<SYNC Start=2446101><P Class=KRCC>&nbsp;
+<SYNC Start=2446102><P Class=KRCC>신나셧어요?<br>- 응
+<SYNC Start=2448907><P Class=KRCC>&nbsp;
+<SYNC Start=2448908><P Class=KRCC>그럼 좀 더 찍어봐<br>- 네!
+<SYNC Start=2451908><P Class=KRCC>&nbsp;
+<SYNC Start=2453220><P Class=KRCC>아~ 찍자 찍어
+<SYNC Start=2456220><P Class=KRCC>&nbsp;
+<SYNC Start=2457288><P Class=KRCC>아~ 좋네
+<SYNC Start=2459553><P Class=KRCC>&nbsp;
+<SYNC Start=2459554><P Class=KRCC>M자<br>- 뭡니까 그건!<br><font color="#0080ff">(M자 포즈. 그라비아에선 유명한 포즈)</font>
+<SYNC Start=2462554><P Class=KRCC>&nbsp;
+<SYNC Start=2464077><P Class=KRCC>좋아~ 체크다 체크
+<SYNC Start=2467077><P Class=KRCC>&nbsp;
+<SYNC Start=2468007><P Class=KRCC>아~ 타카쇼의 삐져나온 털
+<SYNC Start=2470931><P Class=KRCC>&nbsp;
+<SYNC Start=2470932><P Class=KRCC>두번째야 두번째
+<SYNC Start=2473153><P Class=KRCC>&nbsp;
+<SYNC Start=2473154><P Class=KRCC>삐져 나왔다고?
+<SYNC Start=2474757><P Class=KRCC>&nbsp;
+<SYNC Start=2474758><P Class=KRCC>나왔어요~
+<SYNC Start=2477218><P Class=KRCC>&nbsp;
+<SYNC Start=2477219><P Class=KRCC>최고야 최고
+<SYNC Start=2479171><P Class=KRCC>&nbsp;
+<SYNC Start=2479172><P Class=KRCC>너무 가깝다니까
+<SYNC Start=2481621><P Class=KRCC>&nbsp;
+<SYNC Start=2481622><P Class=KRCC>가까워야 체크가 되지<br>- 털 밖에 안찍히는거 아니야?
+<SYNC Start=2484622><P Class=KRCC>&nbsp;
+<SYNC Start=2484995><P Class=KRCC>많이 찍었지
+<SYNC Start=2486533><P Class=KRCC>&nbsp;
+<SYNC Start=2486534><P Class=KRCC>가까워
+<SYNC Start=2488181><P Class=KRCC>&nbsp;
+<SYNC Start=2488182><P Class=KRCC>혀 메롱하고 내밀어 봐요<br>아 그거에요 그거 *페코짱 페코짱<br><font color="#0080ff">(과자 표지 캐릭터. 혀를 내밀고 있음)</font>
+<SYNC Start=2491182><P Class=KRCC>&nbsp;
+<SYNC Start=2491828><P Class=KRCC>귀엽네~
+<SYNC Start=2492961><P Class=KRCC>&nbsp;
+<SYNC Start=2492962><P Class=KRCC>한번더 한번더
+<SYNC Start=2494147><P Class=KRCC>&nbsp;
+<SYNC Start=2494148><P Class=KRCC>페코짱 아~~↗
+<SYNC Start=2496783><P Class=KRCC>&nbsp;
+<SYNC Start=2496784><P Class=KRCC>흥분 되잖아
+<SYNC Start=2499784><P Class=KRCC>&nbsp;
+<SYNC Start=2503868><P Class=KRCC>아 귀엽고 야하네
+<SYNC Start=2506868><P Class=KRCC>&nbsp;
+<SYNC Start=2510105><P Class=KRCC>그렇게 가까이오면<br>이상한 기분이 되어버려
+<SYNC Start=2513105><P Class=KRCC>&nbsp;
+<SYNC Start=2513451><P Class=KRCC>에? 이상한 기분이라뇨?
+<SYNC Start=2516451><P Class=KRCC>&nbsp;
+<SYNC Start=2516459><P Class=KRCC>이상한 기분이란게 뭔가요?
+<SYNC Start=2518007><P Class=KRCC>&nbsp;
+<SYNC Start=2518008><P Class=KRCC>야한 기분<br>- 와~~
+<SYNC Start=2519678><P Class=KRCC>&nbsp;
+<SYNC Start=2519679><P Class=KRCC>누나 무슨말을 하는거야
+<SYNC Start=2521711><P Class=KRCC>&nbsp;
+<SYNC Start=2521712><P Class=KRCC>그라돌도 야한기분이 되는건가요?
+<SYNC Start=2524541><P Class=KRCC>&nbsp;
+<SYNC Start=2524542><P Class=KRCC>야한 기분이 되지<br>- 와~
+<SYNC Start=2527542><P Class=KRCC>&nbsp;
+<SYNC Start=2528814><P Class=KRCC>최고야
+<SYNC Start=2531814><P Class=KRCC>&nbsp;
+<SYNC Start=2532917><P Class=KRCC>좀 더 야한기분이 되어 봐요
+<SYNC Start=2535479><P Class=KRCC>&nbsp;
+<SYNC Start=2535480><P Class=KRCC>음란한 표정을 찍고 싶어요
+<SYNC Start=2538480><P Class=KRCC>&nbsp;
+<SYNC Start=2540460><P Class=KRCC>어!
+<SYNC Start=2541721><P Class=KRCC>&nbsp;
+<SYNC Start=2541722><P Class=KRCC>와.. 좋네
+<SYNC Start=2544722><P Class=KRCC>&nbsp;
+<SYNC Start=2548242><P Class=KRCC>아 엄청납니다
+<SYNC Start=2550852><P Class=KRCC>&nbsp;
+<SYNC Start=2550853><P Class=KRCC>타카쇼
+<SYNC Start=2552548><P Class=KRCC>&nbsp;
+<SYNC Start=2552549><P Class=KRCC>엎드려 볼래요?<br>- 엎드려?
+<SYNC Start=2555549><P Class=KRCC>&nbsp;
+<SYNC Start=2556845><P Class=KRCC>최고네
+<SYNC Start=2559400><P Class=KRCC>&nbsp;
+<SYNC Start=2559401><P Class=KRCC>아~ 귀여워
+<SYNC Start=2562401><P Class=KRCC>&nbsp;
+<SYNC Start=2563393><P Class=KRCC>이렇게 해봐요<br>아~ 좋네
+<SYNC Start=2566393><P Class=KRCC>&nbsp;
+<SYNC Start=2566648><P Class=KRCC>아~ 최고
+<SYNC Start=2567896><P Class=KRCC>&nbsp;
+<SYNC Start=2567897><P Class=KRCC>키우고 싶어<br>집에서 키우고 싶어
+<SYNC Start=2570897><P Class=KRCC>&nbsp;
+<SYNC Start=2571968><P Class=KRCC>좋네
+<SYNC Start=2573174><P Class=KRCC>&nbsp;
+<SYNC Start=2573175><P Class=KRCC>암표범이야?<br>- 암표범
+<SYNC Start=2576175><P Class=KRCC>&nbsp;
+<SYNC Start=2578331><P Class=KRCC>야
+<SYNC Start=2580367><P Class=KRCC>&nbsp;
+<SYNC Start=2580368><P Class=KRCC>치사하게<br>나도 엉덩이 찍고 싶다고
+<SYNC Start=2582724><P Class=KRCC>&nbsp;
+<SYNC Start=2582725><P Class=KRCC>바꿔 바꿔
+<SYNC Start=2585725><P Class=KRCC>&nbsp;
+<SYNC Start=2586554><P Class=KRCC>엉덩이 흔들어~
+<SYNC Start=2588340><P Class=KRCC>&nbsp;
+<SYNC Start=2588341><P Class=KRCC>부탁해요~
+<SYNC Start=2590174><P Class=KRCC>&nbsp;
+<SYNC Start=2590175><P Class=KRCC>탱탱~ 탱탱~
+<SYNC Start=2591613><P Class=KRCC>&nbsp;
+<SYNC Start=2591614><P Class=KRCC>그래~ 그렇게 8을 그리면서
+<SYNC Start=2594614><P Class=KRCC>&nbsp;
+<SYNC Start=2595377><P Class=KRCC>네. 삐져나온털 체크 하겠습니다
+<SYNC Start=2598152><P Class=KRCC>&nbsp;
+<SYNC Start=2598153><P Class=KRCC>뭐 하는 거야
+<SYNC Start=2600676><P Class=KRCC>&nbsp;
+<SYNC Start=2600677><P Class=KRCC>어라?
+<SYNC Start=2603627><P Class=KRCC>&nbsp;
+<SYNC Start=2603628><P Class=KRCC>어라?<br>- 왜?
+<SYNC Start=2605811><P Class=KRCC>&nbsp;
+<SYNC Start=2605812><P Class=KRCC>이건?
+<SYNC Start=2607592><P Class=KRCC>&nbsp;
+<SYNC Start=2607593><P Class=KRCC>이건 보물 인데요
+<SYNC Start=2610086><P Class=KRCC>&nbsp;
+<SYNC Start=2610087><P Class=KRCC>타카쇼 보물을 찾았어요
+<SYNC Start=2612724><P Class=KRCC>&nbsp;
+<SYNC Start=2612725><P Class=KRCC>젖은 얼룩이
+<SYNC Start=2615333><P Class=KRCC>&nbsp;
+<SYNC Start=2615334><P Class=KRCC>에? 진짜?
+<SYNC Start=2617444><P Class=KRCC>&nbsp;
+<SYNC Start=2617445><P Class=KRCC>젖었다!<br>- 싫어~
+<SYNC Start=2618782><P Class=KRCC>&nbsp;
+<SYNC Start=2618783><P Class=KRCC>보물 발견!<br>- 좀.. 누나
+<SYNC Start=2620914><P Class=KRCC>&nbsp;
+<SYNC Start=2620915><P Class=KRCC>뭐야 그게
+<SYNC Start=2622534><P Class=KRCC>&nbsp;
+<SYNC Start=2622535><P Class=KRCC>그게. 흥분되는걸 어떻게해<br>- 흥분?
+<SYNC Start=2625449><P Class=KRCC>&nbsp;
+<SYNC Start=2625450><P Class=KRCC>뭡니까 이 젖은건
+<SYNC Start=2628450><P Class=KRCC>&nbsp;
+<SYNC Start=2628516><P Class=KRCC>타카쇼 왜 젖어 있지요?
+<SYNC Start=2630337><P Class=KRCC>&nbsp;
+<SYNC Start=2630338><P Class=KRCC>에..그게..
+<SYNC Start=2631735><P Class=KRCC>&nbsp;
+<SYNC Start=2631736><P Class=KRCC>그렇게 찍어대니까 젖어버리지
+<SYNC Start=2633615><P Class=KRCC>&nbsp;
+<SYNC Start=2633616><P Class=KRCC>좀 더 제대로 보고 싶으니까<br>M자로 다시 취해봐요
+<SYNC Start=2635814><P Class=KRCC>&nbsp;
+<SYNC Start=2635815><P Class=KRCC>M자?<br>- 응
+<SYNC Start=2638716><P Class=KRCC>&nbsp;
+<SYNC Start=2638717><P Class=KRCC>이렇게?<br>- 아~ 그렇게요. 여기까지 와봐요
+<SYNC Start=2641717><P Class=KRCC>&nbsp;
+<SYNC Start=2642412><P Class=KRCC>아~흐
+<SYNC Start=2645412><P Class=KRCC>&nbsp;
+<SYNC Start=2646215><P Class=KRCC>축축한데?<br>- 싫어~
+<SYNC Start=2649215><P Class=KRCC>&nbsp;
+<SYNC Start=2650425><P Class=KRCC>그렇게 젖어있어?<br>- 응
+<SYNC Start=2653425><P Class=KRCC>&nbsp;
+<SYNC Start=2653564><P Class=KRCC>냄새도 나는데?<br>- 싫어~
+<SYNC Start=2656564><P Class=KRCC>&nbsp;
+<SYNC Start=2657250><P Class=KRCC>사진 찍고 있을때가 아니야
+<SYNC Start=2659901><P Class=KRCC>&nbsp;
+<SYNC Start=2659902><P Class=KRCC>응? 뭐야 뭐야<br>- 이것 좀 찍어봐
+<SYNC Start=2662511><P Class=KRCC>&nbsp;
+<SYNC Start=2662512><P Class=KRCC>두대나 어떻게 들고있어
+<SYNC Start=2663890><P Class=KRCC>&nbsp;
+<SYNC Start=2663891><P Class=KRCC>뭐야 뭐야
+<SYNC Start=2665244><P Class=KRCC>&nbsp;
+<SYNC Start=2665245><P Class=KRCC>나도 흥분되고 있으니까
+<SYNC Start=2667114><P Class=KRCC>&nbsp;
+<SYNC Start=2667115><P Class=KRCC>응? 뭐하는거야
+<SYNC Start=2670115><P Class=KRCC>&nbsp;
+<SYNC Start=2673090><P Class=KRCC>잠깐
+<SYNC Start=2676090><P Class=KRCC>&nbsp;
+<SYNC Start=2676400><P Class=KRCC>뭐 하는거냐니까
+<SYNC Start=2679400><P Class=KRCC>&nbsp;
+<SYNC Start=2680737><P Class=KRCC>안돼 그렇게 비벼대면
+<SYNC Start=2682638><P Class=KRCC>&nbsp;
+<SYNC Start=2682639><P Class=KRCC>아 좋아 그런 대사
+<SYNC Start=2685639><P Class=KRCC>&nbsp;
+<SYNC Start=2685988><P Class=KRCC>왜 비벼대는거야?<br>- 젖어 있잖아
+<SYNC Start=2688906><P Class=KRCC>&nbsp;
+<SYNC Start=2688907><P Class=KRCC>안돼
+<SYNC Start=2691907><P Class=KRCC>&nbsp;
+<SYNC Start=2692180><P Class=KRCC>이런 이미지 비디오 있어
+<SYNC Start=2694516><P Class=KRCC>&nbsp;
+<SYNC Start=2694517><P Class=KRCC>이런게 있어?<br>- 있겠지
+<SYNC Start=2697198><P Class=KRCC>&nbsp;
+<SYNC Start=2697199><P Class=KRCC>이쪽 봐봐
+<SYNC Start=2699549><P Class=KRCC>&nbsp;
+<SYNC Start=2699550><P Class=KRCC>아~ 좋아
+<SYNC Start=2702550><P Class=KRCC>&nbsp;
+<SYNC Start=2703359><P Class=KRCC>좀 더 비벼대고 싶어
+<SYNC Start=2705500><P Class=KRCC>&nbsp;
+<SYNC Start=2705501><P Class=KRCC>직접 비벼대봐
+<SYNC Start=2708265><P Class=KRCC>&nbsp;
+<SYNC Start=2708266><P Class=KRCC>누나는 왜 그런걸 하는거야
+<SYNC Start=2711266><P Class=KRCC>&nbsp;
+<SYNC Start=2713211><P Class=KRCC>비벼지고 있어
+<SYNC Start=2716211><P Class=KRCC>&nbsp;
+<SYNC Start=2716419><P Class=KRCC>괜찮은거야?
+<SYNC Start=2719419><P Class=KRCC>&nbsp;
+<SYNC Start=2721228><P Class=KRCC>좋은 냄새 난다
+<SYNC Start=2724228><P Class=KRCC>&nbsp;
+<SYNC Start=2727330><P Class=KRCC>타카쇼 좋아?<br>- 응
+<SYNC Start=2729632><P Class=KRCC>&nbsp;
+<SYNC Start=2729633><P Class=KRCC>가만히 있지말고 찍어봐 좀<br>- 아아.. 찍는거야?
+<SYNC Start=2731934><P Class=KRCC>&nbsp;
+<SYNC Start=2731935><P Class=KRCC>투샷이잖아
+<SYNC Start=2734014><P Class=KRCC>&nbsp;
+<SYNC Start=2734015><P Class=KRCC>빨리 찍어<br>- 오~ 아싸
+<SYNC Start=2736839><P Class=KRCC>&nbsp;
+<SYNC Start=2736840><P Class=KRCC>이거 찍는거야?
+<SYNC Start=2739820><P Class=KRCC>&nbsp;
+<SYNC Start=2739821><P Class=KRCC>이거 많이 사지 않으면 못찍는거야<br><font color="#0080ff">(*촬영회나 투샷회 같은 이벤트에서)<br>(굿즈를 여러개를 사야 찍을수 있는 포즈)</font>
+<SYNC Start=2742821><P Class=KRCC>&nbsp;
+<SYNC Start=2743266><P Class=KRCC>그렇지?<br>- 그렇지
+<SYNC Start=2746266><P Class=KRCC>&nbsp;
+<SYNC Start=2748434><P Class=KRCC>자 빨리 찍으라니까
+<SYNC Start=2750877><P Class=KRCC>&nbsp;
+<SYNC Start=2750878><P Class=KRCC>동영상도 찍히니까<br>- 아니 누나 삐져나왔다니까
+<SYNC Start=2753005><P Class=KRCC>&nbsp;
+<SYNC Start=2753006><P Class=KRCC>아~
+<SYNC Start=2754605><P Class=KRCC>&nbsp;
+<SYNC Start=2754606><P Class=KRCC>보물이다
+<SYNC Start=2756446><P Class=KRCC>&nbsp;
+<SYNC Start=2756447><P Class=KRCC>나와 버렸네
+<SYNC Start=2759447><P Class=KRCC>&nbsp;
+<SYNC Start=2761318><P Class=KRCC>침 나온다
+<SYNC Start=2762991><P Class=KRCC>&nbsp;
+<SYNC Start=2762992><P Class=KRCC>싫어~
+<SYNC Start=2765992><P Class=KRCC>&nbsp;
+<SYNC Start=2766758><P Class=KRCC>저기..
+<SYNC Start=2767830><P Class=KRCC>&nbsp;
+<SYNC Start=2767831><P Class=KRCC>나는 더이상.. 못 참을거 같아
+<SYNC Start=2770831><P Class=KRCC>&nbsp;
+<SYNC Start=2772620><P Class=KRCC>그렇게 젖꼭지를 보여주시면<br>참을수 없게 되잖아요
+<SYNC Start=2777438><P Class=KRCC>&nbsp;
+<SYNC Start=2777649><P Class=KRCC>조..조금.. 만져봐도 될까요?
+<SYNC Start=2779736><P Class=KRCC>&nbsp;
+<SYNC Start=2779737><P Class=KRCC>만지고 싶어?<br>- 아 네!
+<SYNC Start=2781898><P Class=KRCC>&nbsp;
+<SYNC Start=2781899><P Class=KRCC>잠깐!
+<SYNC Start=2783114><P Class=KRCC>&nbsp;
+<SYNC Start=2783115><P Class=KRCC>괜찮잖아!<br>- 아니 뭐가 괜찮아
+<SYNC Start=2785079><P Class=KRCC>&nbsp;
+<SYNC Start=2785080><P Class=KRCC>괜찮아<br>- 그렇죠?
+<SYNC Start=2786978><P Class=KRCC>&nbsp;
+<SYNC Start=2786979><P Class=KRCC>누나까지 뭐하는 거야<br>- 제가 엄청 팬이거든요?
+<SYNC Start=2789130><P Class=KRCC>&nbsp;
+<SYNC Start=2789131><P Class=KRCC>거봐 팬이라잖아
+<SYNC Start=2791364><P Class=KRCC>&nbsp;
+<SYNC Start=2791365><P Class=KRCC>그건 그렇지만<br>- 괜찮아
+<SYNC Start=2792965><P Class=KRCC>&nbsp;
+<SYNC Start=2792966><P Class=KRCC>적금부은거 다 썻어요(굿즈에)<br>- 아 그래?
+<SYNC Start=2795122><P Class=KRCC>&nbsp;
+<SYNC Start=2795123><P Class=KRCC>고마워<br>- 천만에요
+<SYNC Start=2797652><P Class=KRCC>&nbsp;
+<SYNC Start=2797653><P Class=KRCC>거봐 괜찮아
+<SYNC Start=2800653><P Class=KRCC>&nbsp;
+<SYNC Start=2807528><P Class=KRCC>이렇게 부드럽구나
+<SYNC Start=2810528><P Class=KRCC>&nbsp;
+<SYNC Start=2811402><P Class=KRCC>역시 잡지로는 이런건 알수없죠
+<SYNC Start=2813932><P Class=KRCC>&nbsp;
+<SYNC Start=2813933><P Class=KRCC>그렇지
+<SYNC Start=2815507><P Class=KRCC>&nbsp;
+<SYNC Start=2815508><P Class=KRCC>기뻐 보이네
+<SYNC Start=2818508><P Class=KRCC>&nbsp;
+<SYNC Start=2820741><P Class=KRCC>이게 오타쿠의 얼굴이에요<br>- 그렇구나 ㅋ
+<SYNC Start=2823741><P Class=KRCC>&nbsp;
+<SYNC Start=2826035><P Class=KRCC>기뻐<br>- 상상 했던 대로야
+<SYNC Start=2828438><P Class=KRCC>&nbsp;
+<SYNC Start=2828439><P Class=KRCC>아~ 또 나왔다
+<SYNC Start=2831431><P Class=KRCC>&nbsp;
+<SYNC Start=2831432><P Class=KRCC>누나 너무 나왔어
+<SYNC Start=2834432><P Class=KRCC>&nbsp;
+<SYNC Start=2839978><P Class=KRCC>흥분돼~
+<SYNC Start=2841271><P Class=KRCC>&nbsp;
+<SYNC Start=2841272><P Class=KRCC>야 찍으라니까<br>- 찍어 찍어
+<SYNC Start=2843434><P Class=KRCC>&nbsp;
+<SYNC Start=2843435><P Class=KRCC>이거도 찍는거야?
+<SYNC Start=2846435><P Class=KRCC>&nbsp;
+<SYNC Start=2848581><P Class=KRCC>아~ 나와 버렸다<br>- 그런 상황에서 브이 싸인이 나와?
+<SYNC Start=2851581><P Class=KRCC>&nbsp;
+<SYNC Start=2853198><P Class=KRCC>타카쇼 브이~<br>- 에?
+<SYNC Start=2856198><P Class=KRCC>&nbsp;
+<SYNC Start=2857519><P Class=KRCC>페코짱 해봐 페코짱
+<SYNC Start=2860519><P Class=KRCC>&nbsp;
+<SYNC Start=2862449><P Class=KRCC>아!
+<SYNC Start=2864185><P Class=KRCC>&nbsp;
+<SYNC Start=2864186><P Class=KRCC>발기 했잖아요~<br>- 싫어~
+<SYNC Start=2867186><P Class=KRCC>&nbsp;
+<SYNC Start=2867754><P Class=KRCC>항상.. 수영복 뒤에선 이렇게 되어 있었나요?
+<SYNC Start=2870754><P Class=KRCC>&nbsp;
+<SYNC Start=2873028><P Class=KRCC>오타쿠의 질문 코너 입니다
+<SYNC Start=2875513><P Class=KRCC>&nbsp;
+<SYNC Start=2875514><P Class=KRCC>수영복 뒤는 이랬군요?
+<SYNC Start=2877620><P Class=KRCC>&nbsp;
+<SYNC Start=2877621><P Class=KRCC>음.. 소리치면 흥분되니까
+<SYNC Start=2880621><P Class=KRCC>&nbsp;
+<SYNC Start=2882136><P Class=KRCC>저.. 음란한 타카쇼도 너무 좋아요 팬이에요
+<SYNC Start=2884739><P Class=KRCC>&nbsp;
+<SYNC Start=2884740><P Class=KRCC>다행이다
+<SYNC Start=2885996><P Class=KRCC>&nbsp;
+<SYNC Start=2885997><P Class=KRCC>네 오히려 이쪽이 더 좋아요<br>- 정말?
+<SYNC Start=2888997><P Class=KRCC>&nbsp;
+<SYNC Start=2889183><P Class=KRCC>아 엄청나
+<SYNC Start=2892183><P Class=KRCC>&nbsp;
+<SYNC Start=2892514><P Class=KRCC>흥분돼
+<SYNC Start=2895514><P Class=KRCC>&nbsp;
+<SYNC Start=2897273><P Class=KRCC>안돼 그런건~
+<SYNC Start=2899890><P Class=KRCC>&nbsp;
+<SYNC Start=2899891><P Class=KRCC>싫어?
+<SYNC Start=2902682><P Class=KRCC>&nbsp;
+<SYNC Start=2902683><P Class=KRCC>좀 더 흥분돼 버려
+<SYNC Start=2905683><P Class=KRCC>&nbsp;
+<SYNC Start=2906414><P Class=KRCC>이렇게 심한짓을 당하면?
+<SYNC Start=2909414><P Class=KRCC>&nbsp;
+<SYNC Start=2909800><P Class=KRCC>좀 더 짓궃게 해달라고 해봐
+<SYNC Start=2911978><P Class=KRCC>&nbsp;
+<SYNC Start=2911979><P Class=KRCC>좀 더 짓궃게 해줘<br>- 우왕~↗
+<SYNC Start=2914380><P Class=KRCC>&nbsp;
+<SYNC Start=2914381><P Class=KRCC>이렇게요?
+<SYNC Start=2917381><P Class=KRCC>&nbsp;
+<SYNC Start=2917576><P Class=KRCC>그렇게 비틀면 안돼~
+<SYNC Start=2920576><P Class=KRCC>&nbsp;
+<SYNC Start=2920756><P Class=KRCC>아아~~ 미안해요
+<SYNC Start=2923756><P Class=KRCC>&nbsp;
+<SYNC Start=2927629><P Class=KRCC>나도 비튼다?
+<SYNC Start=2930629><P Class=KRCC>&nbsp;
+<SYNC Start=2932812><P Class=KRCC>쇼코짱.<br>젖꼭지 떨어 지겠어
+<SYNC Start=2935812><P Class=KRCC>&nbsp;
+<SYNC Start=2938047><P Class=KRCC>떼어 버릴까?
+<SYNC Start=2941047><P Class=KRCC>&nbsp;
+<SYNC Start=2944442><P Class=KRCC>흥분돼?<br>- 그라돌은 *S야 M이야?<br><font color="#0080ff">(*SM. 새디스트. 마조히스트)</font>
+<SYNC Start=2947442><P Class=KRCC>&nbsp;
+<SYNC Start=2948732><P Class=KRCC>어느쪽일까?<br>- 양쪽 다 가능한거 아니에요?
+<SYNC Start=2951732><P Class=KRCC>&nbsp;
+<SYNC Start=2953559><P Class=KRCC>참을수가 없어
+<SYNC Start=2956093><P Class=KRCC>&nbsp;
+<SYNC Start=2956094><P Class=KRCC>얼굴을 묻어봐도 될까요?<br>- 좋아
+<SYNC Start=2959094><P Class=KRCC>&nbsp;
+<SYNC Start=2962703><P Class=KRCC>아 그런거까지
+<SYNC Start=2965703><P Class=KRCC>&nbsp;
+<SYNC Start=2966166><P Class=KRCC>부비부비
+<SYNC Start=2969166><P Class=KRCC>&nbsp;
+<SYNC Start=2969520><P Class=KRCC>사진!!!
+<SYNC Start=2972520><P Class=KRCC>&nbsp;
+<SYNC Start=2975142><P Class=KRCC>누나도 그렇게 기뻐하는 표정을 하고
+<SYNC Start=2978142><P Class=KRCC>&nbsp;
+<SYNC Start=2981560><P Class=KRCC>으아~ 엄청나<br>질식 시켜주세요
+<SYNC Start=2984560><P Class=KRCC>&nbsp;
+<SYNC Start=2985003><P Class=KRCC>자
+<SYNC Start=2988003><P Class=KRCC>&nbsp;
+<SYNC Start=2990872><P Class=KRCC>에~? 브이?
+<SYNC Start=2993703><P Class=KRCC>&nbsp;
+<SYNC Start=2993704><P Class=KRCC>누나 물 올랐네
+<SYNC Start=2995503><P Class=KRCC>&nbsp;
+<SYNC Start=2995504><P Class=KRCC>그라비아 아이돌한테 살해 당할뻔
+<SYNC Start=2997795><P Class=KRCC>&nbsp;
+<SYNC Start=2997796><P Class=KRCC>으아~ 죽여주세요~
+<SYNC Start=3000540><P Class=KRCC>&nbsp;
+<SYNC Start=3000541><P Class=KRCC>죽으면 곤란하지
+<SYNC Start=3003541><P Class=KRCC>&nbsp;
+<SYNC Start=3008437><P Class=KRCC>아~ 빨려 버렸어
+<SYNC Start=3010998><P Class=KRCC>&nbsp;
+<SYNC Start=3010999><P Class=KRCC>이런 이미지 비디오 없었나?
+<SYNC Start=3013798><P Class=KRCC>&nbsp;
+<SYNC Start=3013799><P Class=KRCC>이런건 없지<br>- 그랬나요?
+<SYNC Start=3016799><P Class=KRCC>&nbsp;
+<SYNC Start=3035855><P Class=KRCC>아 맞다 그거<br>비디오 모드 있으니까
+<SYNC Start=3038855><P Class=KRCC>&nbsp;
+<SYNC Start=3039148><P Class=KRCC>비디오 모르고 바꿔<br>- 그런게 있어?
+<SYNC Start=3041625><P Class=KRCC>&nbsp;
+<SYNC Start=3041626><P Class=KRCC>빨리 찍어
+<SYNC Start=3043122><P Class=KRCC>&nbsp;
+<SYNC Start=3043123><P Class=KRCC>집에 돌아가서 보면서 즐겨야지
+<SYNC Start=3045384><P Class=KRCC>&nbsp;
+<SYNC Start=3045385><P Class=KRCC>그렇지? 괜찮죠?<br>- 응
+<SYNC Start=3048035><P Class=KRCC>&nbsp;
+<SYNC Start=3048036><P Class=KRCC>'나보면서 자위해' 라고 말해보세요<br>- 나보면서 자위해
+<SYNC Start=3050716><P Class=KRCC>&nbsp;
+<SYNC Start=3050717><P Class=KRCC>네!
+<SYNC Start=3053717><P Class=KRCC>&nbsp;
+<SYNC Start=3055275><P Class=KRCC>몇번을 자위해도 될까요?<br>- 음.. 100번
+<SYNC Start=3058275><P Class=KRCC>&nbsp;
+<SYNC Start=3058511><P Class=KRCC>에~ 100번이요?<br>이렇게 되버렸는데요
+<SYNC Start=3061511><P Class=KRCC>&nbsp;
+<SYNC Start=3064655><P Class=KRCC>이렇게 되어 버렸어?
+<SYNC Start=3067655><P Class=KRCC>&nbsp;
+<SYNC Start=3070598><P Class=KRCC>여기도 만져볼까
+<SYNC Start=3073598><P Class=KRCC>&nbsp;
+<SYNC Start=3086320><P Class=KRCC>키스도 부탁해요
+<SYNC Start=3089320><P Class=KRCC>&nbsp;
+<SYNC Start=3102742><P Class=KRCC>누나 뭘 시작 하는거야?
+<SYNC Start=3105742><P Class=KRCC>&nbsp;
+<SYNC Start=3106598><P Class=KRCC>괜찮잖아<br>- 너 시끄러워
+<SYNC Start=3109598><P Class=KRCC>&nbsp;
+<SYNC Start=3109855><P Class=KRCC>제대로 찍기나해
+<SYNC Start=3112222><P Class=KRCC>&nbsp;
+<SYNC Start=3112223><P Class=KRCC>좋은 부분이었는데<br>- 그러게
+<SYNC Start=3115019><P Class=KRCC>&nbsp;
+<SYNC Start=3115020><P Class=KRCC>잠깐..<br>- 시끄러워!
+<SYNC Start=3118020><P Class=KRCC>&nbsp;
+<SYNC Start=3118379><P Class=KRCC>빵빵해
+<SYNC Start=3121379><P Class=KRCC>&nbsp;
+<SYNC Start=3124082><P Class=KRCC>빵빵할때 보여줘<br>- 네!
+<SYNC Start=3127082><P Class=KRCC>&nbsp;
+<SYNC Start=3127822><P Class=KRCC>어떻게 됐어요?
+<SYNC Start=3130146><P Class=KRCC>&nbsp;
+<SYNC Start=3130147><P Class=KRCC>저도 젖은 얼룩이..
+<SYNC Start=3132317><P Class=KRCC>&nbsp;
+<SYNC Start=3132318><P Class=KRCC>타카쇼랑 똑같아요
+<SYNC Start=3134774><P Class=KRCC>&nbsp;
+<SYNC Start=3134775><P Class=KRCC>보여요?<br>- 어디? 아!
+<SYNC Start=3136766><P Class=KRCC>&nbsp;
+<SYNC Start=3136767><P Class=KRCC>진짜네
+<SYNC Start=3138224><P Class=KRCC>&nbsp;
+<SYNC Start=3138225><P Class=KRCC>나랑 똑같네
+<SYNC Start=3141225><P Class=KRCC>&nbsp;
+<SYNC Start=3142127><P Class=KRCC>얼룩과 얼룩을 비벼보죠
+<SYNC Start=3145127><P Class=KRCC>&nbsp;
+<SYNC Start=3145850><P Class=KRCC>엎드려 보세요
+<SYNC Start=3147116><P Class=KRCC>&nbsp;
+<SYNC Start=3147117><P Class=KRCC>엎드려?<br>- 네
+<SYNC Start=3149981><P Class=KRCC>&nbsp;
+<SYNC Start=3149982><P Class=KRCC>얼룩과 얼룩을 비벼보고 싶어요
+<SYNC Start=3152982><P Class=KRCC>&nbsp;
+<SYNC Start=3153894><P Class=KRCC>비벼봐
+<SYNC Start=3156894><P Class=KRCC>&nbsp;
+<SYNC Start=3161930><P Class=KRCC>비벼지고 있어<br>- 타카쇼도 허리를 흔들어주세요
+<SYNC Start=3164930><P Class=KRCC>&nbsp;
+<SYNC Start=3179825><P Class=KRCC>엄청 젖어있는게 느껴져요
+<SYNC Start=3182825><P Class=KRCC>&nbsp;
+<SYNC Start=3183761><P Class=KRCC>귀두쪽이 젖어있어
+<SYNC Start=3186761><P Class=KRCC>&nbsp;
+<SYNC Start=3187797><P Class=KRCC>보지로 느껴지세요?
+<SYNC Start=3190797><P Class=KRCC>&nbsp;
+<SYNC Start=3190917><P Class=KRCC>보지로 느껴져
+<SYNC Start=3193588><P Class=KRCC>&nbsp;
+<SYNC Start=3193589><P Class=KRCC>이대로 넣을것 같아요
+<SYNC Start=3196538><P Class=KRCC>&nbsp;
+<SYNC Start=3196539><P Class=KRCC>들어올거 같아
+<SYNC Start=3199539><P Class=KRCC>&nbsp;
+<SYNC Start=3207693><P Class=KRCC>아.. 멈출수 없게 되버려
+<SYNC Start=3210693><P Class=KRCC>&nbsp;
+<SYNC Start=3211567><P Class=KRCC>비벼지고 있어
+<SYNC Start=3214567><P Class=KRCC>&nbsp;
+<SYNC Start=3218471><P Class=KRCC>내 마음이 앞서서
+<SYNC Start=3221005><P Class=KRCC>&nbsp;
+<SYNC Start=3221006><P Class=KRCC>항문에 닿아버려<br>- 안돼
+<SYNC Start=3224006><P Class=KRCC>&nbsp;
+<SYNC Start=3224307><P Class=KRCC>그런건 안돼..
+<SYNC Start=3227307><P Class=KRCC>&nbsp;
+<SYNC Start=3240824><P Class=KRCC>그라돌의 엉덩이 좋아?<br>- 응
+<SYNC Start=3243117><P Class=KRCC>&nbsp;
+<SYNC Start=3243118><P Class=KRCC>그라돌의 엉덩이는 전혀 다르네
+<SYNC Start=3246118><P Class=KRCC>&nbsp;
+<SYNC Start=3246585><P Class=KRCC>뭐야 이거
+<SYNC Start=3249585><P Class=KRCC>&nbsp;
+<SYNC Start=3250078><P Class=KRCC>이렇게 100번은 쌀수 있겠다
+<SYNC Start=3252056><P Class=KRCC>&nbsp;
+<SYNC Start=3252057><P Class=KRCC>타카쇼 내 자지가 장난 아니야
+<SYNC Start=3255057><P Class=KRCC>&nbsp;
+<SYNC Start=3255365><P Class=KRCC>자지가 큰일났어
+<SYNC Start=3258365><P Class=KRCC>&nbsp;
+<SYNC Start=3260062><P Class=KRCC>살려주세요
+<SYNC Start=3263062><P Class=KRCC>&nbsp;
+<SYNC Start=3263642><P Class=KRCC>오타쿠의 위기 입니다
+<SYNC Start=3266642><P Class=KRCC>&nbsp;
+<SYNC Start=3267718><P Class=KRCC>위부터 순서대로
+<SYNC Start=3270718><P Class=KRCC>&nbsp;
+<SYNC Start=3272318><P Class=KRCC>먹어 주세요
+<SYNC Start=3275318><P Class=KRCC>&nbsp;
+<SYNC Start=3283564><P Class=KRCC>또 나오겠다
+<SYNC Start=3286564><P Class=KRCC>&nbsp;
+<SYNC Start=3288401><P Class=KRCC>여기?<br>- 응
+<SYNC Start=3291401><P Class=KRCC>&nbsp;
+<SYNC Start=3299126><P Class=KRCC>꼭지 어떻게 됐어요?
+<SYNC Start=3301713><P Class=KRCC>&nbsp;
+<SYNC Start=3301714><P Class=KRCC>꼭지가 딱딱 해졌어
+<SYNC Start=3304714><P Class=KRCC>&nbsp;
+<SYNC Start=3308190><P Class=KRCC>아 그거 또 떼어 내려고 그러네
+<SYNC Start=3311190><P Class=KRCC>&nbsp;
+<SYNC Start=3312415><P Class=KRCC>타카쇼 역시 S야
+<SYNC Start=3314921><P Class=KRCC>&nbsp;
+<SYNC Start=3314922><P Class=KRCC>그렇지?<br>- 양쪽 다 일껄
+<SYNC Start=3317388><P Class=KRCC>&nbsp;
+<SYNC Start=3317389><P Class=KRCC>양쪽 다 즐길수 있는거야?
+<SYNC Start=3319880><P Class=KRCC>&nbsp;
+<SYNC Start=3319881><P Class=KRCC>최고네
+<SYNC Start=3321962><P Class=KRCC>&nbsp;
+<SYNC Start=3321963><P Class=KRCC>그라돌은 역시 양쪽다 가능해야지<br>- 그래
+<SYNC Start=3324963><P Class=KRCC>&nbsp;
+<SYNC Start=3328243><P Class=KRCC>오타쿠도 양쪽다 가능할거야<br>이것봐 또 엄청 나왔다
+<SYNC Start=3331243><P Class=KRCC>&nbsp;
+<SYNC Start=3331613><P Class=KRCC>이렇게 많이 뿜어내고 있고..<br>비난해줘
+<SYNC Start=3334613><P Class=KRCC>&nbsp;
+<SYNC Start=3334786><P Class=KRCC>이렇게 많이 뿜어내고 있고<br>돼지녀석
+<SYNC Start=3337786><P Class=KRCC>&nbsp;
+<SYNC Start=3341660><P Class=KRCC>엄청 딱딱해졌어<br>- 또 튀어 나온다
+<SYNC Start=3344660><P Class=KRCC>&nbsp;
+<SYNC Start=3344826><P Class=KRCC>이렇게 손으로 해봐
+<SYNC Start=3347634><P Class=KRCC>&nbsp;
+<SYNC Start=3347635><P Class=KRCC>엄청나네
+<SYNC Start=3350011><P Class=KRCC>&nbsp;
+<SYNC Start=3350012><P Class=KRCC>와.. 팬티도 입고 있는데도
+<SYNC Start=3353012><P Class=KRCC>&nbsp;
+<SYNC Start=3355062><P Class=KRCC>역시 팬이라면 이정도 좋아해줘야지
+<SYNC Start=3358062><P Class=KRCC>&nbsp;
+<SYNC Start=3358544><P Class=KRCC>기뻐
+<SYNC Start=3360179><P Class=KRCC>&nbsp;
+<SYNC Start=3360180><P Class=KRCC>다들 그럴까?
+<SYNC Start=3361390><P Class=KRCC>&nbsp;
+<SYNC Start=3361391><P Class=KRCC>나 오타쿠의 탑을 노릴게
+<SYNC Start=3364391><P Class=KRCC>&nbsp;
+<SYNC Start=3367151><P Class=KRCC>엄청 젖어있어<br>- 젖어있어?
+<SYNC Start=3369416><P Class=KRCC>&nbsp;
+<SYNC Start=3369417><P Class=KRCC>응 나도 젖어있어
+<SYNC Start=3372417><P Class=KRCC>&nbsp;
+<SYNC Start=3380426><P Class=KRCC>타카쇼 장난 아닌데?<br>엄청 축축해
+<SYNC Start=3382693><P Class=KRCC>&nbsp;
+<SYNC Start=3382694><P Class=KRCC>아 어쩌지<br>너무 흥분해버렸어
+<SYNC Start=3385694><P Class=KRCC>&nbsp;
+<SYNC Start=3389673><P Class=KRCC>둘다 똑같이 젖었네
+<SYNC Start=3391518><P Class=KRCC>&nbsp;
+<SYNC Start=3391519><P Class=KRCC>그라돌과 같이
+<SYNC Start=3394031><P Class=KRCC>&nbsp;
+<SYNC Start=3394032><P Class=KRCC>아 또 나온다<br>- 엄청 나오고 있어
+<SYNC Start=3397032><P Class=KRCC>&nbsp;
+<SYNC Start=3403706><P Class=KRCC>아 이거 넣었으면<br>아기가 생겼을거야
+<SYNC Start=3406706><P Class=KRCC>&nbsp;
+<SYNC Start=3408135><P Class=KRCC>아기 생기겠다
+<SYNC Start=3411135><P Class=KRCC>&nbsp;
+<SYNC Start=3417772><P Class=KRCC>여기?
+<SYNC Start=3420772><P Class=KRCC>&nbsp;
+<SYNC Start=3421353><P Class=KRCC>여기 인가요?<br>- 응 거기
+<SYNC Start=3424353><P Class=KRCC>&nbsp;
+<SYNC Start=3426902><P Class=KRCC>그라돌의 얼룩이 점점 넓어지고 있어
+<SYNC Start=3429902><P Class=KRCC>&nbsp;
+<SYNC Start=3432488><P Class=KRCC>얼룩이 넓어져
+<SYNC Start=3435488><P Class=KRCC>&nbsp;
+<SYNC Start=3435724><P Class=KRCC>보지 어떤 상태에요?
+<SYNC Start=3438112><P Class=KRCC>&nbsp;
+<SYNC Start=3438113><P Class=KRCC>이미 엄청 축축해져있어
+<SYNC Start=3441113><P Class=KRCC>&nbsp;
+<SYNC Start=3441202><P Class=KRCC>좀 더 말해주세요<br>- 축축해졌어
+<SYNC Start=3444202><P Class=KRCC>&nbsp;
+<SYNC Start=3452759><P Class=KRCC>그라비아 아이돌의 보지가<br>축축해졌어
+<SYNC Start=3455759><P Class=KRCC>&nbsp;
+<SYNC Start=3455866><P Class=KRCC>좀 더 큰소리로
+<SYNC Start=3457903><P Class=KRCC>&nbsp;
+<SYNC Start=3457904><P Class=KRCC>그라비아 아이돌의 보지가<br>축축해졌어
+<SYNC Start=3460904><P Class=KRCC>&nbsp;
+<SYNC Start=3462322><P Class=KRCC>그라돌의 보짓물은<br>저에게는 주스나 다름 없습니다
+<SYNC Start=3465322><P Class=KRCC>&nbsp;
+<SYNC Start=3467565><P Class=KRCC>마셔 보겠습니다
+<SYNC Start=3470565><P Class=KRCC>&nbsp;
+<SYNC Start=3470685><P Class=KRCC>많이 마셔
+<SYNC Start=3471691><P Class=KRCC>&nbsp;
+<SYNC Start=3471692><P Class=KRCC>보여주는거야?
+<SYNC Start=3473989><P Class=KRCC>&nbsp;
+<SYNC Start=3473990><P Class=KRCC>누나...<br>- 시끄러워
+<SYNC Start=3476295><P Class=KRCC>&nbsp;
+<SYNC Start=3476296><P Class=KRCC>시끄러워! 좀 조용히 있어
+<SYNC Start=3478247><P Class=KRCC>&nbsp;
+<SYNC Start=3478248><P Class=KRCC>좋은 분위기 였는데
+<SYNC Start=3481045><P Class=KRCC>&nbsp;
+<SYNC Start=3481046><P Class=KRCC>DVD 10장이나 삿다고<br>- 거봐
+<SYNC Start=3484046><P Class=KRCC>&nbsp;
+<SYNC Start=3484702><P Class=KRCC>10장이나 사줬다 잖아<br>- 아 미안
+<SYNC Start=3487702><P Class=KRCC>&nbsp;
+<SYNC Start=3492550><P Class=KRCC>동생이 보고있는데
+<SYNC Start=3494979><P Class=KRCC>&nbsp;
+<SYNC Start=3494980><P Class=KRCC>이렇게 벌리고
+<SYNC Start=3497980><P Class=KRCC>&nbsp;
+<SYNC Start=3498095><P Class=KRCC>그라돌은..<br>동생한테 보여지면서 흥분하는 건가요?
+<SYNC Start=3501095><P Class=KRCC>&nbsp;
+<SYNC Start=3502226><P Class=KRCC>그게..
+<SYNC Start=3504578><P Class=KRCC>&nbsp;
+<SYNC Start=3504579><P Class=KRCC>누나 그런거야?
+<SYNC Start=3507579><P Class=KRCC>&nbsp;
+<SYNC Start=3508413><P Class=KRCC>내가 보는게 흥분되는거야?
+<SYNC Start=3511184><P Class=KRCC>&nbsp;
+<SYNC Start=3511185><P Class=KRCC>크리토리스도 발기 했는데요?
+<SYNC Start=3514185><P Class=KRCC>&nbsp;
+<SYNC Start=3514624><P Class=KRCC>동생한테 보여져서 흥분되버려
+<SYNC Start=3517624><P Class=KRCC>&nbsp;
+<SYNC Start=3519117><P Class=KRCC>주스 잘 마시겠습니다
+<SYNC Start=3522117><P Class=KRCC>&nbsp;
+<SYNC Start=3523077><P Class=KRCC>빨리고 있는게 보여지면<br>더 흥분 되죠?
+<SYNC Start=3527635><P Class=KRCC>&nbsp;
+<SYNC Start=3552524><P Class=KRCC>아.. 안돼..<br>그렇게 빨면
+<SYNC Start=3555524><P Class=KRCC>&nbsp;
+<SYNC Start=3557084><P Class=KRCC>아 엄청 흘러내리고 있어<br>넘쳐 흐르네
+<SYNC Start=3560084><P Class=KRCC>&nbsp;
+<SYNC Start=3566151><P Class=KRCC>혀가 들어와
+<SYNC Start=3569151><P Class=KRCC>&nbsp;
+<SYNC Start=3572248><P Class=KRCC>아 그라돌의 보지가 질척질척하네
+<SYNC Start=3575248><P Class=KRCC>&nbsp;
+<SYNC Start=3576987><P Class=KRCC>찰영할때가 생각나
+<SYNC Start=3579987><P Class=KRCC>&nbsp;
+<SYNC Start=3588226><P Class=KRCC>촬영할때도 젖어 있는 거야?
+<SYNC Start=3590111><P Class=KRCC>&nbsp;
+<SYNC Start=3590112><P Class=KRCC>응 촬영할때도 젖어 있지만
+<SYNC Start=3593112><P Class=KRCC>&nbsp;
+<SYNC Start=3593541><P Class=KRCC>지금은 더 많이 젖어 있어
+<SYNC Start=3596529><P Class=KRCC>&nbsp;
+<SYNC Start=3596530><P Class=KRCC>그럼 촬영때를 떠올려봐
+<SYNC Start=3599530><P Class=KRCC>&nbsp;
+<SYNC Start=3600840><P Class=KRCC>떠올라
+<SYNC Start=3603699><P Class=KRCC>&nbsp;
+<SYNC Start=3603700><P Class=KRCC>촬영때보다 더 야한 포즈를 하고있어
+<SYNC Start=3605936><P Class=KRCC>&nbsp;
+<SYNC Start=3605937><P Class=KRCC>야한 포즈 좋아 하지?
+<SYNC Start=3608937><P Class=KRCC>&nbsp;
+<SYNC Start=3618955><P Class=KRCC>이런 자세 하는거야?
+<SYNC Start=3621955><P Class=KRCC>&nbsp;
+<SYNC Start=3638636><P Class=KRCC>똥꼬도 빨아보자<br>- 똥꼬도 빨리고 있어~
+<SYNC Start=3643718><P Class=KRCC>&nbsp;
+<SYNC Start=3652153><P Class=KRCC>똥꼬가 벌렁거리고 있어
+<SYNC Start=3655153><P Class=KRCC>&nbsp;
+<SYNC Start=3655713><P Class=KRCC>부끄러워
+<SYNC Start=3657401><P Class=KRCC>&nbsp;
+<SYNC Start=3657402><P Class=KRCC>어느쪽이 더 기분 좋을까?
+<SYNC Start=3660402><P Class=KRCC>&nbsp;
+<SYNC Start=3661632><P Class=KRCC>양쪽 다 좋아
+<SYNC Start=3664632><P Class=KRCC>&nbsp;
+<SYNC Start=3667211><P Class=KRCC>그라돌은 엄청 음란하네
+<SYNC Start=3669962><P Class=KRCC>&nbsp;
+<SYNC Start=3669963><P Class=KRCC>그라돌은 음란하지
+<SYNC Start=3672963><P Class=KRCC>&nbsp;
+<SYNC Start=3673941><P Class=KRCC>오타쿠도 음란 합니다
+<SYNC Start=3676197><P Class=KRCC>&nbsp;
+<SYNC Start=3676198><P Class=KRCC>똑같네<br>- 전부 똑같아
+<SYNC Start=3679198><P Class=KRCC>&nbsp;
+<SYNC Start=3692075><P Class=KRCC>아 손가락이 들어와
+<SYNC Start=3695075><P Class=KRCC>&nbsp;
+<SYNC Start=3696135><P Class=KRCC>좋아요?<br>- 응
+<SYNC Start=3698648><P Class=KRCC>&nbsp;
+<SYNC Start=3698649><P Class=KRCC>손으로 하는거 너무 좋아 라고 해봐<br>- 손으로 하는거 너무 좋아
+<SYNC Start=3701649><P Class=KRCC>&nbsp;
+<SYNC Start=3704978><P Class=KRCC>그렇게 귀엽게 말하면..
+<SYNC Start=3707978><P Class=KRCC>&nbsp;
+<SYNC Start=3713817><P Class=KRCC>보지 젖는다
+<SYNC Start=3716817><P Class=KRCC>&nbsp;
+<SYNC Start=3718379><P Class=KRCC>아 좋아 그거
+<SYNC Start=3721379><P Class=KRCC>&nbsp;
+<SYNC Start=3722199><P Class=KRCC>이거?<br>- 응
+<SYNC Start=3724849><P Class=KRCC>&nbsp;
+<SYNC Start=3724850><P Class=KRCC>아..안돼.. 그렇게 격렬하게 하면
+<SYNC Start=3727850><P Class=KRCC>&nbsp;
+<SYNC Start=3730405><P Class=KRCC>간다..가버려
+<SYNC Start=3733405><P Class=KRCC>&nbsp;
+<SYNC Start=3736023><P Class=KRCC>안돼... 동생 앞에서 가버려
+<SYNC Start=3739023><P Class=KRCC>&nbsp;
+<SYNC Start=3752627><P Class=KRCC>먹어 버렸어
+<SYNC Start=3755627><P Class=KRCC>&nbsp;
+<SYNC Start=3759825><P Class=KRCC>아 그라돌의 보짓물이
+<SYNC Start=3762390><P Class=KRCC>&nbsp;
+<SYNC Start=3762391><P Class=KRCC>맛있어?
+<SYNC Start=3764613><P Class=KRCC>&nbsp;
+<SYNC Start=3764614><P Class=KRCC>맛있어?<br>- 응
+<SYNC Start=3767388><P Class=KRCC>&nbsp;
+<SYNC Start=3767389><P Class=KRCC>타카쇼<br>- 응
+<SYNC Start=3770389><P Class=KRCC>&nbsp;
+<SYNC Start=3776320><P Class=KRCC>더는 못참겠다
+<SYNC Start=3779320><P Class=KRCC>&nbsp;
+<SYNC Start=3781538><P Class=KRCC>나도 빨아 줄게<br>- 네
+<SYNC Start=3784485><P Class=KRCC>&nbsp;
+<SYNC Start=3784486><P Class=KRCC>위에부터 주스 많이 드세요
+<SYNC Start=3787486><P Class=KRCC>&nbsp;
+<SYNC Start=3795119><P Class=KRCC>맛이 어때요?
+<SYNC Start=3797079><P Class=KRCC>&nbsp;
+<SYNC Start=3797080><P Class=KRCC>음... 짜
+<SYNC Start=3800080><P Class=KRCC>&nbsp;
+<SYNC Start=3800735><P Class=KRCC>싫어?<br>- 아니 좋아
+<SYNC Start=3803155><P Class=KRCC>&nbsp;
+<SYNC Start=3803156><P Class=KRCC>와 기뻐라
+<SYNC Start=3806156><P Class=KRCC>&nbsp;
+<SYNC Start=3817874><P Class=KRCC>에에 잠깐.<br>카메라
+<SYNC Start=3820162><P Class=KRCC>&nbsp;
+<SYNC Start=3820163><P Class=KRCC>찍어<br>- 왜?
+<SYNC Start=3821981><P Class=KRCC>&nbsp;
+<SYNC Start=3821982><P Class=KRCC>아니 찍어야지<br>- 찍는거야?
+<SYNC Start=3824274><P Class=KRCC>&nbsp;
+<SYNC Start=3824275><P Class=KRCC>*하메도리 처럼 찍어야지<br><font color="#0080ff">(섹스중인 남자가 카메라를 들고 찍는것)</font>
+<SYNC Start=3827275><P Class=KRCC>&nbsp;
+<SYNC Start=3828577><P Class=KRCC>타카쇼 이쪽<br>이쪽 봐봐
+<SYNC Start=3831577><P Class=KRCC>&nbsp;
+<SYNC Start=3832368><P Class=KRCC>아 좋네~
+<SYNC Start=3835368><P Class=KRCC>&nbsp;
+<SYNC Start=3840359><P Class=KRCC>이쪽 봐봐
+<SYNC Start=3843261><P Class=KRCC>&nbsp;
+<SYNC Start=3843262><P Class=KRCC>엄청난 맛인데
+<SYNC Start=3846262><P Class=KRCC>&nbsp;
+<SYNC Start=3846497><P Class=KRCC>좋아하지?<br>- 응 맛있어
+<SYNC Start=3849497><P Class=KRCC>&nbsp;
+<SYNC Start=3857496><P Class=KRCC>아 많이 나오게해서 먹여주고 싶어
+<SYNC Start=3860496><P Class=KRCC>&nbsp;
+<SYNC Start=3869287><P Class=KRCC>(옷위로말고)바로 부탁드려요
+<SYNC Start=3872287><P Class=KRCC>&nbsp;
+<SYNC Start=3873109><P Class=KRCC>응? 바로?<br>- 네
+<SYNC Start=3876109><P Class=KRCC>&nbsp;
+<SYNC Start=3877063><P Class=KRCC>영차
+<SYNC Start=3878710><P Class=KRCC>&nbsp;
+<SYNC Start=3878711><P Class=KRCC>괜찮은거에요?
+<SYNC Start=3881609><P Class=KRCC>&nbsp;
+<SYNC Start=3881610><P Class=KRCC>이렇게 되어 있는데 뭐
+<SYNC Start=3884075><P Class=KRCC>&nbsp;
+<SYNC Start=3884076><P Class=KRCC>부탁드려요
+<SYNC Start=3887076><P Class=KRCC>&nbsp;
+<SYNC Start=3887914><P Class=KRCC>아 껍질이 안벗겨졌네<br>부끄러워라
+<SYNC Start=3889865><P Class=KRCC>&nbsp;
+<SYNC Start=3889866><P Class=KRCC>벗겨주세요
+<SYNC Start=3892293><P Class=KRCC>&nbsp;
+<SYNC Start=3892294><P Class=KRCC>벗긴다
+<SYNC Start=3895294><P Class=KRCC>&nbsp;
+<SYNC Start=3895381><P Class=KRCC>타카쇼한테 껍질 벗겨졌다
+<SYNC Start=3898381><P Class=KRCC>&nbsp;
+<SYNC Start=3902331><P Class=KRCC>바나나라고 생각하세요
+<SYNC Start=3905331><P Class=KRCC>&nbsp;
+<SYNC Start=3908836><P Class=KRCC>엄청 나왔네
+<SYNC Start=3911836><P Class=KRCC>&nbsp;
+<SYNC Start=3913517><P Class=KRCC>대단해<br>계속 나오는데?
+<SYNC Start=3916517><P Class=KRCC>&nbsp;
+<SYNC Start=3920064><P Class=KRCC>오타쿠의 바나나 좋아 라고 해줘요
+<SYNC Start=3923064><P Class=KRCC>&nbsp;
+<SYNC Start=3923266><P Class=KRCC>오타쿠의 바나나 좋아
+<SYNC Start=3926266><P Class=KRCC>&nbsp;
+<SYNC Start=3942906><P Class=KRCC>아 500번 쌀수 있을것 같아요
+<SYNC Start=3945906><P Class=KRCC>&nbsp;
+<SYNC Start=3945908><P Class=KRCC>아직 싸면 안돼<br>- 아 그렇죠
+<SYNC Start=3948343><P Class=KRCC>&nbsp;
+<SYNC Start=3948344><P Class=KRCC>좀 더 애태워주세요
+<SYNC Start=3951344><P Class=KRCC>&nbsp;
+<SYNC Start=3951720><P Class=KRCC>아 불알 좋아요 최고에요
+<SYNC Start=3954452><P Class=KRCC>&nbsp;
+<SYNC Start=3954453><P Class=KRCC>불알? 여기?<br>- 네
+<SYNC Start=3957453><P Class=KRCC>&nbsp;
+<SYNC Start=3966286><P Class=KRCC>떨어져 나가겠다
+<SYNC Start=3969286><P Class=KRCC>&nbsp;
+<SYNC Start=3983373><P Class=KRCC>왼쪽만 계속하면 그거 떨어지겠어요
+<SYNC Start=3986373><P Class=KRCC>&nbsp;
+<SYNC Start=3988132><P Class=KRCC>이쪽도?<br>- 네
+<SYNC Start=3990207><P Class=KRCC>&nbsp;
+<SYNC Start=3990208><P Class=KRCC>하나만 튀어 나왔잖아요
+<SYNC Start=3993208><P Class=KRCC>&nbsp;
+<SYNC Start=4000324><P Class=KRCC>양쪽 비슷하게끔 해줘요
+<SYNC Start=4003324><P Class=KRCC>&nbsp;
+<SYNC Start=4004100><P Class=KRCC>아 이쪽이 더 나왔다
+<SYNC Start=4007100><P Class=KRCC>&nbsp;
+<SYNC Start=4012384><P Class=KRCC>이거 끝이 없네
+<SYNC Start=4015090><P Class=KRCC>&nbsp;
+<SYNC Start=4015091><P Class=KRCC>균등하게 안되는데?
+<SYNC Start=4016544><P Class=KRCC>&nbsp;
+<SYNC Start=4016545><P Class=KRCC>아.. 영원히 계속 할수있었는데 아깝네
+<SYNC Start=4019545><P Class=KRCC>&nbsp;
+<SYNC Start=4061663><P Class=KRCC>좀 더 깊숙히 가능한가요?
+<SYNC Start=4064663><P Class=KRCC>&nbsp;
+<SYNC Start=4070398><P Class=KRCC>아 괴로워하는 얼굴도 귀엽네
+<SYNC Start=4073398><P Class=KRCC>&nbsp;
+<SYNC Start=4078000><P Class=KRCC>괴로워?
+<SYNC Start=4081000><P Class=KRCC>&nbsp;
+<SYNC Start=4081290><P Class=KRCC>괴로워?<br>- 괴로워
+<SYNC Start=4083479><P Class=KRCC>&nbsp;
+<SYNC Start=4083480><P Class=KRCC>말해줘 나한테
+<SYNC Start=4085535><P Class=KRCC>&nbsp;
+<SYNC Start=4085536><P Class=KRCC>괴로워<br>- 직접 깊숙히 넣어봐
+<SYNC Start=4088536><P Class=KRCC>&nbsp;
+<SYNC Start=4101552><P Class=KRCC>타카쇼 어때?
+<SYNC Start=4104552><P Class=KRCC>&nbsp;
+<SYNC Start=4105563><P Class=KRCC>맛있어
+<SYNC Start=4106597><P Class=KRCC>&nbsp;
+<SYNC Start=4106598><P Class=KRCC>맛있어? 괴로워가 아니고?<br>- 맛있어
+<SYNC Start=4109598><P Class=KRCC>&nbsp;
+<SYNC Start=4110707><P Class=KRCC>한가지더 해보고 싶은게 있었는데요<br>- 뭔데?
+<SYNC Start=4113707><P Class=KRCC>&nbsp;
+<SYNC Start=4113875><P Class=KRCC>다시 되돌려도 될까요?<br>- 되돌리는 거야?
+<SYNC Start=4116875><P Class=KRCC>&nbsp;
+<SYNC Start=4117198><P Class=KRCC>이미 나와있는걸?<br>- 네
+<SYNC Start=4119656><P Class=KRCC>&nbsp;
+<SYNC Start=4119657><P Class=KRCC>수영복이 좋은거야?
+<SYNC Start=4122657><P Class=KRCC>&nbsp;
+<SYNC Start=4124984><P Class=KRCC>이렇게 찌르는걸 해보고 싶었어요
+<SYNC Start=4127984><P Class=KRCC>&nbsp;
+<SYNC Start=4129011><P Class=KRCC>그래?
+<SYNC Start=4131940><P Class=KRCC>&nbsp;
+<SYNC Start=4131941><P Class=KRCC>타카쇼 어때요? 이거
+<SYNC Start=4134238><P Class=KRCC>&nbsp;
+<SYNC Start=4134239><P Class=KRCC>좋아
+<SYNC Start=4137239><P Class=KRCC>&nbsp;
+<SYNC Start=4140118><P Class=KRCC>타카쇼의 가슴이랑 섹스하는것 같아
+<SYNC Start=4143118><P Class=KRCC>&nbsp;
+<SYNC Start=4145800><P Class=KRCC>그라돌의 가슴 기분좋아?
+<SYNC Start=4148800><P Class=KRCC>&nbsp;
+<SYNC Start=4150513><P Class=KRCC>몸 전체에 보지가 있네요<br>- 그래
+<SYNC Start=4153513><P Class=KRCC>&nbsp;
+<SYNC Start=4161904><P Class=KRCC>가슴에 들어왔어<br>- 보여요?
+<SYNC Start=4164284><P Class=KRCC>&nbsp;
+<SYNC Start=4164285><P Class=KRCC>응 보여
+<SYNC Start=4167285><P Class=KRCC>&nbsp;
+<SYNC Start=4179512><P Class=KRCC>입이랑 가슴중 어느쪽이 좋아?<br>- 에~?
+<SYNC Start=4182512><P Class=KRCC>&nbsp;
+<SYNC Start=4183068><P Class=KRCC>고르는 건가요?
+<SYNC Start=4184587><P Class=KRCC>&nbsp;
+<SYNC Start=4184588><P Class=KRCC>오타쿠한테 그 질문은..
+<SYNC Start=4187256><P Class=KRCC>&nbsp;
+<SYNC Start=4187257><P Class=KRCC>꼭 골라야 돼요?<br>- 응
+<SYNC Start=4190257><P Class=KRCC>&nbsp;
+<SYNC Start=4191021><P Class=KRCC>양쪽다?
+<SYNC Start=4193567><P Class=KRCC>&nbsp;
+<SYNC Start=4193568><P Class=KRCC>어느쪽이려나
+<SYNC Start=4196568><P Class=KRCC>&nbsp;
+<SYNC Start=4197608><P Class=KRCC>역시 양쪽 다요
+<SYNC Start=4200608><P Class=KRCC>&nbsp;
+<SYNC Start=4201463><P Class=KRCC>타카쇼는 어는쪽이 좋아요?<br>- 양쪽 다
+<SYNC Start=4204463><P Class=KRCC>&nbsp;
+<SYNC Start=4204990><P Class=KRCC>야하네
+<SYNC Start=4207990><P Class=KRCC>&nbsp;
+<SYNC Start=4213197><P Class=KRCC>자지가 싸고 싶다고 말하고 있어요
+<SYNC Start=4216197><P Class=KRCC>&nbsp;
+<SYNC Start=4218194><P Class=KRCC>아 그래 낼름 낼름 해줘
+<SYNC Start=4221051><P Class=KRCC>&nbsp;
+<SYNC Start=4221052><P Class=KRCC>알겠어? 싸고 싶다고 말하고 있는거
+<SYNC Start=4223145><P Class=KRCC>&nbsp;
+<SYNC Start=4223146><P Class=KRCC>딱딱해졌어
+<SYNC Start=4226146><P Class=KRCC>&nbsp;
+<SYNC Start=4226432><P Class=KRCC>많이 싸고 싶은거야?<br>- 응
+<SYNC Start=4229432><P Class=KRCC>&nbsp;
+<SYNC Start=4238647><P Class=KRCC>싸도 돼?
+<SYNC Start=4241647><P Class=KRCC>&nbsp;
+<SYNC Start=4242088><P Class=KRCC>아직 안돼
+<SYNC Start=4245088><P Class=KRCC>&nbsp;
+<SYNC Start=4245921><P Class=KRCC>그래도 이제 남은곳은 한곳밖에 없어
+<SYNC Start=4248921><P Class=KRCC>&nbsp;
+<SYNC Start=4250190><P Class=KRCC>어디지?
+<SYNC Start=4253190><P Class=KRCC>&nbsp;
+<SYNC Start=4253712><P Class=KRCC>모르겠어?
+<SYNC Start=4256712><P Class=KRCC>&nbsp;
+<SYNC Start=4259998><P Class=KRCC>참을 수 없게 되어버렸어
+<SYNC Start=4262573><P Class=KRCC>&nbsp;
+<SYNC Start=4262574><P Class=KRCC>다시 한번 말해봐
+<SYNC Start=4265574><P Class=KRCC>&nbsp;
+<SYNC Start=4267982><P Class=KRCC>참을 수 없게 되어 버렷어
+<SYNC Start=4270982><P Class=KRCC>&nbsp;
+<SYNC Start=4271361><P Class=KRCC>그게 무슨 말이죠?
+<SYNC Start=4274361><P Class=KRCC>&nbsp;
+<SYNC Start=4277303><P Class=KRCC>야한게 하고 싶어졌어
+<SYNC Start=4280303><P Class=KRCC>&nbsp;
+<SYNC Start=4285148><P Class=KRCC>오타쿠의 자지라도<br>범해 달라고 말해 보세요
+<SYNC Start=4288148><P Class=KRCC>&nbsp;
+<SYNC Start=4289470><P Class=KRCC>오타쿠의 자지로 범해줘
+<SYNC Start=4292470><P Class=KRCC>&nbsp;
+<SYNC Start=4293268><P Class=KRCC>정말로 괜찮은거야?
+<SYNC Start=4295503><P Class=KRCC>&nbsp;
+<SYNC Start=4295504><P Class=KRCC>잠깐.. 누나..<br>그게 무슨 의미야?
+<SYNC Start=4297755><P Class=KRCC>&nbsp;
+<SYNC Start=4297756><P Class=KRCC>뭘 할 생각이야?
+<SYNC Start=4299726><P Class=KRCC>&nbsp;
+<SYNC Start=4299727><P Class=KRCC>괜찬잖아
+<SYNC Start=4301289><P Class=KRCC>&nbsp;
+<SYNC Start=4301290><P Class=KRCC>아니 뭐가 괜찮아
+<SYNC Start=4303587><P Class=KRCC>&nbsp;
+<SYNC Start=4303588><P Class=KRCC>그게
+<SYNC Start=4305199><P Class=KRCC>&nbsp;
+<SYNC Start=4305200><P Class=KRCC>이미 참을수가 없다고
+<SYNC Start=4307491><P Class=KRCC>&nbsp;
+<SYNC Start=4307492><P Class=KRCC>동생 앞에서 괜찮아?
+<SYNC Start=4310492><P Class=KRCC>&nbsp;
+<SYNC Start=4310733><P Class=KRCC>옆으로 누워봐
+<SYNC Start=4313430><P Class=KRCC>&nbsp;
+<SYNC Start=4313431><P Class=KRCC>동생 보고 있는데?
+<SYNC Start=4316431><P Class=KRCC>&nbsp;
+<SYNC Start=4316631><P Class=KRCC>누나,,
+<SYNC Start=4319631><P Class=KRCC>&nbsp;
+<SYNC Start=4319781><P Class=KRCC>동생 앞에서 범해져 버려
+<SYNC Start=4322781><P Class=KRCC>&nbsp;
+<SYNC Start=4323647><P Class=KRCC>누나 정말 괜찮은거야?
+<SYNC Start=4326647><P Class=KRCC>&nbsp;
+<SYNC Start=4330416><P Class=KRCC>아 타카쇼 천천히 넣을게요
+<SYNC Start=4333416><P Class=KRCC>&nbsp;
+<SYNC Start=4338891><P Class=KRCC>귀두쪽이 들어왔어
+<SYNC Start=4341891><P Class=KRCC>&nbsp;
+<SYNC Start=4343658><P Class=KRCC>그라돌이랑 섹스 하고 있네
+<SYNC Start=4346658><P Class=KRCC>&nbsp;
+<SYNC Start=4356104><P Class=KRCC>섹스 해버렸어
+<SYNC Start=4358859><P Class=KRCC>&nbsp;
+<SYNC Start=4358860><P Class=KRCC>오타쿠랑 섹스하자
+<SYNC Start=4361860><P Class=KRCC>&nbsp;
+<SYNC Start=4365900><P Class=KRCC>좋아
+<SYNC Start=4368900><P Class=KRCC>&nbsp;
+<SYNC Start=4372724><P Class=KRCC>음란해져
+<SYNC Start=4375724><P Class=KRCC>&nbsp;
+<SYNC Start=4377285><P Class=KRCC>보여?<br>엄청 들어왔어
+<SYNC Start=4380285><P Class=KRCC>&nbsp;
+<SYNC Start=4381873><P Class=KRCC>그라돌의 보지 기분좋아?
+<SYNC Start=4384765><P Class=KRCC>&nbsp;
+<SYNC Start=4384766><P Class=KRCC>그라돌의 보지는 전혀 다르네
+<SYNC Start=4387766><P Class=KRCC>&nbsp;
+<SYNC Start=4402393><P Class=KRCC>그거 너무 좋아
+<SYNC Start=4405393><P Class=KRCC>&nbsp;
+<SYNC Start=4405950><P Class=KRCC>아 다리가 탄력이 좋네
+<SYNC Start=4408950><P Class=KRCC>&nbsp;
+<SYNC Start=4409764><P Class=KRCC>타카쇼..
+<SYNC Start=4411785><P Class=KRCC>&nbsp;
+<SYNC Start=4411786><P Class=KRCC>갑자기 S가 되어버렸네
+<SYNC Start=4414270><P Class=KRCC>&nbsp;
+<SYNC Start=4414271><P Class=KRCC>즐거워?<br>- 즐거워
+<SYNC Start=4417271><P Class=KRCC>&nbsp;
+<SYNC Start=4427011><P Class=KRCC>오타쿠는 화난다구요
+<SYNC Start=4430011><P Class=KRCC>&nbsp;
+<SYNC Start=4431238><P Class=KRCC>오타쿠도 화를 낸다구요<br>- 그래?
+<SYNC Start=4434238><P Class=KRCC>&nbsp;
+<SYNC Start=4435176><P Class=KRCC>그렇게 얼굴을 문질러대면<br>- 미안해
+<SYNC Start=4438176><P Class=KRCC>&nbsp;
+<SYNC Start=4439486><P Class=KRCC>범해주겠어
+<SYNC Start=4442067><P Class=KRCC>&nbsp;
+<SYNC Start=4442068><P Class=KRCC>동생 앞에서 가버려
+<SYNC Start=4445068><P Class=KRCC>&nbsp;
+<SYNC Start=4446459><P Class=KRCC>아! 아파 아파
+<SYNC Start=4449056><P Class=KRCC>&nbsp;
+<SYNC Start=4449057><P Class=KRCC>발에 쥐났어
+<SYNC Start=4451988><P Class=KRCC>&nbsp;
+<SYNC Start=4451989><P Class=KRCC>쥐났어?
+<SYNC Start=4454989><P Class=KRCC>&nbsp;
+<SYNC Start=4455820><P Class=KRCC>오타쿠라서?
+<SYNC Start=4458097><P Class=KRCC>&nbsp;
+<SYNC Start=4458098><P Class=KRCC>응. 오타쿠들은 운동 안하니까
+<SYNC Start=4461098><P Class=KRCC>&nbsp;
+<SYNC Start=4461104><P Class=KRCC>왜 웃는거야<br>너무해
+<SYNC Start=4464104><P Class=KRCC>&nbsp;
+<SYNC Start=4466470><P Class=KRCC>갈뻔 했는데<br>왜 쥐가 나는거야
+<SYNC Start=4469470><P Class=KRCC>&nbsp;
+<SYNC Start=4469921><P Class=KRCC>마음껏 사용해주세요
+<SYNC Start=4472921><P Class=KRCC>&nbsp;
+<SYNC Start=4473789><P Class=KRCC>자는것만은 특기니까
+<SYNC Start=4476789><P Class=KRCC>&nbsp;
+<SYNC Start=4479906><P Class=KRCC>들어간다
+<SYNC Start=4482906><P Class=KRCC>&nbsp;
+<SYNC Start=4483451><P Class=KRCC>들어갔어
+<SYNC Start=4486451><P Class=KRCC>&nbsp;
+<SYNC Start=4492388><P Class=KRCC>들어가 버렷어
+<SYNC Start=4495388><P Class=KRCC>&nbsp;
+<SYNC Start=4499753><P Class=KRCC>기분 좋아
+<SYNC Start=4502753><P Class=KRCC>&nbsp;
+<SYNC Start=4503249><P Class=KRCC>스스로 움직이는거 좋아
+<SYNC Start=4506249><P Class=KRCC>&nbsp;
+<SYNC Start=4507591><P Class=KRCC>그라돌도 스스로 움직이니까
+<SYNC Start=4510591><P Class=KRCC>&nbsp;
+<SYNC Start=4512962><P Class=KRCC>많이 움직여주세요
+<SYNC Start=4515962><P Class=KRCC>&nbsp;
+<SYNC Start=4520268><P Class=KRCC>좋아 많이 움직일거야
+<SYNC Start=4523268><P Class=KRCC>&nbsp;
+<SYNC Start=4534214><P Class=KRCC>뭔가요 그 허리 놀림은
+<SYNC Start=4536943><P Class=KRCC>&nbsp;
+<SYNC Start=4536944><P Class=KRCC>빙글빙글 돌리는게 너무 좋은걸
+<SYNC Start=4539944><P Class=KRCC>&nbsp;
+<SYNC Start=4542623><P Class=KRCC>좋아
+<SYNC Start=4545395><P Class=KRCC>&nbsp;
+<SYNC Start=4545396><P Class=KRCC>저도 좋아요
+<SYNC Start=4548396><P Class=KRCC>&nbsp;
+<SYNC Start=4552800><P Class=KRCC>타카쇼가 가기전에<br>제가 싸면 화내실거에요?
+<SYNC Start=4555800><P Class=KRCC>&nbsp;
+<SYNC Start=4556239><P Class=KRCC>응 아직 안돼<br>- 네
+<SYNC Start=4559239><P Class=KRCC>&nbsp;
+<SYNC Start=4573370><P Class=KRCC>이것도 기분 좋아
+<SYNC Start=4576370><P Class=KRCC>&nbsp;
+<SYNC Start=4581934><P Class=KRCC>또 가버려
+<SYNC Start=4584399><P Class=KRCC>&nbsp;
+<SYNC Start=4584400><P Class=KRCC>가도 돼?
+<SYNC Start=4586655><P Class=KRCC>&nbsp;
+<SYNC Start=4586656><P Class=KRCC>간다
+<SYNC Start=4589656><P Class=KRCC>&nbsp;
+<SYNC Start=4591924><P Class=KRCC>아 빠져 버렸다
+<SYNC Start=4594924><P Class=KRCC>&nbsp;
+<SYNC Start=4598535><P Class=KRCC>저 흠뻑 젖었어요
+<SYNC Start=4601196><P Class=KRCC>&nbsp;
+<SYNC Start=4601197><P Class=KRCC>(그래서) 빠져 버렸어요
+<SYNC Start=4604197><P Class=KRCC>&nbsp;
+<SYNC Start=4604699><P Class=KRCC>안돼..
+<SYNC Start=4607695><P Class=KRCC>&nbsp;
+<SYNC Start=4607696><P Class=KRCC>간지 얼마 안됐는데 또
+<SYNC Start=4610696><P Class=KRCC>&nbsp;
+<SYNC Start=4611838><P Class=KRCC>그렇게 격렬하게 박으면 안돼
+<SYNC Start=4614838><P Class=KRCC>&nbsp;
+<SYNC Start=4617363><P Class=KRCC>또 가버려
+<SYNC Start=4620296><P Class=KRCC>&nbsp;
+<SYNC Start=4620297><P Class=KRCC>그런거 안돼...
+<SYNC Start=4623297><P Class=KRCC>&nbsp;
+<SYNC Start=4635663><P Class=KRCC>아 가슴이 탱탱하네
+<SYNC Start=4637710><P Class=KRCC>&nbsp;
+<SYNC Start=4637711><P Class=KRCC>간지 얼마 안됐는데
+<SYNC Start=4640711><P Class=KRCC>&nbsp;
+<SYNC Start=4659779><P Class=KRCC>야해
+<SYNC Start=4662779><P Class=KRCC>&nbsp;
+<SYNC Start=4678408><P Class=KRCC>이것도 기분 좋아
+<SYNC Start=4681408><P Class=KRCC>&nbsp;
+<SYNC Start=4711266><P Class=KRCC>거기 움직이는거 좋아해?<br>- 응 좋아
+<SYNC Start=4714266><P Class=KRCC>&nbsp;
+<SYNC Start=4733964><P Class=KRCC>자지 너무 좋아
+<SYNC Start=4736964><P Class=KRCC>&nbsp;
+<SYNC Start=4737416><P Class=KRCC>좀 더 말해줘
+<SYNC Start=4739312><P Class=KRCC>&nbsp;
+<SYNC Start=4739313><P Class=KRCC>자지 너무 좋아
+<SYNC Start=4742313><P Class=KRCC>&nbsp;
+<SYNC Start=4747800><P Class=KRCC>자지 맛있어?
+<SYNC Start=4750104><P Class=KRCC>&nbsp;
+<SYNC Start=4750105><P Class=KRCC>자지 맛있어
+<SYNC Start=4753105><P Class=KRCC>&nbsp;
+<SYNC Start=4769644><P Class=KRCC>나도 움직여야 겠다
+<SYNC Start=4772644><P Class=KRCC>&nbsp;
+<SYNC Start=4784963><P Class=KRCC>좀 더 박아줘
+<SYNC Start=4787963><P Class=KRCC>&nbsp;
+<SYNC Start=4800105><P Class=KRCC>또 가겠어<br>- 정말?
+<SYNC Start=4803105><P Class=KRCC>&nbsp;
+<SYNC Start=4803738><P Class=KRCC>좀 더 격렬하게 해줘
+<SYNC Start=4805697><P Class=KRCC>&nbsp;
+<SYNC Start=4805698><P Class=KRCC>아 가버려<br>또 가겠어
+<SYNC Start=4808698><P Class=KRCC>&nbsp;
+<SYNC Start=4825180><P Class=KRCC>타카쇼 엄청나
+<SYNC Start=4827622><P Class=KRCC>&nbsp;
+<SYNC Start=4827623><P Class=KRCC>응. 좋아?
+<SYNC Start=4830623><P Class=KRCC>&nbsp;
+<SYNC Start=4830866><P Class=KRCC>그라돌이라 누가 보고있으면 흥분돼
+<SYNC Start=4833866><P Class=KRCC>&nbsp;
+<SYNC Start=4843476><P Class=KRCC>훤히 보이네
+<SYNC Start=4846476><P Class=KRCC>&nbsp;
+<SYNC Start=4846929><P Class=KRCC>많이 봐줘
+<SYNC Start=4849929><P Class=KRCC>&nbsp;
+<SYNC Start=4890381><P Class=KRCC>또 들어왔어
+<SYNC Start=4893381><P Class=KRCC>&nbsp;
+<SYNC Start=4906615><P Class=KRCC>타카쇼..
+<SYNC Start=4909559><P Class=KRCC>&nbsp;
+<SYNC Start=4909560><P Class=KRCC>뒤로도 하고 싶어
+<SYNC Start=4912556><P Class=KRCC>&nbsp;
+<SYNC Start=4912557><P Class=KRCC>뒤로도 박아줘
+<SYNC Start=4915557><P Class=KRCC>&nbsp;
+<SYNC Start=4916333><P Class=KRCC>벗겨도 돼?<br>- 응
+<SYNC Start=4919333><P Class=KRCC>&nbsp;
+<SYNC Start=4924222><P Class=KRCC>자지 들어온다
+<SYNC Start=4927222><P Class=KRCC>&nbsp;
+<SYNC Start=4930498><P Class=KRCC>뒤에서도 들어왔어
+<SYNC Start=4933498><P Class=KRCC>&nbsp;
+<SYNC Start=4945244><P Class=KRCC>가버리니까 너무 움직이면 안돼
+<SYNC Start=4948244><P Class=KRCC>&nbsp;
+<SYNC Start=4949931><P Class=KRCC>안되는 거야?<br>- 응
+<SYNC Start=4952931><P Class=KRCC>&nbsp;
+<SYNC Start=4954072><P Class=KRCC>잠깐.. 왜 멈추는거야?
+<SYNC Start=4956586><P Class=KRCC>&nbsp;
+<SYNC Start=4956587><P Class=KRCC>아니 타카쇼가 하지 말라고 그랬잖아
+<SYNC Start=4958667><P Class=KRCC>&nbsp;
+<SYNC Start=4958668><P Class=KRCC>하지 말라고는 안했는데
+<SYNC Start=4961668><P Class=KRCC>&nbsp;
+<SYNC Start=4961682><P Class=KRCC>하지 말라는게 하라는 거였어?
+<SYNC Start=4964682><P Class=KRCC>&nbsp;
+<SYNC Start=4969129><P Class=KRCC>당연 하잖아
+<SYNC Start=4971258><P Class=KRCC>&nbsp;
+<SYNC Start=4971259><P Class=KRCC>멍석 깔아준 거잖아<br>- 그런 거였어?
+<SYNC Start=4973518><P Class=KRCC>&nbsp;
+<SYNC Start=4973519><P Class=KRCC>그런 애였었나?
+<SYNC Start=4976519><P Class=KRCC>&nbsp;
+<SYNC Start=4997630><P Class=KRCC>좋아?
+<SYNC Start=4999955><P Class=KRCC>&nbsp;
+<SYNC Start=4999956><P Class=KRCC>좋아
+<SYNC Start=5002408><P Class=KRCC>&nbsp;
+<SYNC Start=5002409><P Class=KRCC>오타쿠의 자지가?<br>- 응
+<SYNC Start=5005409><P Class=KRCC>&nbsp;
+<SYNC Start=5018014><P Class=KRCC>엄청 두꺼운게 들어왔어
+<SYNC Start=5021014><P Class=KRCC>&nbsp;
+<SYNC Start=5022518><P Class=KRCC>두꺼운게 들어왔어
+<SYNC Start=5025518><P Class=KRCC>&nbsp;
+<SYNC Start=5033367><P Class=KRCC>보지가 훤히 보이네
+<SYNC Start=5036367><P Class=KRCC>&nbsp;
+<SYNC Start=5036592><P Class=KRCC>많이 봐줘
+<SYNC Start=5039592><P Class=KRCC>&nbsp;
+<SYNC Start=5053830><P Class=KRCC>그렇게 두꺼운게 들어오면<br>개조되어 버려
+<SYNC Start=5056830><P Class=KRCC>&nbsp;
+<SYNC Start=5058748><P Class=KRCC>개조해도 될까?<br>- 응
+<SYNC Start=5061748><P Class=KRCC>&nbsp;
+<SYNC Start=5061948><P Class=KRCC>많이 개조해줘
+<SYNC Start=5064948><P Class=KRCC>&nbsp;
+<SYNC Start=5070503><P Class=KRCC>(자세가)*터치 와이프가 되어버렸네<br><font color="#0080ff">(*여성 모양의 인형. 성인용품.)</font>
+<SYNC Start=5073503><P Class=KRCC>&nbsp;
+<SYNC Start=5074853><P Class=KRCC>터치 와이프로 써줘
+<SYNC Start=5077853><P Class=KRCC>&nbsp;
+<SYNC Start=5087634><P Class=KRCC>그런 말 해버리면
+<SYNC Start=5090113><P Class=KRCC>&nbsp;
+<SYNC Start=5090114><P Class=KRCC>진심으로 받아들인다
+<SYNC Start=5093114><P Class=KRCC>&nbsp;
+<SYNC Start=5093522><P Class=KRCC>많이 야한짓 해줘
+<SYNC Start=5096522><P Class=KRCC>&nbsp;
+<SYNC Start=5105494><P Class=KRCC>하루 종일 야한짓 당하고 싶어?
+<SYNC Start=5108494><P Class=KRCC>&nbsp;
+<SYNC Start=5109627><P Class=KRCC>하루 종일 해줘
+<SYNC Start=5112627><P Class=KRCC>&nbsp;
+<SYNC Start=5122746><P Class=KRCC>타카쇼.. 그런 애였구나
+<SYNC Start=5125746><P Class=KRCC>&nbsp;
+<SYNC Start=5130439><P Class=KRCC>이거
+<SYNC Start=5132311><P Class=KRCC>&nbsp;
+<SYNC Start=5132312><P Class=KRCC>내가 집에 가져가도 될까?
+<SYNC Start=5134812><P Class=KRCC>&nbsp;
+<SYNC Start=5134813><P Class=KRCC>가지고 싶어?<br>- 선물로
+<SYNC Start=5136889><P Class=KRCC>&nbsp;
+<SYNC Start=5136890><P Class=KRCC>알았어
+<SYNC Start=5138219><P Class=KRCC>&nbsp;
+<SYNC Start=5138220><P Class=KRCC>한분께 선물로 드립니다
+<SYNC Start=5140221><P Class=KRCC>&nbsp;
+<SYNC Start=5140222><P Class=KRCC>제가 당첨 됐어요
+<SYNC Start=5143222><P Class=KRCC>&nbsp;
+<SYNC Start=5145563><P Class=KRCC>축하해<br>- 고마워요
+<SYNC Start=5148045><P Class=KRCC>&nbsp;
+<SYNC Start=5148046><P Class=KRCC>나중에 여기에 싸인 부탁드려요<br>- 네
+<SYNC Start=5151046><P Class=KRCC>&nbsp;
+<SYNC Start=5162422><P Class=KRCC>보지 개조 다시 시작 하겠습니다
+<SYNC Start=5168058><P Class=KRCC>&nbsp;
+<SYNC Start=5189922><P Class=KRCC>타카쇼 어때요?
+<SYNC Start=5192922><P Class=KRCC>&nbsp;
+<SYNC Start=5194240><P Class=KRCC>너무 좋아요
+<SYNC Start=5196333><P Class=KRCC>&nbsp;
+<SYNC Start=5196334><P Class=KRCC>아아 또 그렇게 격렬하게
+<SYNC Start=5199334><P Class=KRCC>&nbsp;
+<SYNC Start=5204945><P Class=KRCC>이상해져 버려
+<SYNC Start=5207945><P Class=KRCC>&nbsp;
+<SYNC Start=5216562><P Class=KRCC>또 보짓물이 나오네
+<SYNC Start=5219562><P Class=KRCC>&nbsp;
+<SYNC Start=5220013><P Class=KRCC>응 많이 나왔어
+<SYNC Start=5223013><P Class=KRCC>&nbsp;
+<SYNC Start=5232895><P Class=KRCC>아 가슴 주무르고 있어?
+<SYNC Start=5235895><P Class=KRCC>&nbsp;
+<SYNC Start=5243162><P Class=KRCC>가슴 주무르는거 보고싶어
+<SYNC Start=5246162><P Class=KRCC>&nbsp;
+<SYNC Start=5247863><P Class=KRCC>많이 봐줘
+<SYNC Start=5250863><P Class=KRCC>&nbsp;
+<SYNC Start=5252691><P Class=KRCC>보지를 맛보고있어
+<SYNC Start=5255691><P Class=KRCC>&nbsp;
+<SYNC Start=5256842><P Class=KRCC>내 보지를 맛봐줘
+<SYNC Start=5259842><P Class=KRCC>&nbsp;
+<SYNC Start=5259924><P Class=KRCC>응 맛있어
+<SYNC Start=5262924><P Class=KRCC>&nbsp;
+<SYNC Start=5275916><P Class=KRCC>남자한테 주물러지는게 좋지?
+<SYNC Start=5278916><P Class=KRCC>&nbsp;
+<SYNC Start=5281648><P Class=KRCC>이쪽이 더 좋지?
+<SYNC Start=5284562><P Class=KRCC>&nbsp;
+<SYNC Start=5284563><P Class=KRCC>많이 주물러줘
+<SYNC Start=5287088><P Class=KRCC>&nbsp;
+<SYNC Start=5287089><P Class=KRCC>좀 더 커질텐데?
+<SYNC Start=5290089><P Class=KRCC>&nbsp;
+<SYNC Start=5290440><P Class=KRCC>많이 커졌어
+<SYNC Start=5293292><P Class=KRCC>&nbsp;
+<SYNC Start=5293293><P Class=KRCC>많이 주물러줘<br>- 응 타카쇼의 팬들 다들 그렇게 생각할거야
+<SYNC Start=5297484><P Class=KRCC>&nbsp;
+<SYNC Start=5298463><P Class=KRCC>많이 주물러줘
+<SYNC Start=5301463><P Class=KRCC>&nbsp;
+<SYNC Start=5310254><P Class=KRCC>보지가 또 젖어온다
+<SYNC Start=5313254><P Class=KRCC>&nbsp;
+<SYNC Start=5318333><P Class=KRCC>가슴이 성감대야?
+<SYNC Start=5321333><P Class=KRCC>&nbsp;
+<SYNC Start=5322611><P Class=KRCC>아~ 그거 안돼~
+<SYNC Start=5325611><P Class=KRCC>&nbsp;
+<SYNC Start=5333260><P Class=KRCC>아~ 안돼
+<SYNC Start=5336123><P Class=KRCC>&nbsp;
+<SYNC Start=5336124><P Class=KRCC>또 가버려
+<SYNC Start=5339124><P Class=KRCC>&nbsp;
+<SYNC Start=5363003><P Class=KRCC>타카쇼 왜 그래?
+<SYNC Start=5366003><P Class=KRCC>&nbsp;
+<SYNC Start=5378411><P Class=KRCC>정액을 원해
+<SYNC Start=5381411><P Class=KRCC>&nbsp;
+<SYNC Start=5382018><P Class=KRCC>정액이 가지고 싶어졌어
+<SYNC Start=5385018><P Class=KRCC>&nbsp;
+<SYNC Start=5385393><P Class=KRCC>내꺼?<br>- 응
+<SYNC Start=5388393><P Class=KRCC>&nbsp;
+<SYNC Start=5394115><P Class=KRCC>나한테 뿌려줘
+<SYNC Start=5397115><P Class=KRCC>&nbsp;
+<SYNC Start=5400836><P Class=KRCC>잡지처럼 반짝반짝하게 해줘
+<SYNC Start=5403836><P Class=KRCC>&nbsp;
+<SYNC Start=5404483><P Class=KRCC>*평소에 하는걸 진짜에 해도 돼?<br><font color="#0080ff">(*잡지보고 자위해서 뿌리는거)</font>
+<SYNC Start=5407483><P Class=KRCC>&nbsp;
+<SYNC Start=5414295><P Class=KRCC>반짝반짝하게 해줄게<br>- 응
+<SYNC Start=5417295><P Class=KRCC>&nbsp;
+<SYNC Start=5445597><P Class=KRCC>자지가 근질근질 해졌어
+<SYNC Start=5448269><P Class=KRCC>&nbsp;
+<SYNC Start=5448270><P Class=KRCC>근질근질 해?
+<SYNC Start=5451270><P Class=KRCC>&nbsp;
+<SYNC Start=5453376><P Class=KRCC>많이 싸줘<br>- 응
+<SYNC Start=5456376><P Class=KRCC>&nbsp;
+<SYNC Start=5456449><P Class=KRCC>많이 싸줬으면 좋겠어
+<SYNC Start=5459449><P Class=KRCC>&nbsp;
+<SYNC Start=5521315><P Class=KRCC>아 싸겠다
+<SYNC Start=5522793><P Class=KRCC>&nbsp;
+<SYNC Start=5522794><P Class=KRCC>많이 싸줘<br>- 안돼겠다 싼다
+<SYNC Start=5525794><P Class=KRCC>&nbsp;
+<SYNC Start=5569364><P Class=KRCC>많이 나왔어
+<SYNC Start=5572364><P Class=KRCC>&nbsp;
+<SYNC Start=5580208><P Class=KRCC>기뻐
+<SYNC Start=5583208><P Class=KRCC>&nbsp;
+<SYNC Start=5592382><P Class=KRCC>뭐 하는거야?
+<SYNC Start=5594279><P Class=KRCC>&nbsp;
+<SYNC Start=5594280><P Class=KRCC>가버린 뒤에 타카쇼를<br>기념으로
+<SYNC Start=5597280><P Class=KRCC>&nbsp;
+<SYNC Start=5597708><P Class=KRCC>기념 촬영?<br>- 네
+<SYNC Start=5599499><P Class=KRCC>&nbsp;
+<SYNC Start=5599500><P Class=KRCC>브이싸인 부탁해요
+<SYNC Start=5602371><P Class=KRCC>&nbsp;
+<SYNC Start=5602372><P Class=KRCC>혀도 내밀고<br>아 좋네~
+<SYNC Start=5604855><P Class=KRCC>&nbsp;
+<SYNC Start=5604856><P Class=KRCC>아 다른 방향으로 내밀었네 좋아~
+<SYNC Start=5607809><P Class=KRCC>&nbsp;
+<SYNC Start=5607810><P Class=KRCC>가슴 모으고
+<SYNC Start=5610810><P Class=KRCC>&nbsp;
+<SYNC Start=5611925><P Class=KRCC>아 정액 냄새
+<SYNC Start=5614925><P Class=KRCC>&nbsp;
+<SYNC Start=5619434><P Class=KRCC>찍혀 버렸네
+<SYNC Start=5621658><P Class=KRCC>&nbsp;
+<SYNC Start=5621659><P Class=KRCC>아 타카쇼~<br>- 응
+<SYNC Start=5623596><P Class=KRCC>&nbsp;
+<SYNC Start=5623597><P Class=KRCC>오늘 고마웠어요<br>- 나도 고마워
+<SYNC Start=5626421><P Class=KRCC>&nbsp;
+<SYNC Start=5626422><P Class=KRCC>또 와<br>- 네 또 많이 (굿즈)살게요
+<SYNC Start=5628403><P Class=KRCC>&nbsp;
+<SYNC Start=5628404><P Class=KRCC>응 많이 사줘
+<SYNC Start=5629938><P Class=KRCC>&nbsp;
+<SYNC Start=5629939><P Class=KRCC>누나 좀..<br>- 응?
+<SYNC Start=5631679><P Class=KRCC>&nbsp;
+<SYNC Start=5631680><P Class=KRCC>또 와는 무슨<br>- 괜찮잖아
+<SYNC Start=5634107><P Class=KRCC>&nbsp;
+<SYNC Start=5634108><P Class=KRCC>또 오라고해<br>- 그렇죠?
+<SYNC Start=5637108><P Class=KRCC>&nbsp;
+<SYNC Start=5639341><P Class=KRCC>자막 제작, 배포 쿠쿠다스닷컴<br><font color=#FFFFC6>K</font><font color=#FFFFA2>U</font><font color=#FFFF7E>K</font><font color=#FFFF5A>U</font><font color=#E1FF36>D</font><font color=#BDFF12>A</font><font color=#ABF200>S</font><font color=#99E000>.</font><font color=#87CE00>C</font><font color=#75BC00>O</font><font color=#87CE00>M</font>
+<SYNC Start=5648321><P Class=KRCC>&nbsp;
+<SYNC Start=5725622><P Class=KRCC>너도 보기만 하지 말고 좀 도와
+<SYNC Start=5728622><P Class=KRCC>&nbsp;
+<SYNC Start=5740983><P Class=KRCC>정말~<br>하나도 안도와주고
+<SYNC Start=5743983><P Class=KRCC>&nbsp;
+<SYNC Start=5747578><P Class=KRCC><font color="#0080ff">이 가슴을 보다가 결국..</font>
+<SYNC Start=5749265><P Class=KRCC>&nbsp;
+<SYNC Start=5749266><P Class=KRCC>잡지처럼 반짝반짝하게 해줘
+<SYNC Start=5752266><P Class=KRCC>&nbsp;
+<SYNC Start=5752854><P Class=KRCC><font color="#0080ff">누나의 엣치(섹스)를 떠올려 버렸다..</font>
+<SYNC Start=5755128><P Class=KRCC>&nbsp;
+<SYNC Start=5755129><P Class=KRCC>아
+<SYNC Start=5757295><P Class=KRCC>&nbsp;
+<SYNC Start=5757296><P Class=KRCC>그랬겠다?
+<SYNC Start=5760296><P Class=KRCC>&nbsp;
+<SYNC Start=5761390><P Class=KRCC>반격이다<br>- 잠깐 하지마
+<SYNC Start=5764390><P Class=KRCC>&nbsp;
+<SYNC Start=5766495><P Class=KRCC>이거봐 이게 더 쎄지?
+<SYNC Start=5769495><P Class=KRCC>&nbsp;
+<SYNC Start=5771133><P Class=KRCC>하지마
+<SYNC Start=5772359><P Class=KRCC>&nbsp;
+<SYNC Start=5772360><P Class=KRCC>치사하게<br>- 왜?
+<SYNC Start=5774516><P Class=KRCC>&nbsp;
+<SYNC Start=5774517><P Class=KRCC>누나가 먼저 했잖아<br>- 싫어 싫어
+<SYNC Start=5777114><P Class=KRCC>&nbsp;
+<SYNC Start=5777115><P Class=KRCC>하지마
+<SYNC Start=5779625><P Class=KRCC>&nbsp;
+<SYNC Start=5779626><P Class=KRCC>가슴만 노려서 쏘지말라고
+<SYNC Start=5782626><P Class=KRCC>&nbsp;
+<SYNC Start=5782697><P Class=KRCC>응? 그럴 생각은 없었는데<br>- 뭐가 하고 싶은건데
+<SYNC Start=5784685><P Class=KRCC>&nbsp;
+<SYNC Start=5784686><P Class=KRCC>다른데도 쏘고 있잖아
+<SYNC Start=5787238><P Class=KRCC>&nbsp;
+<SYNC Start=5787239><P Class=KRCC>가슴만 쏘고 있잖아
+<SYNC Start=5789363><P Class=KRCC>&nbsp;
+<SYNC Start=5789364><P Class=KRCC>이쪽이 훨씬 쎄지<br>- 하지마
+<SYNC Start=5791300><P Class=KRCC>&nbsp;
+<SYNC Start=5791301><P Class=KRCC>받아라!
+<SYNC Start=5794301><P Class=KRCC>&nbsp;
+<SYNC Start=5794349><P Class=KRCC>어? 누나 아직도 쏘고 있는거야?
+<SYNC Start=5797349><P Class=KRCC>&nbsp;
+<SYNC Start=5797834><P Class=KRCC>싫어~
+<SYNC Start=5800382><P Class=KRCC>&nbsp;
+<SYNC Start=5800383><P Class=KRCC>아
+<SYNC Start=5803383><P Class=KRCC>&nbsp;
+<SYNC Start=5818308><P Class=KRCC>저기
+<SYNC Start=5820029><P Class=KRCC>&nbsp;
+<SYNC Start=5820030><P Class=KRCC>누나 가슴 이렇게 빵빵했어?
+<SYNC Start=5823030><P Class=KRCC>&nbsp;
+<SYNC Start=5824838><P Class=KRCC>아니야
+<SYNC Start=5827460><P Class=KRCC>&nbsp;
+<SYNC Start=5827461><P Class=KRCC>부드러워
+<SYNC Start=5830015><P Class=KRCC>&nbsp;
+<SYNC Start=5830016><P Class=KRCC>정말?
+<SYNC Start=5833016><P Class=KRCC>&nbsp;
+<SYNC Start=5833866><P Class=KRCC>만지게 해줘
+<SYNC Start=5836182><P Class=KRCC>&nbsp;
+<SYNC Start=5836183><P Class=KRCC>무슨 소릴 하는거야
+<SYNC Start=5839183><P Class=KRCC>&nbsp;
+<SYNC Start=5839359><P Class=KRCC>정말 뻔뻔하게
+<SYNC Start=5841517><P Class=KRCC>&nbsp;
+<SYNC Start=5841518><P Class=KRCC>건방져
+<SYNC Start=5843458><P Class=KRCC>&nbsp;
+<SYNC Start=5843459><P Class=KRCC>만지게 해줄리 없잖아
+<SYNC Start=5846459><P Class=KRCC>&nbsp;
+<SYNC Start=5847263><P Class=KRCC>그럼 청소 안 도와줄 거야
+<SYNC Start=5850263><P Class=KRCC>&nbsp;
+<SYNC Start=5852107><P Class=KRCC>에?
+<SYNC Start=5854170><P Class=KRCC>&nbsp;
+<SYNC Start=5854171><P Class=KRCC>뭐래
+<SYNC Start=5857171><P Class=KRCC>&nbsp;
+<SYNC Start=5858513><P Class=KRCC>적어도
+<SYNC Start=5860966><P Class=KRCC>&nbsp;
+<SYNC Start=5860967><P Class=KRCC>도와달라고 할거면<br>용돈이라도 주던가
+<SYNC Start=5865303><P Class=KRCC>&nbsp;
+<SYNC Start=5866358><P Class=KRCC>용돈?
+<SYNC Start=5868964><P Class=KRCC>&nbsp;
+<SYNC Start=5868965><P Class=KRCC>용돈은 무리지
+<SYNC Start=5871965><P Class=KRCC>&nbsp;
+<SYNC Start=5874907><P Class=KRCC>그럼 안할거야
+<SYNC Start=5877661><P Class=KRCC>&nbsp;
+<SYNC Start=5877662><P Class=KRCC>에~?
+<SYNC Start=5880209><P Class=KRCC>&nbsp;
+<SYNC Start=5880210><P Class=KRCC>아 그럼
+<SYNC Start=5882650><P Class=KRCC>&nbsp;
+<SYNC Start=5882651><P Class=KRCC>파워를 쓰게 해줄게
+<SYNC Start=5884941><P Class=KRCC>&nbsp;
+<SYNC Start=5884942><P Class=KRCC>뭐야 그게?
+<SYNC Start=5887136><P Class=KRCC>&nbsp;
+<SYNC Start=5887137><P Class=KRCC>3분간
+<SYNC Start=5888892><P Class=KRCC>&nbsp;
+<SYNC Start=5888893><P Class=KRCC>3분간 시간을 멈추는거야
+<SYNC Start=5891893><P Class=KRCC>&nbsp;
+<SYNC Start=5893733><P Class=KRCC>그런게 가능해?
+<SYNC Start=5896017><P Class=KRCC>&nbsp;
+<SYNC Start=5896018><P Class=KRCC>시간이여 멈춰라 라고 말해봐
+<SYNC Start=5899018><P Class=KRCC>&nbsp;
+<SYNC Start=5899446><P Class=KRCC>아 응
+<SYNC Start=5901738><P Class=KRCC>&nbsp;
+<SYNC Start=5901739><P Class=KRCC>시간이여 멈춰라
+<SYNC Start=5904739><P Class=KRCC>&nbsp;
+<SYNC Start=5911748><P Class=KRCC>누나?
+<SYNC Start=5914748><P Class=KRCC>&nbsp;
+<SYNC Start=5917882><P Class=KRCC>누나?
+<SYNC Start=5920882><P Class=KRCC>&nbsp;
+<SYNC Start=5922283><P Class=KRCC>시간이 멈췄다는 거야?
+<SYNC Start=5925283><P Class=KRCC>&nbsp;
+<SYNC Start=5938602><P Class=KRCC>이런건가?
+<SYNC Start=5941602><P Class=KRCC>&nbsp;
+<SYNC Start=5949787><P Class=KRCC>누나 가슴..
+<SYNC Start=5952787><P Class=KRCC>&nbsp;
+<SYNC Start=5952792><P Class=KRCC>에? 시간 멈춘거 맞지?
+<SYNC Start=5955263><P Class=KRCC>&nbsp;
+<SYNC Start=5955264><P Class=KRCC>멈췄어
+<SYNC Start=5956855><P Class=KRCC>&nbsp;
+<SYNC Start=5956856><P Class=KRCC>안 멈췄잖아 말하고 있잖아
+<SYNC Start=5959856><P Class=KRCC>&nbsp;
+<SYNC Start=5963491><P Class=KRCC>괜찮다는 거지?
+<SYNC Start=5965396><P Class=KRCC>&nbsp;
+<SYNC Start=5969788><P Class=KRCC>아~ 엄청나
+<SYNC Start=5971889><P Class=KRCC>&nbsp;
+<SYNC Start=5971890><P Class=KRCC>누나 가슴
+<SYNC Start=5974890><P Class=KRCC>&nbsp;
+<SYNC Start=5978160><P Class=KRCC>진짜 부드럽네
+<SYNC Start=5981160><P Class=KRCC>&nbsp;
+<SYNC Start=5988797><P Class=KRCC>진짜다
+<SYNC Start=5990395><P Class=KRCC>&nbsp;
+<SYNC Start=5990396><P Class=KRCC>정말 빵빵하지 않네<br>엄청 부드러워
+<SYNC Start=5993396><P Class=KRCC>&nbsp;
+<SYNC Start=5998018><P Class=KRCC>시간 멈춘거 맞지?
+<SYNC Start=6000715><P Class=KRCC>&nbsp;
+<SYNC Start=6000716><P Class=KRCC>멈췄어<br>- 응 알았어
+<SYNC Start=6003716><P Class=KRCC>&nbsp;
+<SYNC Start=6010310><P Class=KRCC>여긴가?<br>- 좀..
+<SYNC Start=6011902><P Class=KRCC>&nbsp;
+<SYNC Start=6011903><P Class=KRCC>뭐야?
+<SYNC Start=6013769><P Class=KRCC>&nbsp;
+<SYNC Start=6013770><P Class=KRCC>멈춘거 맞지?<br>- 응 멈췄어
+<SYNC Start=6016770><P Class=KRCC>&nbsp;
+<SYNC Start=6029047><P Class=KRCC>가슴 부드러운데<br>여기는 좀 딱딱하네
+<SYNC Start=6032047><P Class=KRCC>&nbsp;
+<SYNC Start=6039049><P Class=KRCC>쫌..
+<SYNC Start=6041138><P Class=KRCC>&nbsp;
+<SYNC Start=6041139><P Class=KRCC>꼬집어 올리는거는 하지마<br>- 하지마?
+<SYNC Start=6044139><P Class=KRCC>&nbsp;
+<SYNC Start=6044620><P Class=KRCC>아 그래?
+<SYNC Start=6047620><P Class=KRCC>&nbsp;
+<SYNC Start=6076511><P Class=KRCC>이쁘네 누나 가슴
+<SYNC Start=6079511><P Class=KRCC>&nbsp;
+<SYNC Start=6103002><P Class=KRCC>좀..
+<SYNC Start=6104365><P Class=KRCC>&nbsp;
+<SYNC Start=6104366><P Class=KRCC>에?
+<SYNC Start=6106099><P Class=KRCC>&nbsp;
+<SYNC Start=6106100><P Class=KRCC>시간 멈췄잖아?
+<SYNC Start=6107992><P Class=KRCC>&nbsp;
+<SYNC Start=6107993><P Class=KRCC>움직이면 안되지<br>- 응..
+<SYNC Start=6110993><P Class=KRCC>&nbsp;
+<SYNC Start=6111287><P Class=KRCC>응 이라고 했어 방금
+<SYNC Start=6113297><P Class=KRCC>&nbsp;
+<SYNC Start=6113298><P Class=KRCC>멈췄으면 대답도 안해야지
+<SYNC Start=6116298><P Class=KRCC>&nbsp;
+<SYNC Start=6128962><P Class=KRCC>엄청 이쁘네
+<SYNC Start=6131962><P Class=KRCC>&nbsp;
+<SYNC Start=6135228><P Class=KRCC>이런 모양을 하고 있구나
+<SYNC Start=6138228><P Class=KRCC>&nbsp;
+<SYNC Start=6144126><P Class=KRCC>만졌더니 딱딱 해졌었지 아까
+<SYNC Start=6147126><P Class=KRCC>&nbsp;
+<SYNC Start=6153490><P Class=KRCC>이쪽은?
+<SYNC Start=6156490><P Class=KRCC>&nbsp;
+<SYNC Start=6165134><P Class=KRCC>정말 가슴이 부드럽구나
+<SYNC Start=6168134><P Class=KRCC>&nbsp;
+<SYNC Start=6179168><P Class=KRCC>좀..
+<SYNC Start=6181067><P Class=KRCC>&nbsp;
+<SYNC Start=6181068><P Class=KRCC>엄청난 파워로<br>시간을 멈춘거잖아
+<SYNC Start=6184068><P Class=KRCC>&nbsp;
+<SYNC Start=6184583><P Class=KRCC>아까부터 전혀 멈춰있지 않잖아
+<SYNC Start=6187378><P Class=KRCC>&nbsp;
+<SYNC Start=6187379><P Class=KRCC>멈춰있는 거야
+<SYNC Start=6190379><P Class=KRCC>&nbsp;
+<SYNC Start=6218033><P Class=KRCC>아까는 들어올리는건 안된다고 해놓고
+<SYNC Start=6221033><P Class=KRCC>&nbsp;
+<SYNC Start=6221579><P Class=KRCC>진짜 시간이 멈춘건지<br>그런 말 안하네
+<SYNC Start=6224579><P Class=KRCC>&nbsp;
+<SYNC Start=6225372><P Class=KRCC>안돼<br>- 안돼?
+<SYNC Start=6227390><P Class=KRCC>&nbsp;
+<SYNC Start=6227391><P Class=KRCC>들어 올리는건 금.지.
+<SYNC Start=6229485><P Class=KRCC>&nbsp;
+<SYNC Start=6229486><P Class=KRCC>금지야?
+<SYNC Start=6232486><P Class=KRCC>&nbsp;
+<SYNC Start=6245624><P Class=KRCC>누나 가슴 진짜 부드럽다
+<SYNC Start=6248624><P Class=KRCC>&nbsp;
+<SYNC Start=6249135><P Class=KRCC>이 쪽으로 좀 돌려볼까 영차
+<SYNC Start=6252135><P Class=KRCC>&nbsp;
+<SYNC Start=6273985><P Class=KRCC>아 엄청 출렁거려
+<SYNC Start=6276985><P Class=KRCC>&nbsp;
+<SYNC Start=6299366><P Class=KRCC>목소리는 안멈추네
+<SYNC Start=6302366><P Class=KRCC>&nbsp;
+<SYNC Start=6303167><P Class=KRCC>소리가 나와버려
+<SYNC Start=6306167><P Class=KRCC>&nbsp;
+<SYNC Start=6317980><P Class=KRCC>이상한 기분이 되어 버렸어
+<SYNC Start=6320980><P Class=KRCC>&nbsp;
+<SYNC Start=6323233><P Class=KRCC>잠깐..
+<SYNC Start=6326233><P Class=KRCC>&nbsp;
+<SYNC Start=6332409><P Class=KRCC>부드러워
+<SYNC Start=6335409><P Class=KRCC>&nbsp;
+<SYNC Start=6337562><P Class=KRCC>시..시간 멈춘거지?
+<SYNC Start=6340562><P Class=KRCC>&nbsp;
+<SYNC Start=6341334><P Class=KRCC>시간은 멈췄지만..
+<SYNC Start=6344334><P Class=KRCC>&nbsp;
+<SYNC Start=6346086><P Class=KRCC>그럼 계속해도 되는거지?
+<SYNC Start=6349086><P Class=KRCC>&nbsp;
+<SYNC Start=6353484><P Class=KRCC>누나 왜 이렇게 소리가 나오는거야
+<SYNC Start=6356442><P Class=KRCC>&nbsp;
+<SYNC Start=6356443><P Class=KRCC>그게..
+<SYNC Start=6358694><P Class=KRCC>&nbsp;
+<SYNC Start=6358695><P Class=KRCC>이런거 당하면 나오지
+<SYNC Start=6361695><P Class=KRCC>&nbsp;
+<SYNC Start=6364599><P Class=KRCC>누나 혹시 기분 좋은거야?
+<SYNC Start=6367599><P Class=KRCC>&nbsp;
+<SYNC Start=6370930><P Class=KRCC>기분 좋아 졌어
+<SYNC Start=6373930><P Class=KRCC>&nbsp;
+<SYNC Start=6378117><P Class=KRCC>누나 움직이면 안돼
+<SYNC Start=6381117><P Class=KRCC>&nbsp;
+<SYNC Start=6382340><P Class=KRCC>시간 멈춘거잖아
+<SYNC Start=6385048><P Class=KRCC>&nbsp;
+<SYNC Start=6385049><P Class=KRCC>그래도..
+<SYNC Start=6387207><P Class=KRCC>&nbsp;
+<SYNC Start=6387208><P Class=KRCC>멋대로 움직여져
+<SYNC Start=6390208><P Class=KRCC>&nbsp;
+<SYNC Start=6392886><P Class=KRCC>소리도 내면 안되지
+<SYNC Start=6395886><P Class=KRCC>&nbsp;
+<SYNC Start=6397211><P Class=KRCC>소리가 나와버려..
+<SYNC Start=6400211><P Class=KRCC>&nbsp;
+<SYNC Start=6403064><P Class=KRCC>그럼 입에 넣어 볼까?
+<SYNC Start=6406064><P Class=KRCC>&nbsp;
+<SYNC Start=6425153><P Class=KRCC>누나..
+<SYNC Start=6428153><P Class=KRCC>&nbsp;
+<SYNC Start=6434027><P Class=KRCC>누나 혀 움직이고 있지?
+<SYNC Start=6437027><P Class=KRCC>&nbsp;
+<SYNC Start=6440957><P Class=KRCC>안 움직이고 있어
+<SYNC Start=6443957><P Class=KRCC>&nbsp;
+<SYNC Start=6444596><P Class=KRCC>아니..
+<SYNC Start=6447497><P Class=KRCC>&nbsp;
+<SYNC Start=6447498><P Class=KRCC>누나가 엄청 움직이고 있잖아
+<SYNC Start=6450498><P Class=KRCC>&nbsp;
+<SYNC Start=6453560><P Class=KRCC>아니야 안 움직이고 있어
+<SYNC Start=6456560><P Class=KRCC>&nbsp;
+<SYNC Start=6456997><P Class=KRCC>혀 엄청 움직이고 있는데?
+<SYNC Start=6459997><P Class=KRCC>&nbsp;
+<SYNC Start=6461012><P Class=KRCC>누나 지금 빨아 들였지?
+<SYNC Start=6464012><P Class=KRCC>&nbsp;
+<SYNC Start=6464352><P Class=KRCC>이제 끝<br>- 에? 끝난거야?
+<SYNC Start=6467352><P Class=KRCC>&nbsp;
+<SYNC Start=6467612><P Class=KRCC>3분 지났어
+<SYNC Start=6470612><P Class=KRCC>&nbsp;
+<SYNC Start=6470933><P Class=KRCC>이제는 내 차례야
+<SYNC Start=6473933><P Class=KRCC>&nbsp;
+<SYNC Start=6474377><P Class=KRCC>무슨 말이야?
+<SYNC Start=6476789><P Class=KRCC>&nbsp;
+<SYNC Start=6476790><P Class=KRCC>시간이여 멈춰라
+<SYNC Start=6479790><P Class=KRCC>&nbsp;
+<SYNC Start=6480916><P Class=KRCC>아싸 멈췄다
+<SYNC Start=6483916><P Class=KRCC>&nbsp;
+<SYNC Start=6485430><P Class=KRCC>이번엔 내 차례야
+<SYNC Start=6488430><P Class=KRCC>&nbsp;
+<SYNC Start=6489477><P Class=KRCC>뭐야?
+<SYNC Start=6491998><P Class=KRCC>&nbsp;
+<SYNC Start=6491999><P Class=KRCC>뭘 할까~
+<SYNC Start=6494999><P Class=KRCC>&nbsp;
+<SYNC Start=6497238><P Class=KRCC>시간은 멈춰진거니까<br>뭐든지 가능하겠다
+<SYNC Start=6502105><P Class=KRCC>&nbsp;
+<SYNC Start=6509719><P Class=KRCC>뭐야 그건
+<SYNC Start=6511826><P Class=KRCC>&nbsp;
+<SYNC Start=6511827><P Class=KRCC>안돼! 시간 멈췄으니까<br>소리내면 안돼
+<SYNC Start=6514827><P Class=KRCC>&nbsp;
+<SYNC Start=6524263><P Class=KRCC>아 잠깐..
+<SYNC Start=6526633><P Class=KRCC>&nbsp;
+<SYNC Start=6526634><P Class=KRCC>움직이지 말라니까
+<SYNC Start=6529634><P Class=KRCC>&nbsp;
+<SYNC Start=6530511><P Class=KRCC>그게..
+<SYNC Start=6533511><P Class=KRCC>&nbsp;
+<SYNC Start=6551426><P Class=KRCC>누나..
+<SYNC Start=6553653><P Class=KRCC>&nbsp;
+<SYNC Start=6553654><P Class=KRCC>안.돼.
+<SYNC Start=6556654><P Class=KRCC>&nbsp;
+<SYNC Start=6557539><P Class=KRCC>소리도 나오고 있고
+<SYNC Start=6559215><P Class=KRCC>&nbsp;
+<SYNC Start=6559216><P Class=KRCC>엄청 움찔거리고 있어
+<SYNC Start=6562216><P Class=KRCC>&nbsp;
+<SYNC Start=6562411><P Class=KRCC>아까 누나도 계속 움직였잖아
+<SYNC Start=6565411><P Class=KRCC>&nbsp;
+<SYNC Start=6570677><P Class=KRCC>다음은 무얼 할까~
+<SYNC Start=6573677><P Class=KRCC>&nbsp;
+<SYNC Start=6576116><P Class=KRCC>자..잠깐.. 뭐 하는 거야
+<SYNC Start=6579116><P Class=KRCC>&nbsp;
+<SYNC Start=6579603><P Class=KRCC>껍질 땡기고 있어<br>- 껍질?
+<SYNC Start=6582603><P Class=KRCC>&nbsp;
+<SYNC Start=6582768><P Class=KRCC>왜 그런걸 하는거야
+<SYNC Start=6584684><P Class=KRCC>&nbsp;
+<SYNC Start=6584685><P Class=KRCC>이 껍질로 만두도 만들수 있겠다
+<SYNC Start=6587053><P Class=KRCC>&nbsp;
+<SYNC Start=6587054><P Class=KRCC>만두?<br>잠깐.. 안돼.. 튀긴 만두는 절대 안돼
+<SYNC Start=6590054><P Class=KRCC>&nbsp;
+<SYNC Start=6590393><P Class=KRCC>왜 튀긴 만두는 안되는 거야
+<SYNC Start=6592940><P Class=KRCC>&nbsp;
+<SYNC Start=6592941><P Class=KRCC>튀긴 만두를 제일 좋아하는데
+<SYNC Start=6595568><P Class=KRCC>&nbsp;
+<SYNC Start=6595569><P Class=KRCC>안돼.. 화상 입잖아
+<SYNC Start=6598569><P Class=KRCC>&nbsp;
+<SYNC Start=6598884><P Class=KRCC>엄청 늘어나네
+<SYNC Start=6601884><P Class=KRCC>&nbsp;
+<SYNC Start=6602967><P Class=KRCC>안된다니까
+<SYNC Start=6605967><P Class=KRCC>&nbsp;
+<SYNC Start=6608047><P Class=KRCC>뭐 하는 거야
+<SYNC Start=6611047><P Class=KRCC>&nbsp;
+<SYNC Start=6613348><P Class=KRCC>어라?
+<SYNC Start=6615157><P Class=KRCC>&nbsp;
+<SYNC Start=6615158><P Class=KRCC>자지가 작아져 버렸어
+<SYNC Start=6617159><P Class=KRCC>&nbsp;
+<SYNC Start=6617160><P Class=KRCC>그게.. 만두 만든다는 말 같은걸 하니까 그렇지
+<SYNC Start=6620160><P Class=KRCC>&nbsp;
+<SYNC Start=6626123><P Class=KRCC>누나를 앞에 두고 이렇게 자지를.<br>실례잖아
+<SYNC Start=6629123><P Class=KRCC>&nbsp;
+<SYNC Start=6631625><P Class=KRCC>무슨 말이야 그건
+<SYNC Start=6633531><P Class=KRCC>&nbsp;
+<SYNC Start=6633532><P Class=KRCC>진짜~
+<SYNC Start=6635644><P Class=KRCC>&nbsp;
+<SYNC Start=6635645><P Class=KRCC>크게 만들란 말이야
+<SYNC Start=6638186><P Class=KRCC>&nbsp;
+<SYNC Start=6638187><P Class=KRCC>빨리 커져봐
+<SYNC Start=6641187><P Class=KRCC>&nbsp;
+<SYNC Start=6668798><P Class=KRCC>아 커졌다
+<SYNC Start=6671798><P Class=KRCC>&nbsp;
+<SYNC Start=6672510><P Class=KRCC>시간은 멈춰있는데
+<SYNC Start=6675510><P Class=KRCC>&nbsp;
+<SYNC Start=6676186><P Class=KRCC>이것도 시간 멈추면 안되는 거야?
+<SYNC Start=6679186><P Class=KRCC>&nbsp;
+<SYNC Start=6710837><P Class=KRCC>누나 왜 그렇게 야한 소리를 내는 거야
+<SYNC Start=6715606><P Class=KRCC>&nbsp;
+<SYNC Start=6717430><P Class=KRCC>됐어
+<SYNC Start=6720430><P Class=KRCC>&nbsp;
+<SYNC Start=6729230><P Class=KRCC>누나는 야한 소리를 내는 법이야
+<SYNC Start=6732230><P Class=KRCC>&nbsp;
+<SYNC Start=6733953><P Class=KRCC>그런건 처음 듣는데?
+<SYNC Start=6736953><P Class=KRCC>&nbsp;
+<SYNC Start=6780662><P Class=KRCC>좋아?
+<SYNC Start=6783138><P Class=KRCC>&nbsp;
+<SYNC Start=6783139><P Class=KRCC>응
+<SYNC Start=6784993><P Class=KRCC>&nbsp;
+<SYNC Start=6784994><P Class=KRCC>이제부터는 청소도 잘 도와줘야 돼
+<SYNC Start=6787994><P Class=KRCC>&nbsp;
+<SYNC Start=6790642><P Class=KRCC>응..
+<SYNC Start=6792331><P Class=KRCC>&nbsp;
+<SYNC Start=6792332><P Class=KRCC>알았어?
+<SYNC Start=6795332><P Class=KRCC>&nbsp;
+<SYNC Start=6817695><P Class=KRCC>누나한테 만져져서<br>젖꼭지를 세워도 된다고 생각해?
+<SYNC Start=6822528><P Class=KRCC>&nbsp;
+<SYNC Start=6823941><P Class=KRCC>안되지
+<SYNC Start=6826922><P Class=KRCC>&nbsp;
+<SYNC Start=6826923><P Class=KRCC>설수 밖에 없지<br>- 안돼
+<SYNC Start=6829923><P Class=KRCC>&nbsp;
+<SYNC Start=6835217><P Class=KRCC>안된다니<br>그렇게 만져대니 설 수밖에
+<SYNC Start=6838217><P Class=KRCC>&nbsp;
+<SYNC Start=6847915><P Class=KRCC>이런 부분도 나랑 똑같아
+<SYNC Start=6850915><P Class=KRCC>&nbsp;
+<SYNC Start=6854431><P Class=KRCC>누나도 만져주면 점점 나온다고
+<SYNC Start=6857431><P Class=KRCC>&nbsp;
+<SYNC Start=6860206><P Class=KRCC>점점 나온다고?
+<SYNC Start=6863206><P Class=KRCC>&nbsp;
+<SYNC Start=6864036><P Class=KRCC>누나도 꼭지가 좋아
+<SYNC Start=6867036><P Class=KRCC>&nbsp;
+<SYNC Start=6876406><P Class=KRCC>누나 젖꼭지 닿고 있어
+<SYNC Start=6879406><P Class=KRCC>&nbsp;
+<SYNC Start=6890368><P Class=KRCC>그렇게 하면<br>누나 기분 좋아?
+<SYNC Start=6893368><P Class=KRCC>&nbsp;
+<SYNC Start=6893729><P Class=KRCC>좀..<br>시간 멈췄는데 왜 이렇게 말이 많아
+<SYNC Start=6897913><P Class=KRCC>&nbsp;
+<SYNC Start=6897914><P Class=KRCC>아.. 미안
+<SYNC Start=6900914><P Class=KRCC>&nbsp;
+<SYNC Start=6900970><P Class=KRCC>정말~
+<SYNC Start=6903970><P Class=KRCC>&nbsp;
+<SYNC Start=6910120><P Class=KRCC>가슴으로 벌 내린다
+<SYNC Start=6913034><P Class=KRCC>&nbsp;
+<SYNC Start=6913035><P Class=KRCC>벌?
+<SYNC Start=6916035><P Class=KRCC>&nbsp;
+<SYNC Start=6916656><P Class=KRCC>이쪽으로 와
+<SYNC Start=6919656><P Class=KRCC>&nbsp;
+<SYNC Start=6928596><P Class=KRCC>이게 벌이야?
+<SYNC Start=6931592><P Class=KRCC>&nbsp;
+<SYNC Start=6931593><P Class=KRCC>벌이야
+<SYNC Start=6934593><P Class=KRCC>&nbsp;
+<SYNC Start=6935227><P Class=KRCC>가슴으로 뭉개 버릴 거야
+<SYNC Start=6938227><P Class=KRCC>&nbsp;
+<SYNC Start=6943578><P Class=KRCC>끈적끈적한 가슴이랑<br>매끈매끈한 가슴중에 어느쪽이 좋아?
+<SYNC Start=6947551><P Class=KRCC>&nbsp;
+<SYNC Start=6948852><P Class=KRCC>그건..
+<SYNC Start=6950091><P Class=KRCC>&nbsp;
+<SYNC Start=6950092><P Class=KRCC>끈적끈적한 쪽이
+<SYNC Start=6953092><P Class=KRCC>&nbsp;
+<SYNC Start=6954653><P Class=KRCC>끈적끈적한게 좋다고?
+<SYNC Start=6957653><P Class=KRCC>&nbsp;
+<SYNC Start=6970637><P Class=KRCC>끈적끈적해
+<SYNC Start=6973637><P Class=KRCC>&nbsp;
+<SYNC Start=6975366><P Class=KRCC>소리가 엄청나
+<SYNC Start=6977950><P Class=KRCC>&nbsp;
+<SYNC Start=6977951><P Class=KRCC>이거봐
+<SYNC Start=6980951><P Class=KRCC>&nbsp;
+<SYNC Start=6987912><P Class=KRCC>누나.. 그런것도 가능해?
+<SYNC Start=6990912><P Class=KRCC>&nbsp;
+<SYNC Start=6994550><P Class=KRCC>귀두가 짜
+<SYNC Start=6997550><P Class=KRCC>&nbsp;
+<SYNC Start=7008540><P Class=KRCC>왜 이렇게 짠거야?
+<SYNC Start=7011540><P Class=KRCC>&nbsp;
+<SYNC Start=7012813><P Class=KRCC>염분 너무 많이 먹는거 아니야?
+<SYNC Start=7015437><P Class=KRCC>&nbsp;
+<SYNC Start=7015438><P Class=KRCC>에~? 그건..
+<SYNC Start=7018057><P Class=KRCC>&nbsp;
+<SYNC Start=7018058><P Class=KRCC>짠걸 좋아하니까
+<SYNC Start=7020372><P Class=KRCC>&nbsp;
+<SYNC Start=7020373><P Class=KRCC>건강에 안좋아
+<SYNC Start=7023373><P Class=KRCC>&nbsp;
+<SYNC Start=7023571><P Class=KRCC>미안
+<SYNC Start=7024885><P Class=KRCC>&nbsp;
+<SYNC Start=7024886><P Class=KRCC>벌이야
+<SYNC Start=7027886><P Class=KRCC>&nbsp;
+<SYNC Start=7035446><P Class=KRCC>벌이라고
+<SYNC Start=7038446><P Class=KRCC>&nbsp;
+<SYNC Start=7049771><P Class=KRCC>벌인데<br>왜 기뻐하는 거야
+<SYNC Start=7052771><P Class=KRCC>&nbsp;
+<SYNC Start=7053572><P Class=KRCC>기뻐하는건 아닌데..
+<SYNC Start=7056572><P Class=KRCC>&nbsp;
+<SYNC Start=7059213><P Class=KRCC>저기 누워봐
+<SYNC Start=7062213><P Class=KRCC>&nbsp;
+<SYNC Start=7063144><P Class=KRCC>응
+<SYNC Start=7066144><P Class=KRCC>&nbsp;
+<SYNC Start=7083520><P Class=KRCC>누나 뭐 하려고?
+<SYNC Start=7086520><P Class=KRCC>&nbsp;
+<SYNC Start=7090982><P Class=KRCC>엉덩이로 벌 줄꺼야<br>- 엉덩이?
+<SYNC Start=7094804><P Class=KRCC>&nbsp;
+<SYNC Start=7095200><P Class=KRCC>좋지? 엉덩이?
+<SYNC Start=7098200><P Class=KRCC>&nbsp;
+<SYNC Start=7098217><P Class=KRCC>좋아하긴 하지만..
+<SYNC Start=7101217><P Class=KRCC>&nbsp;
+<SYNC Start=7123774><P Class=KRCC>어때?
+<SYNC Start=7126774><P Class=KRCC>&nbsp;
+<SYNC Start=7127554><P Class=KRCC>응..
+<SYNC Start=7129688><P Class=KRCC>&nbsp;
+<SYNC Start=7129689><P Class=KRCC>누나 엉덩이가 비벼져서
+<SYNC Start=7132689><P Class=KRCC>&nbsp;
+<SYNC Start=7133940><P Class=KRCC>기분 좋아
+<SYNC Start=7135746><P Class=KRCC>&nbsp;
+<SYNC Start=7135747><P Class=KRCC>엉덩이 기분 좋지?
+<SYNC Start=7138287><P Class=KRCC>&nbsp;
+<SYNC Start=7138288><P Class=KRCC>응
+<SYNC Start=7141288><P Class=KRCC>&nbsp;
+<SYNC Start=7154080><P Class=KRCC>벌인데<br>이렇게 딱딱해지고
+<SYNC Start=7157080><P Class=KRCC>&nbsp;
+<SYNC Start=7173876><P Class=KRCC>다음은 가슴
+<SYNC Start=7176876><P Class=KRCC>&nbsp;
+<SYNC Start=7200513><P Class=KRCC>누나 이거도 벌이야?
+<SYNC Start=7203513><P Class=KRCC>&nbsp;
+<SYNC Start=7206321><P Class=KRCC>벌이야
+<SYNC Start=7209321><P Class=KRCC>&nbsp;
+<SYNC Start=7209725><P Class=KRCC>부드럽지?
+<SYNC Start=7212725><P Class=KRCC>&nbsp;
+<SYNC Start=7251152><P Class=KRCC>어때? 누나 가슴이
+<SYNC Start=7254152><P Class=KRCC>&nbsp;
+<SYNC Start=7254600><P Class=KRCC>너무 부드러워서 기분 좋아
+<SYNC Start=7259744><P Class=KRCC>&nbsp;
+<SYNC Start=7260903><P Class=KRCC>좋지?<br>- 응
+<SYNC Start=7263903><P Class=KRCC>&nbsp;
+<SYNC Start=7267228><P Class=KRCC>누나 말이야
+<SYNC Start=7270096><P Class=KRCC>&nbsp;
+<SYNC Start=7270097><P Class=KRCC>짓궃게 굴때<br>기뻐하는 얼굴 하던데
+<SYNC Start=7274129><P Class=KRCC>&nbsp;
+<SYNC Start=7274836><P Class=KRCC>어릴때부터 너 괴롭히는거 좋아했지
+<SYNC Start=7277836><P Class=KRCC>&nbsp;
+<SYNC Start=7280936><P Class=KRCC>그랬어?
+<SYNC Start=7282998><P Class=KRCC>&nbsp;
+<SYNC Start=7282999><P Class=KRCC>그러니까 많이 괴롭힐거야
+<SYNC Start=7285999><P Class=KRCC>&nbsp;
+<SYNC Start=7292157><P Class=KRCC>좋지? 누나 가슴
+<SYNC Start=7295089><P Class=KRCC>&nbsp;
+<SYNC Start=7295090><P Class=KRCC>응
+<SYNC Start=7297842><P Class=KRCC>&nbsp;
+<SYNC Start=7297843><P Class=KRCC>누나 가슴이 없으면<br>살아가지 못하도록 개조 해주겠어
+<SYNC Start=7302689><P Class=KRCC>&nbsp;
+<SYNC Start=7303745><P Class=KRCC>살아가지 못하게?<br>- 그래
+<SYNC Start=7306129><P Class=KRCC>&nbsp;
+<SYNC Start=7306130><P Class=KRCC>누나 가슴이 없으면 살아갈수 없게
+<SYNC Start=7310206><P Class=KRCC>&nbsp;
+<SYNC Start=7310541><P Class=KRCC>개조해 줄게
+<SYNC Start=7313541><P Class=KRCC>&nbsp;
+<SYNC Start=7313977><P Class=KRCC>개조라니..
+<SYNC Start=7316977><P Class=KRCC>&nbsp;
+<SYNC Start=7343330><P Class=KRCC>그런거 하면 안된다니까
+<SYNC Start=7346330><P Class=KRCC>&nbsp;
+<SYNC Start=7347622><P Class=KRCC>뭐가 안돼
+<SYNC Start=7350622><P Class=KRCC>&nbsp;
+<SYNC Start=7358751><P Class=KRCC>누나 그건 안된다니까
+<SYNC Start=7361751><P Class=KRCC>&nbsp;
+<SYNC Start=7361779><P Class=KRCC>이거 안돼?
+<SYNC Start=7364779><P Class=KRCC>&nbsp;
+<SYNC Start=7376857><P Class=KRCC>왜 그렇게 즐거워 하는 거야
+<SYNC Start=7379857><P Class=KRCC>&nbsp;
+<SYNC Start=7380549><P Class=KRCC>너 괴롭히는게 즐겁지
+<SYNC Start=7383549><P Class=KRCC>&nbsp;
+<SYNC Start=7386916><P Class=KRCC>너무 움찔 거린다
+<SYNC Start=7389916><P Class=KRCC>&nbsp;
+<SYNC Start=7395402><P Class=KRCC>자지를 걸레처럼 쥐어짜줄께
+<SYNC Start=7398402><P Class=KRCC>&nbsp;
+<SYNC Start=7398716><P Class=KRCC>에? 걸레?
+<SYNC Start=7401716><P Class=KRCC>&nbsp;
+<SYNC Start=7402189><P Class=KRCC>걸레 아니야
+<SYNC Start=7405189><P Class=KRCC>&nbsp;
+<SYNC Start=7408343><P Class=KRCC>걸레 짜야지
+<SYNC Start=7411343><P Class=KRCC>&nbsp;
+<SYNC Start=7418771><P Class=KRCC>어라?
+<SYNC Start=7421771><P Class=KRCC>&nbsp;
+<SYNC Start=7424581><P Class=KRCC>이상하네
+<SYNC Start=7426896><P Class=KRCC>&nbsp;
+<SYNC Start=7426897><P Class=KRCC>정액도 짜여져 나와야하는데
+<SYNC Start=7429897><P Class=KRCC>&nbsp;
+<SYNC Start=7430202><P Class=KRCC>뭐야 그게
+<SYNC Start=7433202><P Class=KRCC>&nbsp;
+<SYNC Start=7433566><P Class=KRCC>이상하네?
+<SYNC Start=7436566><P Class=KRCC>&nbsp;
+<SYNC Start=7441944><P Class=KRCC>어라? 이상해
+<SYNC Start=7444944><P Class=KRCC>&nbsp;
+<SYNC Start=7446695><P Class=KRCC>아니 안 나온다니까 절대로
+<SYNC Start=7449695><P Class=KRCC>&nbsp;
+<SYNC Start=7450509><P Class=KRCC>재밌네
+<SYNC Start=7453509><P Class=KRCC>&nbsp;
+<SYNC Start=7454372><P Class=KRCC>좀 더 가슴으로 기분좋게 해줄게
+<SYNC Start=7457372><P Class=KRCC>&nbsp;
+<SYNC Start=7469556><P Class=KRCC>이봐 끈적끈적 해졌어
+<SYNC Start=7472556><P Class=KRCC>&nbsp;
+<SYNC Start=7486797><P Class=KRCC>역시 가슴이 좋지?<br>- 응
+<SYNC Start=7489797><P Class=KRCC>&nbsp;
+<SYNC Start=7501860><P Class=KRCC>이건 어때?
+<SYNC Start=7504860><P Class=KRCC>&nbsp;
+<SYNC Start=7509678><P Class=KRCC>가슴 사이에 끼어있어
+<SYNC Start=7512678><P Class=KRCC>&nbsp;
+<SYNC Start=7513888><P Class=KRCC>정말~
+<SYNC Start=7516307><P Class=KRCC>&nbsp;
+<SYNC Start=7516308><P Class=KRCC>또 귀여운 얼굴 하고 있네
+<SYNC Start=7519308><P Class=KRCC>&nbsp;
+<SYNC Start=7526754><P Class=KRCC>그렇게 좋아?<br>- 응
+<SYNC Start=7529754><P Class=KRCC>&nbsp;
+<SYNC Start=7545486><P Class=KRCC>누나.. 더는 안돼..
+<SYNC Start=7548486><P Class=KRCC>&nbsp;
+<SYNC Start=7548688><P Class=KRCC>하지마.. 나온다..
+<SYNC Start=7551394><P Class=KRCC>&nbsp;
+<SYNC Start=7551395><P Class=KRCC>안 멈출꺼야
+<SYNC Start=7553564><P Class=KRCC>&nbsp;
+<SYNC Start=7553565><P Class=KRCC>더이상 시간은 멈추지 않아<br>- 에?
+<SYNC Start=7556565><P Class=KRCC>&nbsp;
+<SYNC Start=7556701><P Class=KRCC>안 멈출꺼야<br>- 그런거야?
+<SYNC Start=7559701><P Class=KRCC>&nbsp;
+<SYNC Start=7571707><P Class=KRCC>기분 좋아?
+<SYNC Start=7574707><P Class=KRCC>&nbsp;
+<SYNC Start=7576431><P Class=KRCC>누나 가슴 좋아?
+<SYNC Start=7579431><P Class=KRCC>&nbsp;
+<SYNC Start=7603946><P Class=KRCC>딱딱해졌어
+<SYNC Start=7606946><P Class=KRCC>&nbsp;
+<SYNC Start=7607533><P Class=KRCC>나올거 같아?
+<SYNC Start=7610533><P Class=KRCC>&nbsp;
+<SYNC Start=7611631><P Class=KRCC>누나 가슴에 많이 싸도 돼
+<SYNC Start=7614156><P Class=KRCC>&nbsp;
+<SYNC Start=7614157><P Class=KRCC>누나.. 싼다..
+<SYNC Start=7616479><P Class=KRCC>&nbsp;
+<SYNC Start=7616480><P Class=KRCC>싸
+<SYNC Start=7619480><P Class=KRCC>&nbsp;
+<SYNC Start=7644284><P Class=KRCC>너 이렇게 많이 싸고
+<SYNC Start=7647284><P Class=KRCC>&nbsp;
+<SYNC Start=7656558><P Class=KRCC>누나 가슴에 이렇게 많이 쌋어
+<SYNC Start=7659558><P Class=KRCC>&nbsp;
+<SYNC Start=7676726><P Class=KRCC>시간 멈췄었으니까<br>기억도 안나는거야
+<SYNC Start=7680869><P Class=KRCC>&nbsp;
+<SYNC Start=7683144><P Class=KRCC>알았어?<br>- 응
+<SYNC Start=7685818><P Class=KRCC>&nbsp;
+<SYNC Start=7685819><P Class=KRCC>이건 없었던 일로
+<SYNC Start=7688819><P Class=KRCC>&nbsp;
+<SYNC Start=7694175><P Class=KRCC>아! 그래도 청소는 무조건 도와야돼
+<SYNC Start=7697175><P Class=KRCC>&nbsp;
+<SYNC Start=7697519><P Class=KRCC>에?
+<SYNC Start=7700519><P Class=KRCC>&nbsp;
+<SYNC Start=7704734><P Class=KRCC><font color="#0080ff">누나도 야한것에는 흥분하는 모양이다..<br>그래서 나를 연습상대로 밖에 생각하지 않는걸지도...</font>
+<SYNC Start=7713612><P Class=KRCC>&nbsp;
+<SYNC Start=7720829><P Class=KRCC>누나?
+<SYNC Start=7722292><P Class=KRCC>&nbsp;
+<SYNC Start=7722293><P Class=KRCC>내 DVD 보면서 야한생각 했지?
+<SYNC Start=7725583><P Class=KRCC>&nbsp;
+<SYNC Start=7728134><P Class=KRCC>정말~
+<SYNC Start=7731134><P Class=KRCC>&nbsp;
+<SYNC Start=7731788><P Class=KRCC>야하다니까
+<SYNC Start=7734788><P Class=KRCC>&nbsp;
+<SYNC Start=7751828><P Class=KRCC>이건 뭐지 꿈인가?
+<SYNC Start=7754828><P Class=KRCC>&nbsp;
+<SYNC Start=7763526><P Class=KRCC>가슴 너무 쳐다본다
+<SYNC Start=7766526><P Class=KRCC>&nbsp;
+<SYNC Start=7769164><P Class=KRCC>항상 내 DVD 보면서 자위 하는 거야?
+<SYNC Start=7772164><P Class=KRCC>&nbsp;
+<SYNC Start=7785223><P Class=KRCC>가슴 정말 좋아하는구나
+<SYNC Start=7788223><P Class=KRCC>&nbsp;
+<SYNC Start=7796534><P Class=KRCC>수영복이 작아서 야하지?
+<SYNC Start=7799534><P Class=KRCC>&nbsp;
+<SYNC Start=7808142><P Class=KRCC>야한 수영복 입고 있으면
+<SYNC Start=7810989><P Class=KRCC>&nbsp;
+<SYNC Start=7810990><P Class=KRCC>나까지 야한 기분이 되어버려
+<SYNC Start=7813990><P Class=KRCC>&nbsp;
+<SYNC Start=7826167><P Class=KRCC>젖꼭지가 점점 딱딱해지고 있어
+<SYNC Start=7829167><P Class=KRCC>&nbsp;
+<SYNC Start=7843720><P Class=KRCC>누나 보면서 자위 많이 해도 돼
+<SYNC Start=7846720><P Class=KRCC>&nbsp;
+<SYNC Start=7865736><P Class=KRCC>수영복 안에 손가락 넣어 버렸어
+<SYNC Start=7868736><P Class=KRCC>&nbsp;
+<SYNC Start=7886759><P Class=KRCC>누나 젖꼭지 만지고 있어
+<SYNC Start=7889759><P Class=KRCC>&nbsp;
+<SYNC Start=7897332><P Class=KRCC>가슴 보고 싶지?
+<SYNC Start=7900332><P Class=KRCC>&nbsp;
+<SYNC Start=7921263><P Class=KRCC>젖꼭지 보였어
+<SYNC Start=7924263><P Class=KRCC>&nbsp;
+<SYNC Start=7944043><P Class=KRCC>가슴 기분 좋아
+<SYNC Start=7947043><P Class=KRCC>&nbsp;
+<SYNC Start=8003149><P Class=KRCC>보지도 야해졌어
+<SYNC Start=8006149><P Class=KRCC>&nbsp;
+<SYNC Start=8028856><P Class=KRCC>보지가 문질러져서 기분 좋아
+<SYNC Start=8031856><P Class=KRCC>&nbsp;
+<SYNC Start=8061817><P Class=KRCC>너도 같이 자지 문지르고 있어?
+<SYNC Start=8064817><P Class=KRCC>&nbsp;
+<SYNC Start=8068099><P Class=KRCC>좀 더 비벼도 된다고
+<SYNC Start=8071099><P Class=KRCC>&nbsp;
+<SYNC Start=8089439><P Class=KRCC>누가 보지 보고 싶었잖아?
+<SYNC Start=8092439><P Class=KRCC>&nbsp;
+<SYNC Start=8099658><P Class=KRCC>보여 줄게
+<SYNC Start=8102658><P Class=KRCC>&nbsp;
+<SYNC Start=8109603><P Class=KRCC>보지 보여?
+<SYNC Start=8112603><P Class=KRCC>&nbsp;
+<SYNC Start=8127069><P Class=KRCC>벌려서 보여줄게
+<SYNC Start=8130069><P Class=KRCC>&nbsp;
+<SYNC Start=8138473><P Class=KRCC>그렇게 보면 더 흥분돼
+<SYNC Start=8141473><P Class=KRCC>&nbsp;
+<SYNC Start=8154455><P Class=KRCC>손가락도 좋아
+<SYNC Start=8157455><P Class=KRCC>&nbsp;
+<SYNC Start=8190157><P Class=KRCC>애널(똥꼬)도 보고 싶어?
+<SYNC Start=8193157><P Class=KRCC>&nbsp;
+<SYNC Start=8219526><P Class=KRCC>그라비아에서 못본곳들 많이 봐도 좋아
+<SYNC Start=8224294><P Class=KRCC>&nbsp;
+<SYNC Start=8257565><P Class=KRCC>잘 봐봐
+<SYNC Start=8260071><P Class=KRCC>&nbsp;
+<SYNC Start=8260072><P Class=KRCC>자지도 문지르면서
+<SYNC Start=8263072><P Class=KRCC>&nbsp;
+<SYNC Start=8297803><P Class=KRCC>같이 문지르자
+<SYNC Start=8300803><P Class=KRCC>&nbsp;
+<SYNC Start=8326717><P Class=KRCC>보지 젖어있지?
+<SYNC Start=8329717><P Class=KRCC>&nbsp;
+<SYNC Start=8336366><P Class=KRCC>그라비아 찍을때도 항상 이렇게 젖어 있었어
+<SYNC Start=8339366><P Class=KRCC>&nbsp;
+<SYNC Start=8356216><P Class=KRCC>보지 보여?
+<SYNC Start=8359216><P Class=KRCC>&nbsp;
+<SYNC Start=8359299><P Class=KRCC>누나 보지 보여?
+<SYNC Start=8362299><P Class=KRCC>&nbsp;
+<SYNC Start=8366526><P Class=KRCC>많이 문질러봐
+<SYNC Start=8369526><P Class=KRCC>&nbsp;
+<SYNC Start=8408919><P Class=KRCC>보지 더 보고 싶지?
+<SYNC Start=8411919><P Class=KRCC>&nbsp;
+<SYNC Start=8472521><P Class=KRCC>자지 딱딱해 졌어?
+<SYNC Start=8475521><P Class=KRCC>&nbsp;
+<SYNC Start=8477749><P Class=KRCC>보여줘봐
+<SYNC Start=8480749><P Class=KRCC>&nbsp;
+<SYNC Start=8486676><P Class=KRCC>냄새 맡아볼게
+<SYNC Start=8489676><P Class=KRCC>&nbsp;
+<SYNC Start=8495068><P Class=KRCC>생선 냄새나
+<SYNC Start=8498068><P Class=KRCC>&nbsp;
+<SYNC Start=8507055><P Class=KRCC>좀 더 커질수는 없어?
+<SYNC Start=8510055><P Class=KRCC>&nbsp;
+<SYNC Start=8515378><P Class=KRCC>같이 기분 좋아지자
+<SYNC Start=8518378><P Class=KRCC>&nbsp;
+<SYNC Start=8559190><P Class=KRCC>누나도 기분 좋아졌어
+<SYNC Start=8562190><P Class=KRCC>&nbsp;
+<SYNC Start=8569418><P Class=KRCC>보지 만지는 손이 멈추질 않아
+<SYNC Start=8572418><P Class=KRCC>&nbsp;
+<SYNC Start=8590212><P Class=KRCC>누나 가도 돼?
+<SYNC Start=8593212><P Class=KRCC>&nbsp;
+<SYNC Start=8596986><P Class=KRCC>가버려~
+<SYNC Start=8599986><P Class=KRCC>&nbsp;
+<SYNC Start=8620206><P Class=KRCC>누나가 먼저 가버렸어
+<SYNC Start=8623206><P Class=KRCC>&nbsp;
+<SYNC Start=8630292><P Class=KRCC>너도 가게 해줄게
+<SYNC Start=8633292><P Class=KRCC>&nbsp;
+<SYNC Start=8654792><P Class=KRCC>이런거 당하고 싶었지?
+<SYNC Start=8657792><P Class=KRCC>&nbsp;
+<SYNC Start=8675913><P Class=KRCC>니 냄새나는 자지를 누나가 깨끗하게 해줄게
+<SYNC Start=8680874><P Class=KRCC>&nbsp;
+<SYNC Start=8704492><P Class=KRCC>이렇게까지 해주는 누나 없어
+<SYNC Start=8707436><P Class=KRCC>&nbsp;
+<SYNC Start=8707437><P Class=KRCC>감사히여겨
+<SYNC Start=8710437><P Class=KRCC>&nbsp;
+<SYNC Start=8745651><P Class=KRCC>누나 DVD 보면서 이런짓 했었지?
+<SYNC Start=8748651><P Class=KRCC>&nbsp;
+<SYNC Start=8761869><P Class=KRCC>이런건?
+<SYNC Start=8764869><P Class=KRCC>&nbsp;
+<SYNC Start=8777379><P Class=KRCC>누나도 DVD 찍을때 항상 흥분됐었어
+<SYNC Start=8780379><P Class=KRCC>&nbsp;
+<SYNC Start=8789643><P Class=KRCC>자지 생각으로 머리가 가득했었어
+<SYNC Start=8792643><P Class=KRCC>&nbsp;
+<SYNC Start=8802388><P Class=KRCC>이런건 어때?
+<SYNC Start=8805388><P Class=KRCC>&nbsp;
+<SYNC Start=8819006><P Class=KRCC>귀두가 딱딱해졌어
+<SYNC Start=8822006><P Class=KRCC>&nbsp;
+<SYNC Start=8824829><P Class=KRCC>누나한테 당해서 흥분되고 있어?
+<SYNC Start=8827829><P Class=KRCC>&nbsp;
+<SYNC Start=8843016><P Class=KRCC>좀 더 자극이 필요해?
+<SYNC Start=8846016><P Class=KRCC>&nbsp;
+<SYNC Start=8846088><P Class=KRCC>장난감 써볼까?
+<SYNC Start=8849088><P Class=KRCC>&nbsp;
+<SYNC Start=8862103><P Class=KRCC>누나 보지 같지?
+<SYNC Start=8865103><P Class=KRCC>&nbsp;
+<SYNC Start=8873015><P Class=KRCC>들어간다
+<SYNC Start=8876015><P Class=KRCC>&nbsp;
+<SYNC Start=8911631><P Class=KRCC>누나 보지 같지? 기분 좋지?
+<SYNC Start=8914631><P Class=KRCC>&nbsp;
+<SYNC Start=8923565><P Class=KRCC>엄청 딱딱해졌어
+<SYNC Start=8926565><P Class=KRCC>&nbsp;
+<SYNC Start=8940750><P Class=KRCC>귀두가 나와 버렸어
+<SYNC Start=8943750><P Class=KRCC>&nbsp;
+<SYNC Start=8955382><P Class=KRCC>미끈미끈해서 좋아?
+<SYNC Start=8958382><P Class=KRCC>&nbsp;
+<SYNC Start=8984180><P Class=KRCC>귀두가 나왔다 들어갔다 하고 있어
+<SYNC Start=8987180><P Class=KRCC>&nbsp;
+<SYNC Start=9036447><P Class=KRCC>누나,, 갈것 같아
+<SYNC Start=9039311><P Class=KRCC>&nbsp;
+<SYNC Start=9039312><P Class=KRCC>누나 입에 많이 싸줘
+<SYNC Start=9042312><P Class=KRCC>&nbsp;
+<SYNC Start=9044789><P Class=KRCC>아 나온다
+<SYNC Start=9047789><P Class=KRCC>&nbsp;
+<SYNC Start=9079023><P Class=KRCC>많이 나왔네
+<SYNC Start=9082023><P Class=KRCC>&nbsp;
+<SYNC Start=9112255><P Class=KRCC>좋았어?
+<SYNC Start=9115255><P Class=KRCC>&nbsp;
+<SYNC Start=9123962><P Class=KRCC>누나도 엄청 흥분됐어
+<SYNC Start=9126962><P Class=KRCC>&nbsp;
+<SYNC Start=9134450><P Class=KRCC><font color="#0080ff">후.. 나 치곤 엄청난 망상력 이었어..<br>(지금까지 망상이었다는...)</font>
+<SYNC Start=9137450><P Class=KRCC>&nbsp;
+<SYNC Start=9139423><P Class=KRCC>아! 누나<br><font color="#0080ff">(이게 현실)</font>
+<SYNC Start=9141997><P Class=KRCC>&nbsp;
+<SYNC Start=9141998><P Class=KRCC>야 뭘 보고 있는거야
+<SYNC Start=9144998><P Class=KRCC>&nbsp;
+<SYNC Start=9145231><P Class=KRCC>보여줘봐<br>- 자..잠깐..
+<SYNC Start=9147562><P Class=KRCC>&nbsp;
+<SYNC Start=9147563><P Class=KRCC>뭐 보냐니까<br>- 안돼
+<SYNC Start=9149857><P Class=KRCC>&nbsp;
+<SYNC Start=9149858><P Class=KRCC>보.여.줘.
+<SYNC Start=9151624><P Class=KRCC>&nbsp;
+<SYNC Start=9151625><P Class=KRCC>아!
+<SYNC Start=9153442><P Class=KRCC>&nbsp;
+<SYNC Start=9153443><P Class=KRCC>이거 내 이미지 DVD 잖아
+<SYNC Start=9156324><P Class=KRCC>&nbsp;
+<SYNC Start=9156325><P Class=KRCC>그렇게 누나가 좋아?
+<SYNC Start=9158343><P Class=KRCC>&nbsp;
+<SYNC Start=9158344><P Class=KRCC>에? 아니..
+<SYNC Start=9160274><P Class=KRCC>&nbsp;
+<SYNC Start=9160275><P Class=KRCC>좋아? 좋아? 좋아?
+<SYNC Start=9162629><P Class=KRCC>&nbsp;
+<SYNC Start=9162630><P Class=KRCC>말해보라니까<br>- 그만해 누나
+<SYNC Start=9165630><P Class=KRCC>&nbsp;
+<SYNC Start=9170487><P Class=KRCC><font color="#0080ff">조금전엔 하마터면 누나에게<br>자위하는걸 누나한테 걸릴뻔했다...</font>
+<SYNC Start=9173487><P Class=KRCC>&nbsp;
+<SYNC Start=9177229><P Class=KRCC>내 방에서 천천히 다시하자...
+<SYNC Start=9180229><P Class=KRCC>&nbsp;
+<SYNC Start=9190437><P Class=KRCC>누나...
+<SYNC Start=9193437><P Class=KRCC>&nbsp;
+<SYNC Start=9200624><P Class=KRCC>누나..
+<SYNC Start=9201491><P Class=KRCC>&nbsp;
+<SYNC Start=9201492><P Class=KRCC>야
+<SYNC Start=9203587><P Class=KRCC>&nbsp;
+<SYNC Start=9203588><P Class=KRCC>또 내 비디오 보면서 자위하고 있냐
+<SYNC Start=9206588><P Class=KRCC>&nbsp;
+<SYNC Start=9207523><P Class=KRCC>누나..
+<SYNC Start=9209056><P Class=KRCC>&nbsp;
+<SYNC Start=9209057><P Class=KRCC>왜 누나한테 말하지 않는거야
+<SYNC Start=9212057><P Class=KRCC>&nbsp;
+<SYNC Start=9212217><P Class=KRCC>전에도 보여줬잖아
+<SYNC Start=9215217><P Class=KRCC>&nbsp;
+<SYNC Start=9215245><P Class=KRCC>또.. 그 옷차림은 뭐야
+<SYNC Start=9218245><P Class=KRCC>&nbsp;
+<SYNC Start=9223223><P Class=KRCC>이런거 싫어해?
+<SYNC Start=9226223><P Class=KRCC>&nbsp;
+<SYNC Start=9226386><P Class=KRCC>이거봐
+<SYNC Start=9229386><P Class=KRCC>&nbsp;
+<SYNC Start=9229580><P Class=KRCC>어때?
+<SYNC Start=9230933><P Class=KRCC>&nbsp;
+<SYNC Start=9230934><P Class=KRCC>누나..
+<SYNC Start=9232276><P Class=KRCC>&nbsp;
+<SYNC Start=9232277><P Class=KRCC>어때 라니
+<SYNC Start=9235277><P Class=KRCC>&nbsp;
+<SYNC Start=9236161><P Class=KRCC>뭐.. 니 자지를 보아하니<br>좋은지 안좋은지는 알것 같은데
+<SYNC Start=9239161><P Class=KRCC>&nbsp;
+<SYNC Start=9242152><P Class=KRCC>보여줘봐<br>- 아니 그건..
+<SYNC Start=9245152><P Class=KRCC>&nbsp;
+<SYNC Start=9245868><P Class=KRCC>빨리 보여줘<br>- 뭐..뭐야..
+<SYNC Start=9248868><P Class=KRCC>&nbsp;
+<SYNC Start=9249569><P Class=KRCC>싫어 부끄러워
+<SYNC Start=9252569><P Class=KRCC>&nbsp;
+<SYNC Start=9253598><P Class=KRCC>보여줘<br>- 왜?
+<SYNC Start=9256598><P Class=KRCC>&nbsp;
+<SYNC Start=9257177><P Class=KRCC>숨기지 말고
+<SYNC Start=9259052><P Class=KRCC>&nbsp;
+<SYNC Start=9259053><P Class=KRCC>어라?
+<SYNC Start=9259867><P Class=KRCC>&nbsp;
+<SYNC Start=9259868><P Class=KRCC>안 커졌네?
+<SYNC Start=9262641><P Class=KRCC>&nbsp;
+<SYNC Start=9262642><P Class=KRCC>누나한테 실례잖아
+<SYNC Start=9265642><P Class=KRCC>&nbsp;
+<SYNC Start=9266537><P Class=KRCC>그게.. 갑자기 들어오니까 그렇지
+<SYNC Start=9269537><P Class=KRCC>&nbsp;
+<SYNC Start=9269922><P Class=KRCC>그라비아 아이돌을 생으로 보고 있으면서
+<SYNC Start=9272378><P Class=KRCC>&nbsp;
+<SYNC Start=9272379><P Class=KRCC>어떻게 된거야<br>- 그런말을 들어도..
+<SYNC Start=9275379><P Class=KRCC>&nbsp;
+<SYNC Start=9277165><P Class=KRCC>크게 만들어 줄게
+<SYNC Start=9279548><P Class=KRCC>&nbsp;
+<SYNC Start=9279549><P Class=KRCC>자 벗어<br>- 뭐..뭐야.. 왜 왜?
+<SYNC Start=9282549><P Class=KRCC>&nbsp;
+<SYNC Start=9283659><P Class=KRCC>왜 벗는거야
+<SYNC Start=9286226><P Class=KRCC>&nbsp;
+<SYNC Start=9286227><P Class=KRCC>연습이야 연습<br>- 연습?
+<SYNC Start=9287993><P Class=KRCC>&nbsp;
+<SYNC Start=9287994><P Class=KRCC>자 벗어<br>- 뭐야 연습이라니
+<SYNC Start=9290994><P Class=KRCC>&nbsp;
+<SYNC Start=9291101><P Class=KRCC>됐으니까
+<SYNC Start=9294101><P Class=KRCC>&nbsp;
+<SYNC Start=9297452><P Class=KRCC>이런게 좋아서 자위했던거 아니야?
+<SYNC Start=9300452><P Class=KRCC>&nbsp;
+<SYNC Start=9301308><P Class=KRCC>자 보여줘봐
+<SYNC Start=9304043><P Class=KRCC>&nbsp;
+<SYNC Start=9304044><P Class=KRCC>아 부끄러워 이런 자세
+<SYNC Start=9307044><P Class=KRCC>&nbsp;
+<SYNC Start=9307722><P Class=KRCC>누나..
+<SYNC Start=9309891><P Class=KRCC>&nbsp;
+<SYNC Start=9309892><P Class=KRCC>아! 제대로 젖어있네
+<SYNC Start=9312892><P Class=KRCC>&nbsp;
+<SYNC Start=9313411><P Class=KRCC>에..그야.. 방금 전까지 자위하고 있었으니까
+<SYNC Start=9316411><P Class=KRCC>&nbsp;
+<SYNC Start=9318905><P Class=KRCC>그럼 왜 작아졌던거야
+<SYNC Start=9321905><P Class=KRCC>&nbsp;
+<SYNC Start=9322180><P Class=KRCC>그건 누나가 말없이 갑자기 와서 그렇지
+<SYNC Start=9325180><P Class=KRCC>&nbsp;
+<SYNC Start=9331569><P Class=KRCC>조금 만진것뿐인데 이렇게 커졌어
+<SYNC Start=9334569><P Class=KRCC>&nbsp;
+<SYNC Start=9335622><P Class=KRCC>그게.. 기분 좋은걸..
+<SYNC Start=9338622><P Class=KRCC>&nbsp;
+<SYNC Start=9339110><P Class=KRCC>역시 좋아하는구만
+<SYNC Start=9342110><P Class=KRCC>&nbsp;
+<SYNC Start=9346705><P Class=KRCC>누나 뭐 하는 거야?
+<SYNC Start=9349008><P Class=KRCC>&nbsp;
+<SYNC Start=9349009><P Class=KRCC>연습 연습
+<SYNC Start=9351600><P Class=KRCC>&nbsp;
+<SYNC Start=9351601><P Class=KRCC>연습이라니..
+<SYNC Start=9354583><P Class=KRCC>&nbsp;
+<SYNC Start=9354584><P Class=KRCC>내가 야하지 않으면 팬이 안생길거 아니야
+<SYNC Start=9357584><P Class=KRCC>&nbsp;
+<SYNC Start=9359333><P Class=KRCC>그라비아 아이돌이라 남자친구도 못사귀고
+<SYNC Start=9362333><P Class=KRCC>&nbsp;
+<SYNC Start=9362741><P Class=KRCC>그야 그렇지만
+<SYNC Start=9365019><P Class=KRCC>&nbsp;
+<SYNC Start=9365020><P Class=KRCC>그러니까 너를 상대로라면<br>망설임 없이 연습할수 있잖아
+<SYNC Start=9368020><P Class=KRCC>&nbsp;
+<SYNC Start=9369295><P Class=KRCC>뭐야 그게
+<SYNC Start=9371647><P Class=KRCC>&nbsp;
+<SYNC Start=9371648><P Class=KRCC>내가 연습상대야?
+<SYNC Start=9373513><P Class=KRCC>&nbsp;
+<SYNC Start=9373514><P Class=KRCC>연습상대
+<SYNC Start=9376514><P Class=KRCC>&nbsp;
+<SYNC Start=9378355><P Class=KRCC>영광으로 생각해라
+<SYNC Start=9381355><P Class=KRCC>&nbsp;
+<SYNC Start=9383283><P Class=KRCC>안돼 그렇게 격렬하게 하면
+<SYNC Start=9386283><P Class=KRCC>&nbsp;
+<SYNC Start=9394033><P Class=KRCC>왜 그렇게 장난감 처럼 다루는거야
+<SYNC Start=9397033><P Class=KRCC>&nbsp;
+<SYNC Start=9398851><P Class=KRCC>니 자지는 내 장난감이야
+<SYNC Start=9401851><P Class=KRCC>&nbsp;
+<SYNC Start=9402317><P Class=KRCC>괜찮잖아
+<SYNC Start=9404477><P Class=KRCC>&nbsp;
+<SYNC Start=9404478><P Class=KRCC>아니 그런말을 해도..
+<SYNC Start=9407478><P Class=KRCC>&nbsp;
+<SYNC Start=9412252><P Class=KRCC>아 누나 안된다니까..
+<SYNC Start=9415006><P Class=KRCC>&nbsp;
+<SYNC Start=9415007><P Class=KRCC>안되긴 뭐가 안돼
+<SYNC Start=9417730><P Class=KRCC>&nbsp;
+<SYNC Start=9417731><P Class=KRCC>누나 말이 옳다고
+<SYNC Start=9420731><P Class=KRCC>&nbsp;
+<SYNC Start=9420733><P Class=KRCC>틀린말 한적 있어?
+<SYNC Start=9423733><P Class=KRCC>&nbsp;
+<SYNC Start=9424130><P Class=KRCC>아니.. 없지만..
+<SYNC Start=9426481><P Class=KRCC>&nbsp;
+<SYNC Start=9426482><P Class=KRCC>거봐 전부 내가 옳다고<br>- 그런거야?
+<SYNC Start=9429482><P Class=KRCC>&nbsp;
+<SYNC Start=9435792><P Class=KRCC>거봐 기분 좋잖아<br>- 좋긴하지만..
+<SYNC Start=9438792><P Class=KRCC>&nbsp;
+<SYNC Start=9443554><P Class=KRCC>안돼 너무 그러면<br>쌀것 같아..
+<SYNC Start=9446554><P Class=KRCC>&nbsp;
+<SYNC Start=9448359><P Class=KRCC>에? 벌써 나온다고?
+<SYNC Start=9451359><P Class=KRCC>&nbsp;
+<SYNC Start=9451423><P Class=KRCC>아직 안돼<br>좀 더 연습해야돼
+<SYNC Start=9454423><P Class=KRCC>&nbsp;
+<SYNC Start=9461041><P Class=KRCC>누나가 싸도 된다고 할때까지<br>절대로 싸면 안돼
+<SYNC Start=9464041><P Class=KRCC>&nbsp;
+<SYNC Start=9465894><P Class=KRCC>알았어?
+<SYNC Start=9467789><P Class=KRCC>&nbsp;
+<SYNC Start=9467790><P Class=KRCC>아니.. 그래도.. 나올지도 몰라
+<SYNC Start=9470018><P Class=KRCC>&nbsp;
+<SYNC Start=9470019><P Class=KRCC>안돼
+<SYNC Start=9472029><P Class=KRCC>&nbsp;
+<SYNC Start=9472030><P Class=KRCC>안된다고 했다
+<SYNC Start=9474129><P Class=KRCC>&nbsp;
+<SYNC Start=9474130><P Class=KRCC>아니 그러니까<br>그런거 하면 싼다니까
+<SYNC Start=9477130><P Class=KRCC>&nbsp;
+<SYNC Start=9478392><P Class=KRCC>안돼 참아
+<SYNC Start=9481392><P Class=KRCC>&nbsp;
+<SYNC Start=9488655><P Class=KRCC>뭐야 뭐야
+<SYNC Start=9491192><P Class=KRCC>&nbsp;
+<SYNC Start=9491193><P Class=KRCC>젖꼭지 보여봐
+<SYNC Start=9494193><P Class=KRCC>&nbsp;
+<SYNC Start=9501801><P Class=KRCC>안돼 누나 너무 좋아
+<SYNC Start=9504801><P Class=KRCC>&nbsp;
+<SYNC Start=9507950><P Class=KRCC>이것봐 젖꼭지도 흥분했네
+<SYNC Start=9510950><P Class=KRCC>&nbsp;
+<SYNC Start=9511565><P Class=KRCC>뭐야 그게
+<SYNC Start=9514565><P Class=KRCC>&nbsp;
+<SYNC Start=9516567><P Class=KRCC>그런것도 알수 있어?
+<SYNC Start=9519567><P Class=KRCC>&nbsp;
+<SYNC Start=9521808><P Class=KRCC>남매니까 전부 알수있어
+<SYNC Start=9524808><P Class=KRCC>&nbsp;
+<SYNC Start=9525661><P Class=KRCC>니가 좋아하는곳 알고 있으니까
+<SYNC Start=9528661><P Class=KRCC>&nbsp;
+<SYNC Start=9530811><P Class=KRCC>젖꼭지로 흥분하는건 누나도 그렇잖아
+<SYNC Start=9533811><P Class=KRCC>&nbsp;
+<SYNC Start=9536815><P Class=KRCC>남매니까 닮은게 당연하잖아
+<SYNC Start=9539815><P Class=KRCC>&nbsp;
+<SYNC Start=9550129><P Class=KRCC>너 너무 흥분한다
+<SYNC Start=9552537><P Class=KRCC>&nbsp;
+<SYNC Start=9552538><P Class=KRCC>그게..
+<SYNC Start=9554250><P Class=KRCC>&nbsp;
+<SYNC Start=9554251><P Class=KRCC>이런걸 당하고<br>흥분 안하는 사람은 없어
+<SYNC Start=9557251><P Class=KRCC>&nbsp;
+<SYNC Start=9561454><P Class=KRCC>누나 비디오로 자위 몇번했어
+<SYNC Start=9564454><P Class=KRCC>&nbsp;
+<SYNC Start=9566642><P Class=KRCC>그건..
+<SYNC Start=9568587><P Class=KRCC>&nbsp;
+<SYNC Start=9568588><P Class=KRCC>솔직히 말해
+<SYNC Start=9570787><P Class=KRCC>&nbsp;
+<SYNC Start=9570788><P Class=KRCC>부끄러워서 말 못해
+<SYNC Start=9572461><P Class=KRCC>&nbsp;
+<SYNC Start=9572462><P Class=KRCC>솔직히 말하라니까<br>- 아 죄송.. 죄송해요
+<SYNC Start=9575462><P Class=KRCC>&nbsp;
+<SYNC Start=9577339><P Class=KRCC>누나... 셀수 없어
+<SYNC Start=9580339><P Class=KRCC>&nbsp;
+<SYNC Start=9580517><P Class=KRCC>셀수 없을 정도야?<br>- 응
+<SYNC Start=9583317><P Class=KRCC>&nbsp;
+<SYNC Start=9583318><P Class=KRCC>숨어서 그런짓 했던거야?
+<SYNC Start=9586260><P Class=KRCC>&nbsp;
+<SYNC Start=9586261><P Class=KRCC>응..그래..
+<SYNC Start=9588540><P Class=KRCC>&nbsp;
+<SYNC Start=9588541><P Class=KRCC>왜 누나한테 말하지 않는거야
+<SYNC Start=9590590><P Class=KRCC>&nbsp;
+<SYNC Start=9590591><P Class=KRCC>그런거 말할리 없잖아
+<SYNC Start=9593591><P Class=KRCC>&nbsp;
+<SYNC Start=9594627><P Class=KRCC>안돼.. 누나.. 나온다
+<SYNC Start=9597627><P Class=KRCC>&nbsp;
+<SYNC Start=9597637><P Class=KRCC>아직 더 참아
+<SYNC Start=9600637><P Class=KRCC>&nbsp;
+<SYNC Start=9606680><P Class=KRCC>그래도. 솔직히 말해줬으니까<br>상을 줄게
+<SYNC Start=9609680><P Class=KRCC>&nbsp;
+<SYNC Start=9610145><P Class=KRCC>에? 상이 뭔데?
+<SYNC Start=9613145><P Class=KRCC>&nbsp;
+<SYNC Start=9626958><P Class=KRCC>연습이야 연습
+<SYNC Start=9629318><P Class=KRCC>&nbsp;
+<SYNC Start=9629319><P Class=KRCC>이것도 연습이야?
+<SYNC Start=9632319><P Class=KRCC>&nbsp;
+<SYNC Start=9648668><P Class=KRCC>연습이라니까
+<SYNC Start=9651668><P Class=KRCC>&nbsp;
+<SYNC Start=9664236><P Class=KRCC>왜 그런..
+<SYNC Start=9666251><P Class=KRCC>&nbsp;
+<SYNC Start=9666252><P Class=KRCC>그렇게 야한짓을 하는거야
+<SYNC Start=9668505><P Class=KRCC>&nbsp;
+<SYNC Start=9668506><P Class=KRCC>못 참겠어
+<SYNC Start=9671506><P Class=KRCC>&nbsp;
+<SYNC Start=9674915><P Class=KRCC>누나 말은 절대적이야
+<SYNC Start=9677915><P Class=KRCC>&nbsp;
+<SYNC Start=9687044><P Class=KRCC>기분 좋아 보이네
+<SYNC Start=9689555><P Class=KRCC>&nbsp;
+<SYNC Start=9689556><P Class=KRCC>그야 좋은걸..
+<SYNC Start=9692556><P Class=KRCC>&nbsp;
+<SYNC Start=9714287><P Class=KRCC>못 참겠다고 말했잖아
+<SYNC Start=9717287><P Class=KRCC>&nbsp;
+<SYNC Start=9726530><P Class=KRCC>이렇게 움찔거리고
+<SYNC Start=9729530><P Class=KRCC>&nbsp;
+<SYNC Start=9731799><P Class=KRCC>니가 그렇게 느끼니까<br>누나도 이상한 기분이 되어 버렸잖아
+<SYNC Start=9734799><P Class=KRCC>&nbsp;
+<SYNC Start=9736845><P Class=KRCC>니가 책임져
+<SYNC Start=9739063><P Class=KRCC>&nbsp;
+<SYNC Start=9739064><P Class=KRCC>책임이라니.. 어떻게?
+<SYNC Start=9742064><P Class=KRCC>&nbsp;
+<SYNC Start=9742989><P Class=KRCC>자
+<SYNC Start=9744172><P Class=KRCC>&nbsp;
+<SYNC Start=9744173><P Class=KRCC>누나꺼 빨아
+<SYNC Start=9747173><P Class=KRCC>&nbsp;
+<SYNC Start=9747559><P Class=KRCC>자
+<SYNC Start=9750559><P Class=KRCC>&nbsp;
+<SYNC Start=9760380><P Class=KRCC>제대로 빨아
+<SYNC Start=9763380><P Class=KRCC>&nbsp;
+<SYNC Start=9765132><P Class=KRCC>너만 기분 좋아지고
+<SYNC Start=9768132><P Class=KRCC>&nbsp;
+<SYNC Start=9774358><P Class=KRCC>자 빨리
+<SYNC Start=9776519><P Class=KRCC>&nbsp;
+<SYNC Start=9776520><P Class=KRCC>제대로 빨아
+<SYNC Start=9779520><P Class=KRCC>&nbsp;
+<SYNC Start=9800555><P Class=KRCC>자 너도 연습 좀 해
+<SYNC Start=9802984><P Class=KRCC>&nbsp;
+<SYNC Start=9802985><P Class=KRCC>무슨 연습?<br>- 자
+<SYNC Start=9805985><P Class=KRCC>&nbsp;
+<SYNC Start=9806904><P Class=KRCC>제대로 빨아
+<SYNC Start=9809904><P Class=KRCC>&nbsp;
+<SYNC Start=9815177><P Class=KRCC>너도 연습해야돼
+<SYNC Start=9818177><P Class=KRCC>&nbsp;
+<SYNC Start=9824752><P Class=KRCC>이것봐
+<SYNC Start=9825832><P Class=KRCC>&nbsp;
+<SYNC Start=9825833><P Class=KRCC>좀 더 혀를 내밀어
+<SYNC Start=9828833><P Class=KRCC>&nbsp;
+<SYNC Start=9837652><P Class=KRCC>좀 더!
+<SYNC Start=9839742><P Class=KRCC>&nbsp;
+<SYNC Start=9839743><P Class=KRCC>혀에 쥐날정도로 제대로 빨아
+<SYNC Start=9842743><P Class=KRCC>&nbsp;
+<SYNC Start=9846024><P Class=KRCC>자 빨리
+<SYNC Start=9849024><P Class=KRCC>&nbsp;
+<SYNC Start=9849309><P Class=KRCC>니 친구는 다리에 쥐날정도로 열심히 했다고
+<SYNC Start=9852309><P Class=KRCC>&nbsp;
+<SYNC Start=9854652><P Class=KRCC>혀에 쥐나 본적이 없다고<br>- 됐어
+<SYNC Start=9857366><P Class=KRCC>&nbsp;
+<SYNC Start=9857367><P Class=KRCC>너를 위해서 하는거니까
+<SYNC Start=9860367><P Class=KRCC>&nbsp;
+<SYNC Start=9864884><P Class=KRCC>그래 좀 더
+<SYNC Start=9867884><P Class=KRCC>&nbsp;
+<SYNC Start=9898066><P Class=KRCC>같이 연습하는 거야
+<SYNC Start=9901066><P Class=KRCC>&nbsp;
+<SYNC Start=9901822><P Class=KRCC>나도 연습하는 거야?
+<SYNC Start=9904822><P Class=KRCC>&nbsp;
+<SYNC Start=9914103><P Class=KRCC>자 불평은 그만하고
+<SYNC Start=9916835><P Class=KRCC>&nbsp;
+<SYNC Start=9916836><P Class=KRCC>팬티 벗기라고
+<SYNC Start=9919836><P Class=KRCC>&nbsp;
+<SYNC Start=9933949><P Class=KRCC>자 확실히 빨아봐
+<SYNC Start=9936949><P Class=KRCC>&nbsp;
+<SYNC Start=9937948><P Class=KRCC>불평만 하지말고 제대로 빨아
+<SYNC Start=9940948><P Class=KRCC>&nbsp;
+<SYNC Start=9941237><P Class=KRCC>불평이 아니야
+<SYNC Start=9944237><P Class=KRCC>&nbsp;
+<SYNC Start=9966510><P Class=KRCC>누나 뭐해?
+<SYNC Start=9969116><P Class=KRCC>&nbsp;
+<SYNC Start=9969117><P Class=KRCC>됐어
+<SYNC Start=9972117><P Class=KRCC>&nbsp;
+<SYNC Start=9983207><P Class=KRCC>뭐야 뭐야
+<SYNC Start=9986207><P Class=KRCC>&nbsp;
+<SYNC Start=9988351><P Class=KRCC>뭐 하는 거야
+<SYNC Start=9991351><P Class=KRCC>&nbsp;
+<SYNC Start=10000862><P Class=KRCC>누나 뭐 하는 거야
+<SYNC Start=10003194><P Class=KRCC>&nbsp;
+<SYNC Start=10003195><P Class=KRCC>안보이니까 뭐하는지 모르겠어
+<SYNC Start=10005685><P Class=KRCC>&nbsp;
+<SYNC Start=10005686><P Class=KRCC>기분 좋잖아
+<SYNC Start=10008686><P Class=KRCC>&nbsp;
+<SYNC Start=10009797><P Class=KRCC>좋긴한데
+<SYNC Start=10012797><P Class=KRCC>&nbsp;
+<SYNC Start=10028370><P Class=KRCC>뭔가 격렬하게 하고 있는데
+<SYNC Start=10031370><P Class=KRCC>&nbsp;
+<SYNC Start=10035912><P Class=KRCC>누나 이것도 연습이야?
+<SYNC Start=10038209><P Class=KRCC>&nbsp;
+<SYNC Start=10038210><P Class=KRCC>연습이라고 했잖아
+<SYNC Start=10041210><P Class=KRCC>&nbsp;
+<SYNC Start=10057127><P Class=KRCC>니 귀두에서 엄청 나오고 있어
+<SYNC Start=10060127><P Class=KRCC>&nbsp;
+<SYNC Start=10062246><P Class=KRCC>누나도 똑같잖아
+<SYNC Start=10065246><P Class=KRCC>&nbsp;
+<SYNC Start=10067156><P Class=KRCC>그건 알았으니까 그만 말해
+<SYNC Start=10070156><P Class=KRCC>&nbsp;
+<SYNC Start=10072025><P Class=KRCC>이 자지 어쩔셈이야?
+<SYNC Start=10075025><P Class=KRCC>&nbsp;
+<SYNC Start=10076966><P Class=KRCC>응? 무슨 말이야
+<SYNC Start=10079966><P Class=KRCC>&nbsp;
+<SYNC Start=10080578><P Class=KRCC>어떻게 하고 싶냐고
+<SYNC Start=10083535><P Class=KRCC>&nbsp;
+<SYNC Start=10083536><P Class=KRCC>어떻게 하고 싶냐고?<br>누나 그게 무슨 말이야
+<SYNC Start=10086536><P Class=KRCC>&nbsp;
+<SYNC Start=10102456><P Class=KRCC>고무(콘돔)끼는 연습
+<SYNC Start=10105456><P Class=KRCC>&nbsp;
+<SYNC Start=10106861><P Class=KRCC>왜 그런 연습을해
+<SYNC Start=10108925><P Class=KRCC>&nbsp;
+<SYNC Start=10108926><P Class=KRCC>그럴 필요 있어?
+<SYNC Start=10110867><P Class=KRCC>&nbsp;
+<SYNC Start=10110868><P Class=KRCC>됐어
+<SYNC Start=10113763><P Class=KRCC>&nbsp;
+<SYNC Start=10113764><P Class=KRCC>뭐야 그거
+<SYNC Start=10116764><P Class=KRCC>&nbsp;
+<SYNC Start=10116930><P Class=KRCC>됐다니까
+<SYNC Start=10118679><P Class=KRCC>&nbsp;
+<SYNC Start=10118680><P Class=KRCC>되긴 뭐가 돼
+<SYNC Start=10121680><P Class=KRCC>&nbsp;
+<SYNC Start=10130018><P Class=KRCC>이런 연습할 필요 있어?
+<SYNC Start=10132250><P Class=KRCC>&nbsp;
+<SYNC Start=10132251><P Class=KRCC>필요하지
+<SYNC Start=10135251><P Class=KRCC>&nbsp;
+<SYNC Start=10146871><P Class=KRCC>다됐다
+<SYNC Start=10149871><P Class=KRCC>&nbsp;
+<SYNC Start=10150039><P Class=KRCC>이 콘돔 괜찮은지 확인을 해봐야겠네
+<SYNC Start=10153039><P Class=KRCC>&nbsp;
+<SYNC Start=10153656><P Class=KRCC>에? 무슨뜻이야?
+<SYNC Start=10156386><P Class=KRCC>&nbsp;
+<SYNC Start=10156387><P Class=KRCC>안전한지 확인을 해봐야지
+<SYNC Start=10159387><P Class=KRCC>&nbsp;
+<SYNC Start=10161139><P Class=KRCC>그게 무슨 뜻이야?
+<SYNC Start=10164139><P Class=KRCC>&nbsp;
+<SYNC Start=10165515><P Class=KRCC>니 친구가 했던것처럼 비벼봐
+<SYNC Start=10168515><P Class=KRCC>&nbsp;
+<SYNC Start=10170455><P Class=KRCC>비빈다니 어떻게?
+<SYNC Start=10172518><P Class=KRCC>&nbsp;
+<SYNC Start=10172519><P Class=KRCC>니 친구가 했던것 처럼 말이야
+<SYNC Start=10175519><P Class=KRCC>&nbsp;
+<SYNC Start=10175965><P Class=KRCC>그게 누나는 좋았구나?
+<SYNC Start=10178632><P Class=KRCC>&nbsp;
+<SYNC Start=10178633><P Class=KRCC>아니 좋았다기 보단 딱히..<br>다시 한번 해보고 싶을 뿐이야
+<SYNC Start=10181633><P Class=KRCC>&nbsp;
+<SYNC Start=10183565><P Class=KRCC>누나 그게 좋았던거구나?
+<SYNC Start=10186565><P Class=KRCC>&nbsp;
+<SYNC Start=10186719><P Class=KRCC>뭐.. 딱히..<br>다시 해보고 싶을 뿐이라고 했잖아!
+<SYNC Start=10189719><P Class=KRCC>&nbsp;
+<SYNC Start=10202129><P Class=KRCC>누나.. 소리가 나와
+<SYNC Start=10205129><P Class=KRCC>&nbsp;
+<SYNC Start=10205652><P Class=KRCC>그야..
+<SYNC Start=10208652><P Class=KRCC>&nbsp;
+<SYNC Start=10208770><P Class=KRCC>비벼지고 있는걸
+<SYNC Start=10211770><P Class=KRCC>&nbsp;
+<SYNC Start=10213935><P Class=KRCC>기분 좋구나?
+<SYNC Start=10216935><P Class=KRCC>&nbsp;
+<SYNC Start=10218820><P Class=KRCC>그때 기분 좋았던거지?
+<SYNC Start=10221820><P Class=KRCC>&nbsp;
+<SYNC Start=10222789><P Class=KRCC>좋았어
+<SYNC Start=10225081><P Class=KRCC>&nbsp;
+<SYNC Start=10225082><P Class=KRCC>너도 기분 좋잖아?
+<SYNC Start=10228082><P Class=KRCC>&nbsp;
+<SYNC Start=10229827><P Class=KRCC>누나랑 비벼져서 좋아
+<SYNC Start=10232827><P Class=KRCC>&nbsp;
+<SYNC Start=10276169><P Class=KRCC>비벼져서 미끈미끈해져
+<SYNC Start=10279169><P Class=KRCC>&nbsp;
+<SYNC Start=10283852><P Class=KRCC>누나 미끈미끈 해졌잖아
+<SYNC Start=10286852><P Class=KRCC>&nbsp;
+<SYNC Start=10288807><P Class=KRCC>남매니까 그렇지
+<SYNC Start=10291807><P Class=KRCC>&nbsp;
+<SYNC Start=10291922><P Class=KRCC>쉽게 젖잖아 둘다
+<SYNC Start=10294922><P Class=KRCC>&nbsp;
+<SYNC Start=10296007><P Class=KRCC>너 때문이야<br>- 응? 왜?
+<SYNC Start=10299007><P Class=KRCC>&nbsp;
+<SYNC Start=10299147><P Class=KRCC>왜 나 때문이야?
+<SYNC Start=10302147><P Class=KRCC>&nbsp;
+<SYNC Start=10313667><P Class=KRCC>귀두쪽만 넣어봐도 돼?
+<SYNC Start=10316667><P Class=KRCC>&nbsp;
+<SYNC Start=10317691><P Class=KRCC>그래도. 그건 좀 그렇지 않아?
+<SYNC Start=10320691><P Class=KRCC>&nbsp;
+<SYNC Start=10320734><P Class=KRCC>연습이잖아
+<SYNC Start=10323201><P Class=KRCC>&nbsp;
+<SYNC Start=10323202><P Class=KRCC>괜찮잖아 귀두정도는
+<SYNC Start=10326202><P Class=KRCC>&nbsp;
+<SYNC Start=10326531><P Class=KRCC>정말로? 정말 넣는거야?
+<SYNC Start=10329531><P Class=KRCC>&nbsp;
+<SYNC Start=10333210><P Class=KRCC>귀두만이야
+<SYNC Start=10336210><P Class=KRCC>&nbsp;
+<SYNC Start=10339456><P Class=KRCC>깊숙히 넣으면 화낼꺼야<br>- 응 알았어..
+<SYNC Start=10342456><P Class=KRCC>&nbsp;
+<SYNC Start=10345122><P Class=KRCC>귀두만이야
+<SYNC Start=10348122><P Class=KRCC>&nbsp;
+<SYNC Start=10351566><P Class=KRCC>멋대로 움직이면 화낼꺼야
+<SYNC Start=10354566><P Class=KRCC>&nbsp;
+<SYNC Start=10358406><P Class=KRCC>귀두까지 들어갔어
+<SYNC Start=10361406><P Class=KRCC>&nbsp;
+<SYNC Start=10361638><P Class=KRCC>아니 누나가.. 안쪽까지 넣어 버렸잖아
+<SYNC Start=10364638><P Class=KRCC>&nbsp;
+<SYNC Start=10367298><P Class=KRCC>깊숙히 안들어갔어
+<SYNC Start=10370170><P Class=KRCC>&nbsp;
+<SYNC Start=10370171><P Class=KRCC>귀두만 들어갔잖아<br>- 아니 들어갔잖아 깊숙히
+<SYNC Start=10373171><P Class=KRCC>&nbsp;
+<SYNC Start=10373486><P Class=KRCC>깊숙히 안들어갔어
+<SYNC Start=10376486><P Class=KRCC>&nbsp;
+<SYNC Start=10384764><P Class=KRCC>귀두만 들어갔어
+<SYNC Start=10387764><P Class=KRCC>&nbsp;
+<SYNC Start=10391858><P Class=KRCC>안돼 그렇게 움직이면..<br>싼다고
+<SYNC Start=10394858><P Class=KRCC>&nbsp;
+<SYNC Start=10406448><P Class=KRCC>울것 같은 표정이네<br>귀여워
+<SYNC Start=10409448><P Class=KRCC>&nbsp;
+<SYNC Start=10412784><P Class=KRCC>너의 그런 표정 너무 좋아
+<SYNC Start=10415611><P Class=KRCC>&nbsp;
+<SYNC Start=10415612><P Class=KRCC>무슨 말을 하는거야
+<SYNC Start=10418612><P Class=KRCC>&nbsp;
+<SYNC Start=10424414><P Class=KRCC>그 표정을 보고 있으면 가버려
+<SYNC Start=10427414><P Class=KRCC>&nbsp;
+<SYNC Start=10428229><P Class=KRCC>누나 가버린다
+<SYNC Start=10430943><P Class=KRCC>&nbsp;
+<SYNC Start=10430944><P Class=KRCC>동생의 자지로 가버려~
+<SYNC Start=10433944><P Class=KRCC>&nbsp;
+<SYNC Start=10466343><P Class=KRCC>누나 너무 격렬해
+<SYNC Start=10469343><P Class=KRCC>&nbsp;
+<SYNC Start=10472725><P Class=KRCC>왜 동생주제에 누나를 가버리게 만드는거야
+<SYNC Start=10475725><P Class=KRCC>&nbsp;
+<SYNC Start=10477111><P Class=KRCC>니 자지로 가버렸잖아!
+<SYNC Start=10480111><P Class=KRCC>&nbsp;
+<SYNC Start=10480272><P Class=KRCC>그건 누나가 멋대로 격렬하게 움직엿잖아
+<SYNC Start=10483272><P Class=KRCC>&nbsp;
+<SYNC Start=10485475><P Class=KRCC>누나가 가도 된다고 할때까지 가버리면 안돼
+<SYNC Start=10488475><P Class=KRCC>&nbsp;
+<SYNC Start=10499646><P Class=KRCC>누나..나 안되겠어.. 못 참겠어...
+<SYNC Start=10502646><P Class=KRCC>&nbsp;
+<SYNC Start=10506197><P Class=KRCC>왜 도망가는 거야
+<SYNC Start=10508755><P Class=KRCC>&nbsp;
+<SYNC Start=10508756><P Class=KRCC>뭐해
+<SYNC Start=10511756><P Class=KRCC>&nbsp;
+<SYNC Start=10512740><P Class=KRCC>왜 도망 가는 거야<br>- 더 이상 무리라니까
+<SYNC Start=10515740><P Class=KRCC>&nbsp;
+<SYNC Start=10518274><P Class=KRCC>뭐야 부끄러워 이 자세
+<SYNC Start=10521274><P Class=KRCC>&nbsp;
+<SYNC Start=10524004><P Class=KRCC>연습이라고 했잖아
+<SYNC Start=10525614><P Class=KRCC>&nbsp;
+<SYNC Start=10525615><P Class=KRCC>왜 도중에 도망가는 거야<br>- 이런 연습이 어딧어
+<SYNC Start=10528615><P Class=KRCC>&nbsp;
+<SYNC Start=10531269><P Class=KRCC>누나는 아직 만족 못했어
+<SYNC Start=10534269><P Class=KRCC>&nbsp;
+<SYNC Start=10540759><P Class=KRCC>누나를 만족 시키라고
+<SYNC Start=10543759><P Class=KRCC>&nbsp;
+<SYNC Start=10543782><P Class=KRCC>동생이잖아
+<SYNC Start=10546782><P Class=KRCC>&nbsp;
+<SYNC Start=10547073><P Class=KRCC>누나를 어떻게 만족 시키면 되는건데
+<SYNC Start=10550073><P Class=KRCC>&nbsp;
+<SYNC Start=10555965><P Class=KRCC>니 몸은 내꺼야
+<SYNC Start=10558965><P Class=KRCC>&nbsp;
+<SYNC Start=10560605><P Class=KRCC>누나 왜 그런델 빠는거야
+<SYNC Start=10563605><P Class=KRCC>&nbsp;
+<SYNC Start=10569689><P Class=KRCC>자 이쪽도
+<SYNC Start=10572689><P Class=KRCC>&nbsp;
+<SYNC Start=10579130><P Class=KRCC>여기 좋아하는거 다 알아<br>- 왜 그런걸 알고 있는거야
+<SYNC Start=10582130><P Class=KRCC>&nbsp;
+<SYNC Start=10585853><P Class=KRCC>누나는 뭐든 다 알고 있어
+<SYNC Start=10588853><P Class=KRCC>&nbsp;
+<SYNC Start=10590225><P Class=KRCC>그런데 빨면 더럽잖아 누나
+<SYNC Start=10593225><P Class=KRCC>&nbsp;
+<SYNC Start=10593884><P Class=KRCC>됐어 조용히해
+<SYNC Start=10596884><P Class=KRCC>&nbsp;
+<SYNC Start=10599424><P Class=KRCC>엄청 이상한 느낌이야
+<SYNC Start=10602424><P Class=KRCC>&nbsp;
+<SYNC Start=10614492><P Class=KRCC>이것봐 누나 혀가 반은 들어갔어
+<SYNC Start=10617492><P Class=KRCC>&nbsp;
+<SYNC Start=10618416><P Class=KRCC>안돼 그런데에 넣으면
+<SYNC Start=10621416><P Class=KRCC>&nbsp;
+<SYNC Start=10628274><P Class=KRCC>안된다고 말하면서<br>자지는 빨딱 섯잖아
+<SYNC Start=10631274><P Class=KRCC>&nbsp;
+<SYNC Start=10632212><P Class=KRCC>그..그건..
+<SYNC Start=10634448><P Class=KRCC>&nbsp;
+<SYNC Start=10634449><P Class=KRCC>부끄러워 누나..
+<SYNC Start=10637449><P Class=KRCC>&nbsp;
+<SYNC Start=10639117><P Class=KRCC>또 누나의 보지에 넣고 싶다는거지?
+<SYNC Start=10642117><P Class=KRCC>&nbsp;
+<SYNC Start=10660600><P Class=KRCC>누나..
+<SYNC Start=10662993><P Class=KRCC>&nbsp;
+<SYNC Start=10662994><P Class=KRCC>뭘 하려고
+<SYNC Start=10665994><P Class=KRCC>&nbsp;
+<SYNC Start=10673876><P Class=KRCC>들어갔어
+<SYNC Start=10676876><P Class=KRCC>&nbsp;
+<SYNC Start=10693326><P Class=KRCC>이것도 연습이야?
+<SYNC Start=10696326><P Class=KRCC>&nbsp;
+<SYNC Start=10697949><P Class=KRCC>땀 엄청나
+<SYNC Start=10700949><P Class=KRCC>&nbsp;
+<SYNC Start=10701367><P Class=KRCC>이 운동 좋은거 같아
+<SYNC Start=10704147><P Class=KRCC>&nbsp;
+<SYNC Start=10704148><P Class=KRCC>아니 못 버티겠어
+<SYNC Start=10707148><P Class=KRCC>&nbsp;
+<SYNC Start=10707213><P Class=KRCC>다이어트 좀 하게 참아봐
+<SYNC Start=10710213><P Class=KRCC>&nbsp;
+<SYNC Start=10736196><P Class=KRCC>자
+<SYNC Start=10739196><P Class=KRCC>&nbsp;
+<SYNC Start=10754000><P Class=KRCC>누나 좋아하지?
+<SYNC Start=10756877><P Class=KRCC>&nbsp;
+<SYNC Start=10756878><P Class=KRCC>좋아한다고 말하고<br>허리 흔들어봐
+<SYNC Start=10759878><P Class=KRCC>&nbsp;
+<SYNC Start=10762718><P Class=KRCC>누나 .. 정말
+<SYNC Start=10765249><P Class=KRCC>&nbsp;
+<SYNC Start=10765250><P Class=KRCC>제대로 말해
+<SYNC Start=10767125><P Class=KRCC>&nbsp;
+<SYNC Start=10767126><P Class=KRCC>가슴을 들이밀면 말을 못하지<br>- 자 빨리
+<SYNC Start=10769828><P Class=KRCC>&nbsp;
+<SYNC Start=10769829><P Class=KRCC>누나 좋아하잖아
+<SYNC Start=10772829><P Class=KRCC>&nbsp;
+<SYNC Start=10775007><P Class=KRCC>누나 너무 좋아
+<SYNC Start=10778007><P Class=KRCC>&nbsp;
+<SYNC Start=10791363><P Class=KRCC>많이 박아줘
+<SYNC Start=10794363><P Class=KRCC>&nbsp;
+<SYNC Start=10805879><P Class=KRCC>누나
+<SYNC Start=10808459><P Class=KRCC>&nbsp;
+<SYNC Start=10808460><P Class=KRCC>저번에 내 친구랑 내 자지중에 어느쪽이 좋아?
+<SYNC Start=10811460><P Class=KRCC>&nbsp;
+<SYNC Start=10816595><P Class=KRCC>그야 당연히 너지<br>남매잖아
+<SYNC Start=10819595><P Class=KRCC>&nbsp;
+<SYNC Start=10822570><P Class=KRCC>기분 좋은것도 똑같아
+<SYNC Start=10825570><P Class=KRCC>&nbsp;
+<SYNC Start=10826927><P Class=KRCC>너무 기뻐
+<SYNC Start=10829927><P Class=KRCC>&nbsp;
+<SYNC Start=10831085><P Class=KRCC>남매니까 궁합이 맞는건 당연하잖아
+<SYNC Start=10834085><P Class=KRCC>&nbsp;
+<SYNC Start=10845362><P Class=KRCC>또 가버린다~
+<SYNC Start=10847803><P Class=KRCC>&nbsp;
+<SYNC Start=10847804><P Class=KRCC>누나 가도돼?
+<SYNC Start=10850804><P Class=KRCC>&nbsp;
+<SYNC Start=10861000><P Class=KRCC>너 너무 기분 좋아
+<SYNC Start=10864000><P Class=KRCC>&nbsp;
+<SYNC Start=10869290><P Class=KRCC>누나 다시 내가 해도 될까?
+<SYNC Start=10872290><P Class=KRCC>&nbsp;
+<SYNC Start=10873632><P Class=KRCC>좀 더 누나를 만족 시켜봐
+<SYNC Start=10876559><P Class=KRCC>&nbsp;
+<SYNC Start=10876560><P Class=KRCC>자 여기야
+<SYNC Start=10878963><P Class=KRCC>&nbsp;
+<SYNC Start=10878964><P Class=KRCC>여기에 넣어
+<SYNC Start=10881964><P Class=KRCC>&nbsp;
+<SYNC Start=10905097><P Class=KRCC>또 들어왔어
+<SYNC Start=10908097><P Class=KRCC>&nbsp;
+<SYNC Start=10921840><P Class=KRCC>이렇게 하면 기분 좋지?
+<SYNC Start=10924840><P Class=KRCC>&nbsp;
+<SYNC Start=10925535><P Class=KRCC>응 너무 좋아
+<SYNC Start=10928337><P Class=KRCC>&nbsp;
+<SYNC Start=10928338><P Class=KRCC>다 알고 있어
+<SYNC Start=10931338><P Class=KRCC>&nbsp;
+<SYNC Start=10935216><P Class=KRCC>또 어리광부리는 얼굴이 잖아
+<SYNC Start=10938216><P Class=KRCC>&nbsp;
+<SYNC Start=10942031><P Class=KRCC>누나를 너무 좋아하는걸
+<SYNC Start=10945031><P Class=KRCC>&nbsp;
+<SYNC Start=10945148><P Class=KRCC>누나 좋아하지?
+<SYNC Start=10948148><P Class=KRCC>&nbsp;
+<SYNC Start=10950531><P Class=KRCC>그럼 좀 더 어리광부려봐
+<SYNC Start=10953531><P Class=KRCC>&nbsp;
+<SYNC Start=10954363><P Class=KRCC>좀 더 허리를 흔들어
+<SYNC Start=10957363><P Class=KRCC>&nbsp;
+<SYNC Start=10992424><P Class=KRCC>왜 멈추는 거야
+<SYNC Start=10994971><P Class=KRCC>&nbsp;
+<SYNC Start=10994972><P Class=KRCC>너무 좋아서
+<SYNC Start=10997972><P Class=KRCC>&nbsp;
+<SYNC Start=11004366><P Class=KRCC>갈뻔 했는데<br>왜 멈췄어
+<SYNC Start=11007366><P Class=KRCC>&nbsp;
+<SYNC Start=11007974><P Class=KRCC>누나 갈뻔 했구나
+<SYNC Start=11010974><P Class=KRCC>&nbsp;
+<SYNC Start=11018399><P Class=KRCC>여기도 좋아하지?
+<SYNC Start=11021399><P Class=KRCC>&nbsp;
+<SYNC Start=11037905><P Class=KRCC>누나 너무 좋아
+<SYNC Start=11040905><P Class=KRCC>&nbsp;
+<SYNC Start=11057120><P Class=KRCC>이제 싸고 싶지?
+<SYNC Start=11060120><P Class=KRCC>&nbsp;
+<SYNC Start=11065572><P Class=KRCC>안에는 안되지만<br>좋아하는데에 싸
+<SYNC Start=11068572><P Class=KRCC>&nbsp;
+<SYNC Start=11071299><P Class=KRCC>좋아하는곳?
+<SYNC Start=11074160><P Class=KRCC>&nbsp;
+<SYNC Start=11074161><P Class=KRCC>누나한테 많이 뿌려줘
+<SYNC Start=11077161><P Class=KRCC>&nbsp;
+<SYNC Start=11110862><P Class=KRCC>좀 더 격렬하게
+<SYNC Start=11113862><P Class=KRCC>&nbsp;
+<SYNC Start=11134094><P Class=KRCC>누나..싼다..
+<SYNC Start=11137094><P Class=KRCC>&nbsp;
+<SYNC Start=11137812><P Class=KRCC>싸<br>누나한테 싸줘
+<SYNC Start=11140812><P Class=KRCC>&nbsp;
+<SYNC Start=11172063><P Class=KRCC>너무 부족해<br>- 에?
+<SYNC Start=11175063><P Class=KRCC>&nbsp;
+<SYNC Start=11179629><P Class=KRCC>정말~<br>입에 임신시킬 정도로 싸지 못하겠어?
+<SYNC Start=11182629><P Class=KRCC>&nbsp;
+<SYNC Start=11183405><P Class=KRCC>누나 가슴에도 많이 묻었어
+<SYNC Start=11186405><P Class=KRCC>&nbsp;
+<SYNC Start=11192696><P Class=KRCC>부족해
+<SYNC Start=11195696><P Class=KRCC>&nbsp;
+<SYNC Start=11196207><P Class=KRCC>그래도 부족한거야?
+<SYNC Start=11199207><P Class=KRCC>&nbsp;
+<SYNC Start=11200012><P Class=KRCC>매일 해야겠다
+<SYNC Start=11203012><P Class=KRCC>&nbsp;
+<SYNC Start=11205016><P Class=KRCC>그건 무리야 누나..
+<SYNC Start=11208016><P Class=KRCC>&nbsp;
+<SYNC Start=11210119><P Class=KRCC>무리는 무슨 무리야
+<SYNC Start=11213119><P Class=KRCC>&nbsp;
+<SYNC Start=11219038><P Class=KRCC>다녀 왔습니다
+<SYNC Start=11222038><P Class=KRCC>&nbsp;
+<SYNC Start=11231363><P Class=KRCC>누나?
+<SYNC Start=11234363><P Class=KRCC>&nbsp;
+<SYNC Start=11235103><P Class=KRCC>엄청난 복장으로 자고 있네
+<SYNC Start=11238103><P Class=KRCC>&nbsp;
+<SYNC Start=11238513><P Class=KRCC>그러고 보니<br>오늘은 집에서 촬영한다고 했었지
+<SYNC Start=11241513><P Class=KRCC>&nbsp;
+<SYNC Start=11245883><P Class=KRCC>그게 아니면 또 시간이 멈춰 버린건가?
+<SYNC Start=11248883><P Class=KRCC>&nbsp;
+<SYNC Start=11251969><P Class=KRCC>누나?
+<SYNC Start=11254969><P Class=KRCC>&nbsp;
+<SYNC Start=11260130><P Class=KRCC>누나
+<SYNC Start=11263130><P Class=KRCC>&nbsp;
+<SYNC Start=11264355><P Class=KRCC>진짜 자는거야?
+<SYNC Start=11267355><P Class=KRCC>&nbsp;
+<SYNC Start=11288119><P Class=KRCC>누나.. 피곤한건가
+<SYNC Start=11291119><P Class=KRCC>&nbsp;
+<SYNC Start=11296857><P Class=KRCC>그럼.. 마사지를 해줄까
+<SYNC Start=11299857><P Class=KRCC>&nbsp;
+<SYNC Start=11332998><P Class=KRCC>피곤하지?
+<SYNC Start=11335998><P Class=KRCC>&nbsp;
+<SYNC Start=11337032><P Class=KRCC>마사지 해줄게
+<SYNC Start=11340032><P Class=KRCC>&nbsp;
+<SYNC Start=11360871><P Class=KRCC>누난 항상 바쁘니까
+<SYNC Start=11363871><P Class=KRCC>&nbsp;
+<SYNC Start=11400371><P Class=KRCC>누나..<br>마사지 기분 좋으려나?
+<SYNC Start=11403371><P Class=KRCC>&nbsp;
+<SYNC Start=11496421><P Class=KRCC>깨있었어?
+<SYNC Start=11499421><P Class=KRCC>&nbsp;
+<SYNC Start=11499573><P Class=KRCC>괜찮으니까 계속해
+<SYNC Start=11502573><P Class=KRCC>&nbsp;
+<SYNC Start=11517078><P Class=KRCC>좀 더 제대로 주물러
+<SYNC Start=11520078><P Class=KRCC>&nbsp;
+<SYNC Start=11562037><P Class=KRCC>이쪽도 마사지 해줘
+<SYNC Start=11565037><P Class=KRCC>&nbsp;
+<SYNC Start=11569942><P Class=KRCC>오일 좀 더 발라줘
+<SYNC Start=11572942><P Class=KRCC>&nbsp;
+<SYNC Start=11589439><P Class=KRCC>거기
+<SYNC Start=11592439><P Class=KRCC>&nbsp;
+<SYNC Start=11593221><P Class=KRCC>그래
+<SYNC Start=11596221><P Class=KRCC>&nbsp;
+<SYNC Start=11622017><P Class=KRCC>손가락 들어갔어
+<SYNC Start=11625017><P Class=KRCC>&nbsp;
+<SYNC Start=11635882><P Class=KRCC>넣어도 된다고 안했잖아
+<SYNC Start=11638882><P Class=KRCC>&nbsp;
+<SYNC Start=11639076><P Class=KRCC>왜 멋대로 넣는거야
+<SYNC Start=11642076><P Class=KRCC>&nbsp;
+<SYNC Start=11642686><P Class=KRCC>만지라고 해서..
+<SYNC Start=11645686><P Class=KRCC>&nbsp;
+<SYNC Start=11648819><P Class=KRCC>왜 빼는거야
+<SYNC Start=11651453><P Class=KRCC>&nbsp;
+<SYNC Start=11651454><P Class=KRCC>할거면 제대로 해
+<SYNC Start=11654175><P Class=KRCC>&nbsp;
+<SYNC Start=11654176><P Class=KRCC>응 미안..
+<SYNC Start=11657176><P Class=KRCC>&nbsp;
+<SYNC Start=11668347><P Class=KRCC>손가락 들어갔어
+<SYNC Start=11671347><P Class=KRCC>&nbsp;
+<SYNC Start=11679082><P Class=KRCC>아 거긴 안돼..
+<SYNC Start=11682082><P Class=KRCC>&nbsp;
+<SYNC Start=11714090><P Class=KRCC>좀 더 이렇게해봐
+<SYNC Start=11717090><P Class=KRCC>&nbsp;
+<SYNC Start=11717233><P Class=KRCC>그래
+<SYNC Start=11720233><P Class=KRCC>&nbsp;
+<SYNC Start=11727503><P Class=KRCC>안돼 거긴..
+<SYNC Start=11730503><P Class=KRCC>&nbsp;
+<SYNC Start=11737994><P Class=KRCC>그런데 만지면 가버려
+<SYNC Start=11740994><P Class=KRCC>&nbsp;
+<SYNC Start=11745591><P Class=KRCC>안돼..
+<SYNC Start=11748056><P Class=KRCC>&nbsp;
+<SYNC Start=11748057><P Class=KRCC>기분 좋아져버려
+<SYNC Start=11751057><P Class=KRCC>&nbsp;
+<SYNC Start=11756537><P Class=KRCC>갈것 같아
+<SYNC Start=11759052><P Class=KRCC>&nbsp;
+<SYNC Start=11759053><P Class=KRCC>누나 가도 돼?
+<SYNC Start=11762053><P Class=KRCC>&nbsp;
+<SYNC Start=11768836><P Class=KRCC>누나 가도 돼?
+<SYNC Start=11771836><P Class=KRCC>&nbsp;
+<SYNC Start=11811373><P Class=KRCC>가버렸어
+<SYNC Start=11814373><P Class=KRCC>&nbsp;
+<SYNC Start=11821729><P Class=KRCC>좀 더 기분좋아지고 싶으니까
+<SYNC Start=11824729><P Class=KRCC>&nbsp;
+<SYNC Start=11825594><P Class=KRCC>저거 사용해줘
+<SYNC Start=11828594><P Class=KRCC>&nbsp;
+<SYNC Start=11828999><P Class=KRCC>응? 뭐야?
+<SYNC Start=11831999><P Class=KRCC>&nbsp;
+<SYNC Start=11832702><P Class=KRCC>저기 들어있어
+<SYNC Start=11835702><P Class=KRCC>&nbsp;
+<SYNC Start=11842286><P Class=KRCC>뭐야 이게
+<SYNC Start=11845141><P Class=KRCC>&nbsp;
+<SYNC Start=11845142><P Class=KRCC>그거
+<SYNC Start=11848142><P Class=KRCC>&nbsp;
+<SYNC Start=11849733><P Class=KRCC>내 장난감<br>- 장난감?
+<SYNC Start=11852733><P Class=KRCC>&nbsp;
+<SYNC Start=11856069><P Class=KRCC>항상 쓰고 있어
+<SYNC Start=11858479><P Class=KRCC>&nbsp;
+<SYNC Start=11858480><P Class=KRCC>괜찮잖아
+<SYNC Start=11861480><P Class=KRCC>&nbsp;
+<SYNC Start=11861718><P Class=KRCC>으응..
+<SYNC Start=11864718><P Class=KRCC>&nbsp;
+<SYNC Start=11871205><P Class=KRCC>자 빨리 써봐
+<SYNC Start=11874205><P Class=KRCC>&nbsp;
+<SYNC Start=11874612><P Class=KRCC>어떻게 쓰는건데?
+<SYNC Start=11877612><P Class=KRCC>&nbsp;
+<SYNC Start=11878503><P Class=KRCC>여기에 대고서
+<SYNC Start=11881503><P Class=KRCC>&nbsp;
+<SYNC Start=11885328><P Class=KRCC>전원을 켜봐
+<SYNC Start=11888328><P Class=KRCC>&nbsp;
+<SYNC Start=11916119><P Class=KRCC>아 거기 좋아
+<SYNC Start=11919119><P Class=KRCC>&nbsp;
+<SYNC Start=11980043><P Class=KRCC>좀 더 기분좋게 해줘
+<SYNC Start=11983043><P Class=KRCC>&nbsp;
+<SYNC Start=11986779><P Class=KRCC>여기에 대봐
+<SYNC Start=11989779><P Class=KRCC>&nbsp;
+<SYNC Start=12016618><P Class=KRCC>그렇게 밀어 넣으면 안돼
+<SYNC Start=12019618><P Class=KRCC>&nbsp;
+<SYNC Start=12020004><P Class=KRCC>또 가버려
+<SYNC Start=12023004><P Class=KRCC>&nbsp;
+<SYNC Start=12047453><P Class=KRCC>왜 더 쎄게 하는거야
+<SYNC Start=12050453><P Class=KRCC>&nbsp;
+<SYNC Start=12051417><P Class=KRCC>안돼
+<SYNC Start=12054417><P Class=KRCC>&nbsp;
+<SYNC Start=12080903><P Class=KRCC>또 가버렸잖아
+<SYNC Start=12083903><P Class=KRCC>&nbsp;
+<SYNC Start=12088906><P Class=KRCC>이번엔 누나가 기분 좋게 해줄께
+<SYNC Start=12091906><P Class=KRCC>&nbsp;
+<SYNC Start=12093775><P Class=KRCC>자 벗어
+<SYNC Start=12096775><P Class=KRCC>&nbsp;
+<SYNC Start=12109018><P Class=KRCC>커졌네
+<SYNC Start=12112018><P Class=KRCC>&nbsp;
+<SYNC Start=12161224><P Class=KRCC>아까부터 계속 나오고 있어
+<SYNC Start=12164224><P Class=KRCC>&nbsp;
+<SYNC Start=12166235><P Class=KRCC>이거봐
+<SYNC Start=12169235><P Class=KRCC>&nbsp;
+<SYNC Start=12172855><P Class=KRCC>이렇게 많이 나오고있어
+<SYNC Start=12175855><P Class=KRCC>&nbsp;
+<SYNC Start=12186103><P Class=KRCC>누워봐
+<SYNC Start=12189103><P Class=KRCC>&nbsp;
+<SYNC Start=12205145><P Class=KRCC>똥꼬 빨아도 돼?
+<SYNC Start=12208145><P Class=KRCC>&nbsp;
+<SYNC Start=12211754><P Class=KRCC>이런거 좋아하잖아
+<SYNC Start=12214754><P Class=KRCC>&nbsp;
+<SYNC Start=12225786><P Class=KRCC>엄청 움찔거려
+<SYNC Start=12228786><P Class=KRCC>&nbsp;
+<SYNC Start=12229138><P Class=KRCC>역시 좋아하는구나
+<SYNC Start=12232138><P Class=KRCC>&nbsp;
+<SYNC Start=12265707><P Class=KRCC>자지 엄청 미끌미끌 해졌어
+<SYNC Start=12268707><P Class=KRCC>&nbsp;
+<SYNC Start=12275549><P Class=KRCC>이런 자세로 흥분한거지
+<SYNC Start=12278549><P Class=KRCC>&nbsp;
+<SYNC Start=12279438><P Class=KRCC>부끄러워
+<SYNC Start=12282438><P Class=KRCC>&nbsp;
+<SYNC Start=12317853><P Class=KRCC>누나 부끄러워
+<SYNC Start=12320273><P Class=KRCC>&nbsp;
+<SYNC Start=12320274><P Class=KRCC>에?
+<SYNC Start=12321428><P Class=KRCC>&nbsp;
+<SYNC Start=12321429><P Class=KRCC>부끄럽다고?
+<SYNC Start=12324429><P Class=KRCC>&nbsp;
+<SYNC Start=12328632><P Class=KRCC>부끄러워하지 않아도 돼
+<SYNC Start=12331632><P Class=KRCC>&nbsp;
+<SYNC Start=12335169><P Class=KRCC>누나..<br>엉덩이 안에 누나 혀가 들어왔어
+<SYNC Start=12338169><P Class=KRCC>&nbsp;
+<SYNC Start=12342560><P Class=KRCC>혀가 많이 들어가지?
+<SYNC Start=12345560><P Class=KRCC>&nbsp;
+<SYNC Start=12345592><P Class=KRCC>응
+<SYNC Start=12348592><P Class=KRCC>&nbsp;
+<SYNC Start=12354753><P Class=KRCC>안된다니까 그건..
+<SYNC Start=12357753><P Class=KRCC>&nbsp;
+<SYNC Start=12382346><P Class=KRCC>많이 흥분돼?
+<SYNC Start=12385346><P Class=KRCC>&nbsp;
+<SYNC Start=12386443><P Class=KRCC>응
+<SYNC Start=12389443><P Class=KRCC>&nbsp;
+<SYNC Start=12400004><P Class=KRCC>자고 있을때 멋대로 누나 만진 주제에
+<SYNC Start=12403004><P Class=KRCC>&nbsp;
+<SYNC Start=12404354><P Class=KRCC>그에대한 벌이야<br>- 벌?
+<SYNC Start=12407354><P Class=KRCC>&nbsp;
+<SYNC Start=12418888><P Class=KRCC>벌이야
+<SYNC Start=12421888><P Class=KRCC>&nbsp;
+<SYNC Start=12429710><P Class=KRCC>그렇게 당하면
+<SYNC Start=12432202><P Class=KRCC>&nbsp;
+<SYNC Start=12432203><P Class=KRCC>여자가 된 느낌이야
+<SYNC Start=12435203><P Class=KRCC>&nbsp;
+<SYNC Start=12436772><P Class=KRCC>벌이라니까
+<SYNC Start=12439772><P Class=KRCC>&nbsp;
+<SYNC Start=12464034><P Class=KRCC>너만 하지말고<br>누나것도 빨아줘
+<SYNC Start=12467034><P Class=KRCC>&nbsp;
+<SYNC Start=12467747><P Class=KRCC>빨아줘?
+<SYNC Start=12470747><P Class=KRCC>&nbsp;
+<SYNC Start=12473302><P Class=KRCC>자 빨리 빨아
+<SYNC Start=12476302><P Class=KRCC>&nbsp;
+<SYNC Start=12485273><P Class=KRCC>잘하네
+<SYNC Start=12488273><P Class=KRCC>&nbsp;
+<SYNC Start=12488853><P Class=KRCC>좀 더 거기 빨아봐
+<SYNC Start=12491853><P Class=KRCC>&nbsp;
+<SYNC Start=12509867><P Class=KRCC>그렇게 빨면 누나 또 가버려
+<SYNC Start=12512867><P Class=KRCC>&nbsp;
+<SYNC Start=12517859><P Class=KRCC>누나 가도 돼?
+<SYNC Start=12520859><P Class=KRCC>&nbsp;
+<SYNC Start=12521324><P Class=KRCC>누나 가버린다
+<SYNC Start=12524324><P Class=KRCC>&nbsp;
+<SYNC Start=12553550><P Class=KRCC>또 가버렸어
+<SYNC Start=12556550><P Class=KRCC>&nbsp;
+<SYNC Start=12560090><P Class=KRCC>너 너무 기분 좋아
+<SYNC Start=12563090><P Class=KRCC>&nbsp;
+<SYNC Start=12568939><P Class=KRCC>나도 빨아 줄게
+<SYNC Start=12571939><P Class=KRCC>&nbsp;
+<SYNC Start=12615660><P Class=KRCC>너무 빤다
+<SYNC Start=12618660><P Class=KRCC>&nbsp;
+<SYNC Start=12664763><P Class=KRCC>너무 좋아서 빨지를 못하겠어
+<SYNC Start=12667763><P Class=KRCC>&nbsp;
+<SYNC Start=12700467><P Class=KRCC>못 참겠어
+<SYNC Start=12703467><P Class=KRCC>&nbsp;
+<SYNC Start=12703772><P Class=KRCC>슬슬 넣자
+<SYNC Start=12706772><P Class=KRCC>&nbsp;
+<SYNC Start=12707362><P Class=KRCC>누나가 넣을테니까<br>멋대로 넣으면 안돼
+<SYNC Start=12710362><P Class=KRCC>&nbsp;
+<SYNC Start=12738020><P Class=KRCC>들어 갔어
+<SYNC Start=12741020><P Class=KRCC>&nbsp;
+<SYNC Start=12756862><P Class=KRCC>들어갔어
+<SYNC Start=12759862><P Class=KRCC>&nbsp;
+<SYNC Start=12801114><P Class=KRCC>너무 격렬하게 하면 안돼
+<SYNC Start=12804114><P Class=KRCC>&nbsp;
+<SYNC Start=12843927><P Class=KRCC>왜 멋대로 움직이는 거야
+<SYNC Start=12846927><P Class=KRCC>&nbsp;
+<SYNC Start=12849197><P Class=KRCC>누나가 움직일거야
+<SYNC Start=12852197><P Class=KRCC>&nbsp;
+<SYNC Start=12897502><P Class=KRCC>누나 너무 격렬하게 하면 나와버려
+<SYNC Start=12900502><P Class=KRCC>&nbsp;
+<SYNC Start=12903797><P Class=KRCC>아직 싸면 안돼
+<SYNC Start=12906797><P Class=KRCC>&nbsp;
+<SYNC Start=12907235><P Class=KRCC>아직 싸면 안돼
+<SYNC Start=12910235><P Class=KRCC>&nbsp;
+<SYNC Start=12910660><P Class=KRCC>그래도..너무 격렬해
+<SYNC Start=12913660><P Class=KRCC>&nbsp;
+<SYNC Start=12916632><P Class=KRCC>좀 더 참아봐
+<SYNC Start=12919632><P Class=KRCC>&nbsp;
+<SYNC Start=12947702><P Class=KRCC>깊숙히 들어갔어
+<SYNC Start=12950702><P Class=KRCC>&nbsp;
+<SYNC Start=13058209><P Class=KRCC>너무 격렬해
+<SYNC Start=13060419><P Class=KRCC>&nbsp;
+<SYNC Start=13060420><P Class=KRCC>뒤로도 해줘
+<SYNC Start=13063420><P Class=KRCC>&nbsp;
+<SYNC Start=13078834><P Class=KRCC>뒤에서 들어왔어
+<SYNC Start=13081834><P Class=KRCC>&nbsp;
+<SYNC Start=13089008><P Class=KRCC>이것도 좋아?<br>- 응 좋아
+<SYNC Start=13092008><P Class=KRCC>&nbsp;
+<SYNC Start=13102680><P Class=KRCC>누나 그렇게 움직이는거 위험해
+<SYNC Start=13105680><P Class=KRCC>&nbsp;
+<SYNC Start=13107441><P Class=KRCC>너 이런거 좋아해?
+<SYNC Start=13110441><P Class=KRCC>&nbsp;
+<SYNC Start=13142199><P Class=KRCC>들어가 있는거 보여?
+<SYNC Start=13145132><P Class=KRCC>&nbsp;
+<SYNC Start=13145133><P Class=KRCC>응 잘보여
+<SYNC Start=13147280><P Class=KRCC>&nbsp;
+<SYNC Start=13147281><P Class=KRCC>누나 똥꼬도 잘보여
+<SYNC Start=13150281><P Class=KRCC>&nbsp;
+<SYNC Start=13151925><P Class=KRCC>싫어~
+<SYNC Start=13153661><P Class=KRCC>&nbsp;
+<SYNC Start=13153662><P Class=KRCC>왜 그런말을 하는거야
+<SYNC Start=13156662><P Class=KRCC>&nbsp;
+<SYNC Start=13208832><P Class=KRCC>그렇게 밑에서 박으면 안돼
+<SYNC Start=13211832><P Class=KRCC>&nbsp;
+<SYNC Start=13263017><P Class=KRCC>가슴도 주물러줘
+<SYNC Start=13266017><P Class=KRCC>&nbsp;
+<SYNC Start=13299498><P Class=KRCC>가슴 주무르는거 너무 좋아
+<SYNC Start=13302498><P Class=KRCC>&nbsp;
+<SYNC Start=13313303><P Class=KRCC>가슴도 보지도 기분좋아
+<SYNC Start=13316303><P Class=KRCC>&nbsp;
+<SYNC Start=13323756><P Class=KRCC>누나<br>- 응?
+<SYNC Start=13326118><P Class=KRCC>&nbsp;
+<SYNC Start=13326119><P Class=KRCC>많이 박아도 돼?
+<SYNC Start=13329119><P Class=KRCC>&nbsp;
+<SYNC Start=13329191><P Class=KRCC>좀 더 많이 박아봐
+<SYNC Start=13332191><P Class=KRCC>&nbsp;
+<SYNC Start=13332432><P Class=KRCC>응
+<SYNC Start=13335432><P Class=KRCC>&nbsp;
+<SYNC Start=13392705><P Class=KRCC>이것도 사용해
+<SYNC Start=13395705><P Class=KRCC>&nbsp;
+<SYNC Start=13408123><P Class=KRCC>아 거기
+<SYNC Start=13411123><P Class=KRCC>&nbsp;
+<SYNC Start=13429479><P Class=KRCC>거기 좋아
+<SYNC Start=13432479><P Class=KRCC>&nbsp;
+<SYNC Start=13468061><P Class=KRCC>강도 올리면 안돼
+<SYNC Start=13471061><P Class=KRCC>&nbsp;
+<SYNC Start=13482753><P Class=KRCC>왜 강도를 올리는거야
+<SYNC Start=13485753><P Class=KRCC>&nbsp;
+<SYNC Start=13486938><P Class=KRCC>누나 몇번을 간거야?
+<SYNC Start=13489938><P Class=KRCC>&nbsp;
+<SYNC Start=13492139><P Class=KRCC>많이 가버렸어
+<SYNC Start=13494112><P Class=KRCC>&nbsp;
+<SYNC Start=13494113><P Class=KRCC>뒤에서 넣어줘
+<SYNC Start=13497113><P Class=KRCC>&nbsp;
+<SYNC Start=13505944><P Class=KRCC>오일이 흘러내려
+<SYNC Start=13508944><P Class=KRCC>&nbsp;
+<SYNC Start=13528193><P Class=KRCC>누나
+<SYNC Start=13529620><P Class=KRCC>&nbsp;
+<SYNC Start=13529621><P Class=KRCC>오일 마사지 기분 좋아 보이던데
+<SYNC Start=13532621><P Class=KRCC>&nbsp;
+<SYNC Start=13534122><P Class=KRCC>좋았어
+<SYNC Start=13536816><P Class=KRCC>&nbsp;
+<SYNC Start=13536817><P Class=KRCC>엉덩이도 많이 마사지 해줘
+<SYNC Start=13539817><P Class=KRCC>&nbsp;
+<SYNC Start=13580917><P Class=KRCC>뒤에서도 들어왔어
+<SYNC Start=13583917><P Class=KRCC>&nbsp;
+<SYNC Start=13646947><P Class=KRCC>누나
+<SYNC Start=13649947><P Class=KRCC>&nbsp;
+<SYNC Start=13650085><P Class=KRCC>뒷치기 좋아해?
+<SYNC Start=13652675><P Class=KRCC>&nbsp;
+<SYNC Start=13652676><P Class=KRCC>좋아하지
+<SYNC Start=13655676><P Class=KRCC>&nbsp;
+<SYNC Start=13656774><P Class=KRCC>많이 박아줘
+<SYNC Start=13659774><P Class=KRCC>&nbsp;
+<SYNC Start=13660028><P Class=KRCC>많이 박아도 돼?
+<SYNC Start=13663028><P Class=KRCC>&nbsp;
+<SYNC Start=13663223><P Class=KRCC>많이 박으라고
+<SYNC Start=13666223><P Class=KRCC>&nbsp;
+<SYNC Start=13690826><P Class=KRCC>안돼...
+<SYNC Start=13693022><P Class=KRCC>&nbsp;
+<SYNC Start=13693023><P Class=KRCC>벌써 갔다니까
+<SYNC Start=13695992><P Class=KRCC>&nbsp;
+<SYNC Start=13695993><P Class=KRCC>가버렸다고
+<SYNC Start=13697956><P Class=KRCC>&nbsp;
+<SYNC Start=13697957><P Class=KRCC>쫌..
+<SYNC Start=13700286><P Class=KRCC>&nbsp;
+<SYNC Start=13700287><P Class=KRCC>가버렸다고
+<SYNC Start=13703287><P Class=KRCC>&nbsp;
+<SYNC Start=13725409><P Class=KRCC>가버렸다고 말 했잖아
+<SYNC Start=13728409><P Class=KRCC>&nbsp;
+<SYNC Start=13731600><P Class=KRCC>누나 지쳐버렸어
+<SYNC Start=13734600><P Class=KRCC>&nbsp;
+<SYNC Start=13798824><P Class=KRCC>누나 오일 좋아하지?
+<SYNC Start=13801824><P Class=KRCC>&nbsp;
+<SYNC Start=13804951><P Class=KRCC>오일 너무 좋아
+<SYNC Start=13807269><P Class=KRCC>&nbsp;
+<SYNC Start=13807270><P Class=KRCC>마사지 많이 해줘
+<SYNC Start=13810270><P Class=KRCC>&nbsp;
+<SYNC Start=13820355><P Class=KRCC>이렇게 미끈미끈 해졌어
+<SYNC Start=13823355><P Class=KRCC>&nbsp;
+<SYNC Start=13900571><P Class=KRCC>또 가도 돼?
+<SYNC Start=13903571><P Class=KRCC>&nbsp;
+<SYNC Start=13903820><P Class=KRCC>가버려~
+<SYNC Start=13905636><P Class=KRCC>&nbsp;
+<SYNC Start=13905637><P Class=KRCC>또 가버리는거야?
+<SYNC Start=13908637><P Class=KRCC>&nbsp;
+<SYNC Start=13908685><P Class=KRCC>또 가버려~
+<SYNC Start=13911685><P Class=KRCC>&nbsp;
+<SYNC Start=13937891><P Class=KRCC>들어간게 보여
+<SYNC Start=13940891><P Class=KRCC>&nbsp;
+<SYNC Start=13949020><P Class=KRCC>누나 이거 자세가 엄청나네
+<SYNC Start=13952020><P Class=KRCC>&nbsp;
+<SYNC Start=13955231><P Class=KRCC>누나한테 이런 창피한 자세를 시켜도 된다고 생각해?
+<SYNC Start=13958231><P Class=KRCC>&nbsp;
+<SYNC Start=13999900><P Class=KRCC>또 들어갔어
+<SYNC Start=14002900><P Class=KRCC>&nbsp;
+<SYNC Start=14020891><P Class=KRCC>물게 해줘
+<SYNC Start=14023891><P Class=KRCC>&nbsp;
+<SYNC Start=14023902><P Class=KRCC>응? 왜?
+<SYNC Start=14026902><P Class=KRCC>&nbsp;
+<SYNC Start=14038822><P Class=KRCC>누나의 보짓물이 묻어 있는데
+<SYNC Start=14041822><P Class=KRCC>&nbsp;
+<SYNC Start=14062637><P Class=KRCC>다시 넣어줘
+<SYNC Start=14065637><P Class=KRCC>&nbsp;
+<SYNC Start=14081209><P Class=KRCC>누나 입이랑 보지중에 어느쪽이 기분좋아?
+<SYNC Start=14084209><P Class=KRCC>&nbsp;
+<SYNC Start=14087320><P Class=KRCC>어느쪽이냐니..
+<SYNC Start=14089048><P Class=KRCC>&nbsp;
+<SYNC Start=14089049><P Class=KRCC>양쪽다 좋긴한데<br>역시 보지려나
+<SYNC Start=14092049><P Class=KRCC>&nbsp;
+<SYNC Start=14094558><P Class=KRCC>보지쪽이 더 좋아?
+<SYNC Start=14097558><P Class=KRCC>&nbsp;
+<SYNC Start=14119561><P Class=KRCC>아 또 들어갔다
+<SYNC Start=14122561><P Class=KRCC>&nbsp;
+<SYNC Start=14139681><P Class=KRCC>가슴 사이에 끼워봐
+<SYNC Start=14142681><P Class=KRCC>&nbsp;
+<SYNC Start=14156014><P Class=KRCC>가슴도 좋지?
+<SYNC Start=14159014><P Class=KRCC>&nbsp;
+<SYNC Start=14169982><P Class=KRCC>잠깐 너.. 가슴으로 가버릴 생각이야?
+<SYNC Start=14172982><P Class=KRCC>&nbsp;
+<SYNC Start=14174572><P Class=KRCC>그러면 안돼
+<SYNC Start=14176884><P Class=KRCC>&nbsp;
+<SYNC Start=14176885><P Class=KRCC>그렇게 격렬하게 하면 나와버려
+<SYNC Start=14179882><P Class=KRCC>&nbsp;
+<SYNC Start=14179883><P Class=KRCC>안돼
+<SYNC Start=14182883><P Class=KRCC>&nbsp;
+<SYNC Start=14193554><P Class=KRCC>또 누나를 보내줘
+<SYNC Start=14196554><P Class=KRCC>&nbsp;
+<SYNC Start=14197503><P Class=KRCC>또?
+<SYNC Start=14200503><P Class=KRCC>&nbsp;
+<SYNC Start=14248080><P Class=KRCC>누나 이거 좋아?
+<SYNC Start=14251080><P Class=KRCC>&nbsp;
+<SYNC Start=14253881><P Class=KRCC>좋아
+<SYNC Start=14256881><P Class=KRCC>&nbsp;
+<SYNC Start=14324976><P Class=KRCC>안돼.. 이미 가버렸는데..
+<SYNC Start=14327976><P Class=KRCC>&nbsp;
+<SYNC Start=14335326><P Class=KRCC>야
+<SYNC Start=14337088><P Class=KRCC>&nbsp;
+<SYNC Start=14337089><P Class=KRCC>안된다니까
+<SYNC Start=14340089><P Class=KRCC>&nbsp;
+<SYNC Start=14354000><P Class=KRCC>누나 쌀거 같아
+<SYNC Start=14357000><P Class=KRCC>&nbsp;
+<SYNC Start=14357348><P Class=KRCC>쌀거 같아?
+<SYNC Start=14360348><P Class=KRCC>&nbsp;
+<SYNC Start=14360416><P Class=KRCC>누나한테 많이 싸줘<br>- 괜찮아?
+<SYNC Start=14363416><P Class=KRCC>&nbsp;
+<SYNC Start=14363495><P Class=KRCC>누나한테 싸줘
+<SYNC Start=14366495><P Class=KRCC>&nbsp;
+<SYNC Start=14416724><P Class=KRCC>이렇게 많이 싸고
+<SYNC Start=14419724><P Class=KRCC>&nbsp;
+<SYNC Start=14436245><P Class=KRCC>안돼!
+<SYNC Start=14439245><P Class=KRCC>&nbsp;
+<SYNC Start=14448811><P Class=KRCC>영차
+<SYNC Start=14451811><P Class=KRCC>&nbsp;
+<SYNC Start=14502532><P Class=KRCC>보고 있지만 말고 좀 도와
+<SYNC Start=14505532><P Class=KRCC>&nbsp;
+<SYNC Start=14508932><P Class=KRCC>안도와 줄거면
+<SYNC Start=14511932><P Class=KRCC>&nbsp;
+<SYNC Start=14516315><P Class=KRCC>또 연습 시켜줘
+<SYNC Start=14519315><P Class=KRCC>&nbsp;
+<SYNC Start=14521777><P Class=KRCC>알았지?
+<SYNC Start=14524522><P Class=KRCC>&nbsp;
+<SYNC Start=14524523><P Class=KRCC>자막 제작, 배포 쿠쿠다스닷컴<br><font color=#FFFFC6>K</font><font color=#FFFFA2>U</font><font color=#FFFF7E>K</font><font color=#FFFF5A>U</font><font color=#E1FF36>D</font><font color=#BDFF12>A</font><font color=#ABF200>S</font><font color=#99E000>.</font><font color=#87CE00>C</font><font color=#75BC00>O</font><font color=#87CE00>M</font>
+<SYNC Start=14541288><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>

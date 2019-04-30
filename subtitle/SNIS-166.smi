@@ -1,0 +1,1896 @@
+<SAMI>
+
+<HEAD>
+<TITLE>SNIS-166</TITLE>
+
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+
+<STYLE TYPE="text/css">
+<!--
+P {margin-left:8pt; margin-right:8pt; margin-bottom:2pt; margin-top:2pt;
+  text-align:center; font-size:20pt; font-family:arial, sans-serif;
+  font-weight:normal; color:White;}
+.KRCC {Name:한국어; lang:kr-KR; SAMIType:CC;}
+#STDPrn {Name:보통글씨;}
+#LargePrn {Name:큰글씨;}
+#SmallPrn {Name:작은글씨;}
+-->
+</STYLE>
+
+</HEAD>
+
+<BODY>
+
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+
+<SYNC Start=1450><P Class=KRCC><font face="타이포_꾸미기 입체빗금">국가기밀특수수사국</font>
+<SYNC Start=10690><P Class=KRCC>&nbsp;
+<SYNC Start=11350><P Class=KRCC><font face="타이포_꾸미기 입체빗금" color="#0080ff">비상(AMCT) X 아키호날두(DDR갤러리) 콜라보 자막 No.4<br>비상의 자막제작 No.18</font>
+<SYNC Start=16520><P Class=KRCC>&nbsp;
+<SYNC Start=16920><P Class=KRCC><font face="타이포_꾸미기 입체빗금" color="#0080ff">작품 번역 및 기본 싱크 : 비상<br>세부 싱크 및 스타일 지정 : 아키호날두</font>
+<SYNC Start=21810><P Class=KRCC>&nbsp;
+<SYNC Start=50950><P Class=KRCC><font face="타이포_꾸미기 입체빗금">주연<br>우츠노미야 시온</font>
+<SYNC Start=58400><P Class=KRCC>&nbsp;
+<SYNC Start=91980><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이번 승진 축하드립니다</font>
+<SYNC Start=94780><P Class=KRCC>&nbsp;
+<SYNC Start=95980><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응</font>
+<SYNC Start=97300><P Class=KRCC>&nbsp;
+<SYNC Start=99650><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이것도 전부다<br>너희들 덕분이야</font>
+<SYNC Start=102230><P Class=KRCC>&nbsp;
+<SYNC Start=104210><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">나도</font>
+<SYNC Start=105610><P Class=KRCC>&nbsp;
+<SYNC Start=105840><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭔가 보답을 해야겠지</font>
+<SYNC Start=107940><P Class=KRCC>&nbsp;
+<SYNC Start=110240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">고맙습니다</font>
+<SYNC Start=112190><P Class=KRCC>&nbsp;
+<SYNC Start=114530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래서</font>
+<SYNC Start=115760><P Class=KRCC>&nbsp;
+<SYNC Start=116050><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그 여자는 괜찮게 지내나?</font>
+<SYNC Start=118110><P Class=KRCC>&nbsp;
+<SYNC Start=119270><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그 여자라면...<br>우츠노미야 말인가요?</font>
+<SYNC Start=122550><P Class=KRCC>&nbsp;
+<SYNC Start=122970><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그 여자가 스파이라는걸 입 밖에 내지마</font>
+<SYNC Start=126440><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇게 부르면 금방 덤벼들테니까</font>
+<SYNC Start=129204><P Class=KRCC>&nbsp;
+<SYNC Start=130430><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">정말 죄송합니다</font>
+<SYNC Start=132360><P Class=KRCC>&nbsp;
+<SYNC Start=132980><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">힘으로 기를 꺽어놓겠습니다</font>
+<SYNC Start=135030><P Class=KRCC>&nbsp;
+<SYNC Start=135990><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래?</font>
+<SYNC Start=137330><P Class=KRCC>&nbsp;
+<SYNC Start=137720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">전의 마약밀매조직건말야</font>
+<SYNC Start=140510><P Class=KRCC>&nbsp;
+<SYNC Start=141480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그 여자는 활용하기로 했어</font>
+<SYNC Start=143880><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그러나...</font>
+<SYNC Start=145260><P Class=KRCC>&nbsp;
+<SYNC Start=145860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그 여자가 움직이기엔...</font>
+<SYNC Start=147740><P Class=KRCC>&nbsp;
+<SYNC Start=147900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아직 위험한 단계가...</font>
+<SYNC Start=150095><P Class=KRCC>&nbsp;
+<SYNC Start=150570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">걱정할 필요 없어</font>
+<SYNC Start=152431><P Class=KRCC>&nbsp;
+<SYNC Start=153580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그 여자는<br>임무에 적임이야</font>
+<SYNC Start=156820><P Class=KRCC>&nbsp;
+<SYNC Start=158030><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어찌되었든</font>
+<SYNC Start=159906><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">임무에 넣을수 없는 이유라도 있나?</font>
+<SYNC Start=162951><P Class=KRCC>&nbsp;
+<SYNC Start=164413><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">위험을 무릅쓴 처지에</font>
+<SYNC Start=166530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">본심이 어떨런지는 알 필요도 없겠지</font>
+<SYNC Start=169561><P Class=KRCC>&nbsp;
+<SYNC Start=170795><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">일이 잘 풀리면</font>
+<SYNC Start=172630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">내가 여기서 잘 처리하지</font>
+<SYNC Start=175623><P Class=KRCC>&nbsp;
+<SYNC Start=176900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">잘 알겠습니다</font>
+<SYNC Start=178900><P Class=KRCC>&nbsp;
+<SYNC Start=182280><P Class=KRCC><font face="타이포_꾸미기 입체빗금">비밀수사관의 여자<br><font color="#2d8fd9">거유첩보원 치욕의 복수<br>SNIS 166</font></font>
+<SYNC Start=192270><P Class=KRCC>&nbsp;
+<SYNC Start=208300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=209450><P Class=KRCC>&nbsp;
+<SYNC Start=212540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>부르고 있자나</font>
+<SYNC Start=214630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기 보라구</font>
+<SYNC Start=216380><P Class=KRCC>&nbsp;
+<SYNC Start=228070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여전히 붙임성 없는 여자야...</font>
+<SYNC Start=230500><P Class=KRCC>&nbsp;
+<SYNC Start=231220><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">원래대로하면<br>그냥 사형수였을텐데...</font>
+<SYNC Start=234520><P Class=KRCC>&nbsp;
+<SYNC Start=235800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">정신검사 시간이야</font>
+<SYNC Start=237950><P Class=KRCC>&nbsp;
+<SYNC Start=257330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너같이 어둠의 세계에서<br>보낸 여자가...</font>
+<SYNC Start=260510><P Class=KRCC>&nbsp;
+<SYNC Start=261010><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">비밀수사관에 임명되다니...</font>
+<SYNC Start=263490><P Class=KRCC>&nbsp;
+<SYNC Start=264550><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇지만</font>
+<SYNC Start=265780><P Class=KRCC>&nbsp;
+<SYNC Start=266420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">비밀수사관이란건<br>궁극적인 정신이 필요해</font>
+<SYNC Start=270350><P Class=KRCC>&nbsp;
+<SYNC Start=271530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너에게 그런게 있을지 없을지</font>
+<SYNC Start=273330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">지금부터 우리가<br>확인해볼꺼야</font>
+<SYNC Start=275600><P Class=KRCC>&nbsp;
+<SYNC Start=275760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=277180><P Class=KRCC>&nbsp;
+<SYNC Start=277580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">저기에 손을 대고<br>다리 벌려</font>
+<SYNC Start=281100><P Class=KRCC>&nbsp;
+<SYNC Start=282360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">싫으면 저항이라도 해봐</font>
+<SYNC Start=284110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">석방은 취소다</font>
+<SYNC Start=286340><P Class=KRCC>&nbsp;
+<SYNC Start=287530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~ 빨리해</font>
+<SYNC Start=289720><P Class=KRCC>&nbsp;
+<SYNC Start=291040><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리 하라고! 이뇬아~</font>
+<SYNC Start=293140><P Class=KRCC>&nbsp;
+<SYNC Start=303390><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">제대로 다리 벌려</font>
+<SYNC Start=305450><P Class=KRCC>&nbsp;
+<SYNC Start=307800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말하는거 들어</font>
+<SYNC Start=309960><P Class=KRCC>&nbsp;
+<SYNC Start=313140><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">궁극적인 정신이 그거라면</font>
+<SYNC Start=316140><P Class=KRCC>&nbsp;
+<SYNC Start=317560><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">무슨 짓을 당해도<br>절대 동요하지마</font>
+<SYNC Start=320020><P Class=KRCC>&nbsp;
+<SYNC Start=321760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>제대로 다리벌려</font>
+<SYNC Start=324960><P Class=KRCC>&nbsp;
+<SYNC Start=325490><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리 해</font>
+<SYNC Start=327200><P Class=KRCC>&nbsp;
+<SYNC Start=335670><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐야 이거?</font>
+<SYNC Start=337840><P Class=KRCC>&nbsp;
+<SYNC Start=411630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">왜 그래?</font>
+<SYNC Start=412860><P Class=KRCC>&nbsp;
+<SYNC Start=412960><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">느끼는거 아냐?</font>
+<SYNC Start=414870><P Class=KRCC>&nbsp;
+<SYNC Start=419200><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐</font>
+<SYNC Start=420440><P Class=KRCC>&nbsp;
+<SYNC Start=422620><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">절대 용서못해</font>
+<SYNC Start=424660><P Class=KRCC>&nbsp;
+<SYNC Start=426760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아까부터 계속 몸이 움직이던데...<br>자~</font>
+<SYNC Start=430740><P Class=KRCC>&nbsp;
+<SYNC Start=431630><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">움직인적 없어</font>
+<SYNC Start=433610><P Class=KRCC>&nbsp;
+<SYNC Start=438320><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-음...<br>-자~</font>
+<SYNC Start=440560><P Class=KRCC>&nbsp;
+<SYNC Start=442370><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여긴 어때?</font>
+<SYNC Start=444760><P Class=KRCC>&nbsp;
+<SYNC Start=448620><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">왜 그래?</font>
+<SYNC Start=450120><P Class=KRCC>&nbsp;
+<SYNC Start=450760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">소리 내고 있잖아</font>
+<SYNC Start=453220><P Class=KRCC>&nbsp;
+<SYNC Start=455310><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그럴리 없어</font>
+<SYNC Start=457510><P Class=KRCC>&nbsp;
+<SYNC Start=459340><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">스스로 해봐<br>봐봐</font>
+<SYNC Start=461710><P Class=KRCC>&nbsp;
+<SYNC Start=467270><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=468900><P Class=KRCC>&nbsp;
+<SYNC Start=470230><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=471370><P Class=KRCC>&nbsp;
+<SYNC Start=477920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋지?</font>
+<SYNC Start=479570><P Class=KRCC>&nbsp;
+<SYNC Start=481010><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-말해봐<br></font><font color="#ff0080">-기분좋을리가 없잖아</font>
+<SYNC Start=484320><P Class=KRCC>&nbsp;
+<SYNC Start=485600><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐야 이건?</font>
+<SYNC Start=487110><P Class=KRCC>&nbsp;
+<SYNC Start=501140><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 철저하게 살펴봐</font>
+<SYNC Start=503590><P Class=KRCC>&nbsp;
+<SYNC Start=508510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐야?<br>그 눈은?</font>
+<SYNC Start=510270><P Class=KRCC>&nbsp;
+<SYNC Start=514290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">언제까지 그런 얼굴 할꺼야?</font>
+<SYNC Start=516620><P Class=KRCC>&nbsp;
+<SYNC Start=541080><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 입벌려봐</font>
+<SYNC Start=543120><P Class=KRCC>&nbsp;
+<SYNC Start=543820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=545140><P Class=KRCC>&nbsp;
+<SYNC Start=548470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">허리가 움직이고 있어</font>
+<SYNC Start=550730><P Class=KRCC>&nbsp;
+<SYNC Start=558300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">손 움직이지마</font>
+<SYNC Start=560100><P Class=KRCC>&nbsp;
+<SYNC Start=562830><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋네<br>너도 여자구나</font>
+<SYNC Start=564860><P Class=KRCC>&nbsp;
+<SYNC Start=566220><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싸</font>
+<SYNC Start=567370><P Class=KRCC>&nbsp;
+<SYNC Start=567990><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐</font>
+<SYNC Start=569260><P Class=KRCC>&nbsp;
+<SYNC Start=574690><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">손이 닿았어</font>
+<SYNC Start=576380><P Class=KRCC>&nbsp;
+<SYNC Start=587480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">왜 그래?</font>
+<SYNC Start=588830><P Class=KRCC>&nbsp;
+<SYNC Start=589360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">왜 그러는거야?</font>
+<SYNC Start=590870><P Class=KRCC>&nbsp;
+<SYNC Start=598750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">소리가 늘어지자나</font>
+<SYNC Start=600770><P Class=KRCC>&nbsp;
+<SYNC Start=602330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-진짜 제대로 빨아줄까?<br></font><font color="#ff0080">-싫어</font>
+<SYNC Start=605090><P Class=KRCC>&nbsp;
+<SYNC Start=609800><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그만둬</font>
+<SYNC Start=611410><P Class=KRCC>&nbsp;
+<SYNC Start=620850><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=622160><P Class=KRCC>&nbsp;
+<SYNC Start=624050><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?<br>핥짝거려주니까...</font>
+<SYNC Start=626410><P Class=KRCC>&nbsp;
+<SYNC Start=629770><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">들어왔지?</font>
+<SYNC Start=631410><P Class=KRCC>&nbsp;
+<SYNC Start=631840><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">느끼는 얼굴인데</font>
+<SYNC Start=633420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-느끼는거지?<br></font><font color="#ff0080">-아냐</font>
+<SYNC Start=635910><P Class=KRCC>&nbsp;
+<SYNC Start=637020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐</font>
+<SYNC Start=638440><P Class=KRCC>&nbsp;
+<SYNC Start=638760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보지는 엄청 원하는 것 같은데<br>이렇게~</font>
+<SYNC Start=641570><P Class=KRCC>&nbsp;
+<SYNC Start=648160><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">보지마</font>
+<SYNC Start=649360><P Class=KRCC>&nbsp;
+<SYNC Start=660300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐~</font>
+<SYNC Start=661400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">부끄러운 씹물 엄청 흘렸네</font>
+<SYNC Start=664090><P Class=KRCC>&nbsp;
+<SYNC Start=665470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너도 어차피 여자니까</font>
+<SYNC Start=667910><P Class=KRCC>&nbsp;
+<SYNC Start=672780><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아직 할게 남았잖아</font>
+<SYNC Start=674890><P Class=KRCC>&nbsp;
+<SYNC Start=677540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=678710><P Class=KRCC>&nbsp;
+<SYNC Start=685160><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어떡할꺼야?<br>언능 빨아~</font>
+<SYNC Start=687740><P Class=KRCC>&nbsp;
+<SYNC Start=694120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">삼키는 거야</font>
+<SYNC Start=695970><P Class=KRCC>&nbsp;
+<SYNC Start=702010><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=703100><P Class=KRCC>&nbsp;
+<SYNC Start=704400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">직접 집어넣는거 알겠지</font>
+<SYNC Start=706730><P Class=KRCC>&nbsp;
+<SYNC Start=710420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말 안들으면...</font>
+<SYNC Start=712380><P Class=KRCC>&nbsp;
+<SYNC Start=712560><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">석방은 취소야</font>
+<SYNC Start=714730><P Class=KRCC>&nbsp;
+<SYNC Start=715710><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리</font>
+<SYNC Start=717040><P Class=KRCC>&nbsp;
+<SYNC Start=728930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래</font>
+<SYNC Start=730180><P Class=KRCC>&nbsp;
+<SYNC Start=749570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">확실하게...</font>
+<SYNC Start=751160><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">입을 사용하라구</font>
+<SYNC Start=753370><P Class=KRCC>&nbsp;
+<SYNC Start=754360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래</font>
+<SYNC Start=755880><P Class=KRCC>&nbsp;
+<SYNC Start=758590><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">잘하네</font>
+<SYNC Start=760350><P Class=KRCC>&nbsp;
+<SYNC Start=761920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">손들어봐</font>
+<SYNC Start=763860><P Class=KRCC>&nbsp;
+<SYNC Start=765450><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇지</font>
+<SYNC Start=767040><P Class=KRCC>&nbsp;
+<SYNC Start=767150><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">직접해</font>
+<SYNC Start=768750><P Class=KRCC>&nbsp;
+<SYNC Start=784780><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐</font>
+<SYNC Start=786110><P Class=KRCC>&nbsp;
+<SYNC Start=787000><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기는?</font>
+<SYNC Start=788620><P Class=KRCC>&nbsp;
+<SYNC Start=800460><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-내 이런 자지가 좋지<br>-알자나</font>
+<SYNC Start=803360><P Class=KRCC>&nbsp;
+<SYNC Start=811860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐야 그건?</font>
+<SYNC Start=813290><P Class=KRCC>&nbsp;
+<SYNC Start=814050><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">계속해</font>
+<SYNC Start=815810><P Class=KRCC>&nbsp;
+<SYNC Start=829740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기도 빨아야지~</font>
+<SYNC Start=831710><P Class=KRCC>&nbsp;
+<SYNC Start=839460><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어서 고개들어</font>
+<SYNC Start=841390><P Class=KRCC>&nbsp;
+<SYNC Start=841860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 삼켜봐</font>
+<SYNC Start=843650><P Class=KRCC>&nbsp;
+<SYNC Start=846140><P Class=KRCC><font color="#0080ff" face="인어공주">아~<br>죽이는데~</font>
+<SYNC Start=848240><P Class=KRCC>&nbsp;
+<SYNC Start=854480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">다리벌려</font>
+<SYNC Start=856220><P Class=KRCC>&nbsp;
+<SYNC Start=868180><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그만둬 넣지마</font>
+<SYNC Start=870500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-왜?<br>-궁극적인 정신 가져야지</font>
+<SYNC Start=874550><P Class=KRCC>&nbsp;
+<SYNC Start=875820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋다고해서 착각하지마</font>
+<SYNC Start=878250><P Class=KRCC>&nbsp;
+<SYNC Start=887430><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-싫어<br></font><font color="#0080ff">-응?</font>
+<SYNC Start=889470><P Class=KRCC>&nbsp;
+<SYNC Start=892620><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">벌써 소리치는군</font>
+<SYNC Start=894570><P Class=KRCC>&nbsp;
+<SYNC Start=897100><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">아... 아냐</font>
+<SYNC Start=899200><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐가 아니라는거야?<br>응?</font>
+<SYNC Start=901940><P Class=KRCC>&nbsp;
+<SYNC Start=902690><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡" color="#0080ff">-기분좋자나?</font><br><font color="#ff0080" face="좋은_얼음땡">-아니, 아냐ㅜ.ㅜ</font>
+<SYNC Start=905330><P Class=KRCC>&nbsp;
+<SYNC Start=905760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋지?</font>
+<SYNC Start=907410><P Class=KRCC>&nbsp;
+<SYNC Start=908310><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">아니</font>
+<SYNC Start=909730><P Class=KRCC>&nbsp;
+<SYNC Start=913170><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋지?</font>
+<SYNC Start=914480><P Class=KRCC>&nbsp;
+<SYNC Start=915370><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">솔직히 말해<br>기분좋다고...</font>
+<SYNC Start=918020><P Class=KRCC>&nbsp;
+<SYNC Start=919960><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">인정하라구</font>
+<SYNC Start=921650><P Class=KRCC>&nbsp;
+<SYNC Start=922190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">인정해</font>
+<SYNC Start=923400><P Class=KRCC>&nbsp;
+<SYNC Start=925400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">인정해</font>
+<SYNC Start=926700><P Class=KRCC>&nbsp;
+<SYNC Start=930870><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">얼굴 내리지말고...</font>
+<SYNC Start=932330><P Class=KRCC>&nbsp;
+<SYNC Start=932680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">날 보면서 인정해</font>
+<SYNC Start=935010><P Class=KRCC>&nbsp;
+<SYNC Start=935380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋다고 말해</font>
+<SYNC Start=937360><P Class=KRCC>&nbsp;
+<SYNC Start=940220><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=941360><P Class=KRCC>&nbsp;
+<SYNC Start=942070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇게 간단한걸</font>
+<SYNC Start=943640><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">굴복하지 않다니...</font>
+<SYNC Start=945010><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">절대...<br>순순히 복종하지 않을거야</font>
+<SYNC Start=948720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너의 여기...</font>
+<SYNC Start=950520><P Class=KRCC>&nbsp;
+<SYNC Start=951720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?<br>죽이자나</font>
+<SYNC Start=954620><P Class=KRCC>&nbsp;
+<SYNC Start=971900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기대봐</font>
+<SYNC Start=973500><P Class=KRCC>&nbsp;
+<SYNC Start=1012000><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그거 뭔가 죽이는데</font>
+<SYNC Start=1014600><P Class=KRCC>&nbsp;
+<SYNC Start=1015210><P Class=KRCC><font color="#ff0080" face="별사탕">아~<br>쌀꺼같아</font>
+<SYNC Start=1017400><P Class=KRCC>&nbsp;
+<SYNC Start=1018470><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=1019900><P Class=KRCC>&nbsp;
+<SYNC Start=1030000><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분 드러워?</font>
+<SYNC Start=1031350><P Class=KRCC>&nbsp;
+<SYNC Start=1033080><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">허리가 계속 들썩이는데</font>
+<SYNC Start=1035220><P Class=KRCC>&nbsp;
+<SYNC Start=1035800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">벌써 쌌지?</font>
+<SYNC Start=1037330><P Class=KRCC>&nbsp;
+<SYNC Start=1037520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-쌌지?<br></font><font color="#ff0080">-안 쌌어</font>
+<SYNC Start=1040600><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">샀자나</font>
+<SYNC Start=1041910><P Class=KRCC>&nbsp;
+<SYNC Start=1042490><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기 자~</font>
+<SYNC Start=1045200><P Class=KRCC>&nbsp;
+<SYNC Start=1046600><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">싸게 해주지</font>
+<SYNC Start=1048420><P Class=KRCC>&nbsp;
+<SYNC Start=1050630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">죽이는데~</font>
+<SYNC Start=1052630><P Class=KRCC>&nbsp;
+<SYNC Start=1054020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>기분 좋지?</font>
+<SYNC Start=1056170><P Class=KRCC>&nbsp;
+<SYNC Start=1059070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너도 좋잖아<br>어때?</font>
+<SYNC Start=1061620><P Class=KRCC>&nbsp;
+<SYNC Start=1065230><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래 좋아<br>그렇게 부끄러운데 보여주면서...</font>
+<SYNC Start=1068750><P Class=KRCC>&nbsp;
+<SYNC Start=1068860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그런 소리내면서...</font>
+<SYNC Start=1070930><P Class=KRCC>&nbsp;
+<SYNC Start=1077940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=1078880><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">질러봐 어디</font>
+<SYNC Start=1081350><P Class=KRCC>&nbsp;
+<SYNC Start=1086400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-왜 그래?<br></font><font color="#ff0080">-싫어</font>
+<SYNC Start=1089240><P Class=KRCC>&nbsp;
+<SYNC Start=1090630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">간다</font>
+<SYNC Start=1092170><P Class=KRCC>&nbsp;
+<SYNC Start=1098090><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=1099210><P Class=KRCC>&nbsp;
+<SYNC Start=1101250><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이봐</font>
+<SYNC Start=1102320><P Class=KRCC>&nbsp;
+<SYNC Start=1102760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">클리는 어때?</font>
+<SYNC Start=1105050><P Class=KRCC>&nbsp;
+<SYNC Start=1109150><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">위에도 좋지?</font>
+<SYNC Start=1111220><P Class=KRCC>&nbsp;
+<SYNC Start=1118470><P Class=KRCC><font color="#0080ff" face="별사탕" face="좋은_얼음땡">-넣으니 기분좋지? 응?</font><br><font color="#ff0080">-깊숙히 들어왔어</font>
+<SYNC Start=1123310><P Class=KRCC>&nbsp;
+<SYNC Start=1123990><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-말해봐</font><br><font color="#ff0080" face="별사탕">-미칠 것 같아</font>
+<SYNC Start=1126950><P Class=KRCC>&nbsp;
+<SYNC Start=1128970><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇게 미치겠어</font>
+<SYNC Start=1130290><P Class=KRCC>&nbsp;
+<SYNC Start=1133590><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>넣으니 미치겠어?</font>
+<SYNC Start=1136980><P Class=KRCC>&nbsp;
+<SYNC Start=1148560><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">또 싼다구</font>
+<SYNC Start=1150170><P Class=KRCC>&nbsp;
+<SYNC Start=1151230><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">이제 그만ㅜ.ㅜ</font>
+<SYNC Start=1153050><P Class=KRCC>&nbsp;
+<SYNC Start=1177430><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=1178910><P Class=KRCC>&nbsp;
+<SYNC Start=1179500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">가봐</font>
+<SYNC Start=1181120><P Class=KRCC>&nbsp;
+<SYNC Start=1184110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말타기하러 가자</font>
+<SYNC Start=1185930><P Class=KRCC>&nbsp;
+<SYNC Start=1187620><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리 비벼서 바로 해봐</font>
+<SYNC Start=1190600><P Class=KRCC>&nbsp;
+<SYNC Start=1194120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=1195560><P Class=KRCC>&nbsp;
+<SYNC Start=1201670><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래~</font>
+<SYNC Start=1202780><P Class=KRCC>&nbsp;
+<SYNC Start=1203310><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">움직여봐</font>
+<SYNC Start=1204940><P Class=KRCC>&nbsp;
+<SYNC Start=1208210><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋지?</font>
+<SYNC Start=1209880><P Class=KRCC>&nbsp;
+<SYNC Start=1214280><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-기분 좋을리가 없잖아 ㅜ.ㅜ</font><br><font color="#0080ff" face="좋은_얼음땡">-자~</font>
+<SYNC Start=1217740><P Class=KRCC>&nbsp;
+<SYNC Start=1221380><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">정말로 기분 이상하단 말야</font>
+<SYNC Start=1224000><P Class=KRCC>&nbsp;
+<SYNC Start=1235290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">숙여</font>
+<SYNC Start=1236830><P Class=KRCC>&nbsp;
+<SYNC Start=1239450><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-여기봐<br>-어이~</font>
+<SYNC Start=1241750><P Class=KRCC>&nbsp;
+<SYNC Start=1250160><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~ 어때?<br>기분좋아?</font>
+<SYNC Start=1253410><P Class=KRCC>&nbsp;
+<SYNC Start=1256100><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">왜 그래?</font>
+<SYNC Start=1257490><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐라 말해보라구</font>
+<SYNC Start=1259690><P Class=KRCC>&nbsp;
+<SYNC Start=1260230><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">언능 말해보라니까</font>
+<SYNC Start=1262180><P Class=KRCC>&nbsp;
+<SYNC Start=1290830><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">엉덩이 내밀어봐</font>
+<SYNC Start=1292930><P Class=KRCC>&nbsp;
+<SYNC Start=1296520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리</font>
+<SYNC Start=1297710><P Class=KRCC>&nbsp;
+<SYNC Start=1297940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">움직여</font>
+<SYNC Start=1299280><P Class=KRCC>&nbsp;
+<SYNC Start=1302960><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=1304200><P Class=KRCC>&nbsp;
+<SYNC Start=1307040><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">지금 어때?</font>
+<SYNC Start=1308380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=1309640><P Class=KRCC>&nbsp;
+<SYNC Start=1310300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=1311510><P Class=KRCC>&nbsp;
+<SYNC Start=1324570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?<br>죽이지?</font>
+<SYNC Start=1326600><P Class=KRCC>&nbsp;
+<SYNC Start=1335060><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀 더 움직여</font>
+<SYNC Start=1336910><P Class=KRCC>&nbsp;
+<SYNC Start=1347980><P Class=KRCC><font color="#ff0080" face="별사탕">쌀거 같아</font>
+<SYNC Start=1349640><P Class=KRCC>&nbsp;
+<SYNC Start=1352180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 말해</font>
+<SYNC Start=1354150><P Class=KRCC>&nbsp;
+<SYNC Start=1354750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-자~</font><br><font color="#ff0080" face="별사탕">-ㅆㅏ...쌀거같아</font>
+<SYNC Start=1358340><P Class=KRCC>&nbsp;
+<SYNC Start=1360300><P Class=KRCC><font color="#ff0080" face="별사탕">싼다구</font>
+<SYNC Start=1362120><P Class=KRCC>&nbsp;
+<SYNC Start=1387510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">왜 그래?</font>
+<SYNC Start=1388850><P Class=KRCC>&nbsp;
+<SYNC Start=1388950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋은데 위험해<br>만족했니?</font>
+<SYNC Start=1391200><P Class=KRCC>&nbsp;
+<SYNC Start=1401510><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">이제 용서해줘ㅠ</font>
+<SYNC Start=1403750><P Class=KRCC>&nbsp;
+<SYNC Start=1437320><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=1438690><P Class=KRCC>&nbsp;
+<SYNC Start=1452000><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이것 보라구</font>
+<SYNC Start=1453380><P Class=KRCC>&nbsp;
+<SYNC Start=1454470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=1456060><P Class=KRCC>&nbsp;
+<SYNC Start=1459150><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋지?</font>
+<SYNC Start=1461080><P Class=KRCC>&nbsp;
+<SYNC Start=1461690><P Class=KRCC><font color="#ff0080" face="별사탕">빨라...</font>
+<SYNC Start=1463330><P Class=KRCC>&nbsp;
+<SYNC Start=1467340><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋다고 말해봐</font>
+<SYNC Start=1469430><P Class=KRCC>&nbsp;
+<SYNC Start=1470360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리~</font>
+<SYNC Start=1471500><P Class=KRCC>&nbsp;
+<SYNC Start=1472010><P Class=KRCC><font color="#ff0080" face="별사탕">갈 것 같아<br>넘흐 좋아</font>
+<SYNC Start=1474580><P Class=KRCC>&nbsp;
+<SYNC Start=1474740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더</font>
+<SYNC Start=1476350><P Class=KRCC>&nbsp;
+<SYNC Start=1477230><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋지?</font>
+<SYNC Start=1479030><P Class=KRCC>&nbsp;
+<SYNC Start=1488320><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=1489490><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-어때? 자~<br></font><font color="#ff0080" face="별사탕">-싼다니까...</font>
+<SYNC Start=1492210><P Class=KRCC>&nbsp;
+<SYNC Start=1495490><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=1496770><P Class=KRCC>&nbsp;
+<SYNC Start=1520330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기봐봐</font>
+<SYNC Start=1522050><P Class=KRCC>&nbsp;
+<SYNC Start=1525570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋지?<br>젖치기 하니까...</font>
+<SYNC Start=1528080><P Class=KRCC>&nbsp;
+<SYNC Start=1528440><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=1529900><P Class=KRCC>&nbsp;
+<SYNC Start=1532710><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어떠냐구?</font>
+<SYNC Start=1534160><P Class=KRCC>&nbsp;
+<SYNC Start=1552460><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=1553840><P Class=KRCC>&nbsp;
+<SYNC Start=1587540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">슬슬 기분좋게 해줄까?</font>
+<SYNC Start=1589930><P Class=KRCC>&nbsp;
+<SYNC Start=1590420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">끝까지 박아줄께</font>
+<SYNC Start=1591990><P Class=KRCC>&nbsp;
+<SYNC Start=1613650><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">예술인데~</font>
+<SYNC Start=1615410><P Class=KRCC>&nbsp;
+<SYNC Start=1616920><P Class=KRCC><font color="#ff0080" face="별사탕">갈거 같애</font>
+<SYNC Start=1618410><P Class=KRCC>&nbsp;
+<SYNC Start=1627200><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=1628410><P Class=KRCC>&nbsp;
+<SYNC Start=1630060><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐야 이건</font>
+<SYNC Start=1631770><P Class=KRCC>&nbsp;
+<SYNC Start=1633780><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=1635120><P Class=KRCC>&nbsp;
+<SYNC Start=1641890><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~<br>나온다...</font>
+<SYNC Start=1643600><P Class=KRCC>&nbsp;
+<SYNC Start=1661490><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">입 벌려봐</font>
+<SYNC Start=1663470><P Class=KRCC>&nbsp;
+<SYNC Start=1686510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분 좋지?</font>
+<SYNC Start=1688030><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋다고 말해<br>좀 더~</font>
+<SYNC Start=1690120><P Class=KRCC>&nbsp;
+<SYNC Start=1690430><P Class=KRCC><font color="#ff0080" face="인어공주">넘흐 좋아~</font>
+<SYNC Start=1692450><P Class=KRCC>&nbsp;
+<SYNC Start=1724420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">갈데까지 가보라구~</font>
+<SYNC Start=1726230><P Class=KRCC><font color="#ff0080" face="별사탕" color="#0080ff">-가버려</font><br><font color="#ff0080">-미치겠어</font>
+<SYNC Start=1728310><P Class=KRCC>&nbsp;
+<SYNC Start=1733500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">싼다~</font>
+<SYNC Start=1735300><P Class=KRCC>&nbsp;
+<SYNC Start=1795230><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">내가 원망스럽나?</font>
+<SYNC Start=1796970><P Class=KRCC>&nbsp;
+<SYNC Start=1798730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇지만 그 분노의 방향은</font>
+<SYNC Start=1801370><P Class=KRCC>&nbsp;
+<SYNC Start=1801510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너의 복수의 상대</font>
+<SYNC Start=1803510><P Class=KRCC>&nbsp;
+<SYNC Start=1804870><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">마약밀매조직의 리더...</font>
+<SYNC Start=1806980><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">테라다 마사토야</font>
+<SYNC Start=1808620><P Class=KRCC>&nbsp;
+<SYNC Start=1809190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너의 아버지를 죽인 남자지</font>
+<SYNC Start=1811380><P Class=KRCC>&nbsp;
+<SYNC Start=1813060><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">녀석을 잡을수 있다면</font>
+<SYNC Start=1815010><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">우리들이 너를<br>구속하는일도 이제 없겠지</font>
+<SYNC Start=1818010><P Class=KRCC>&nbsp;
+<SYNC Start=1819310><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그럼 실패하지않고 말살하도록</font>
+<SYNC Start=1822660><P Class=KRCC>&nbsp;
+<SYNC Start=1822950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">널 대신할껀 얼마든지 있어</font>
+<SYNC Start=1824770><P Class=KRCC>&nbsp;
+<SYNC Start=1825460><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">결국 모두 니가 하는데 달렸다는거야</font>
+<SYNC Start=1828430><P Class=KRCC>&nbsp;
+<SYNC Start=2174210><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말해~</font>
+<SYNC Start=2175570><P Class=KRCC>&nbsp;
+<SYNC Start=2175760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-어이~ 이 쉐끼야<br>-빨리 불어</font>
+<SYNC Start=2179160><P Class=KRCC>&nbsp;
+<SYNC Start=2180120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말해</font>
+<SYNC Start=2181470><P Class=KRCC>&nbsp;
+<SYNC Start=2184110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>빨리 불어</font>
+<SYNC Start=2186230><P Class=KRCC>&nbsp;
+<SYNC Start=2187930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리 말 안해?</font>
+<SYNC Start=2189610><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>말하라구...</font>
+<SYNC Start=2191230><P Class=KRCC>&nbsp;
+<SYNC Start=2191500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아직 안끝났어</font>
+<SYNC Start=2193100><P Class=KRCC>&nbsp;
+<SYNC Start=2203350><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-이 새꺄... 빨리말해</font><br><font color="#0080ff" face="좋은_얼음땡">-우물쭈물하지 말라고</font>
+<SYNC Start=2207240><P Class=KRCC>&nbsp;
+<SYNC Start=2213410><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보스...<br>수사관이 나타났습니다!</font>
+<SYNC Start=2216610><P Class=KRCC>&nbsp;
+<SYNC Start=2218450><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">계속 더 패버려</font>
+<SYNC Start=2220560><P Class=KRCC>&nbsp;
+<SYNC Start=2224920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">멍청한놈</font>
+<SYNC Start=2226530><P Class=KRCC>&nbsp;
+<SYNC Start=2234100><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-응? 뭐라고?<br>-어이~</font>
+<SYNC Start=2236990><P Class=KRCC>&nbsp;
+<SYNC Start=2238240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래?<br>드디어 왔군</font>
+<SYNC Start=2240620><P Class=KRCC>&nbsp;
+<SYNC Start=2241370><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래서...</font>
+<SYNC Start=2242640><P Class=KRCC>&nbsp;
+<SYNC Start=2242960><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">몇명이야?</font>
+<SYNC Start=2244390><P Class=KRCC>&nbsp;
+<SYNC Start=2245200><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여자 한명입니다<br>죄송합니다</font>
+<SYNC Start=2248150><P Class=KRCC>&nbsp;
+<SYNC Start=2249200><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여자 한명?</font>
+<SYNC Start=2251090><P Class=KRCC>&nbsp;
+<SYNC Start=2254010><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">우리들을 꽤나<br>우습게 보는군만</font>
+<SYNC Start=2257510><P Class=KRCC>&nbsp;
+<SYNC Start=2258360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">글치?</font>
+<SYNC Start=2259840><P Class=KRCC>&nbsp;
+<SYNC Start=2260470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇지 않냐?</font>
+<SYNC Start=2262470><P Class=KRCC>&nbsp;
+<SYNC Start=2270340><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그건 그렇고...</font>
+<SYNC Start=2271760><P Class=KRCC>&nbsp;
+<SYNC Start=2273110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-어떻게 요리해줄까?</font>
+<SYNC Start=2275860><P Class=KRCC>&nbsp;
+<SYNC Start=2350830><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여자수사관...</font>
+<SYNC Start=2352190><P Class=KRCC>&nbsp;
+<SYNC Start=2353240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기까지 온건<br>칭찬해주지</font>
+<SYNC Start=2355440><P Class=KRCC>&nbsp;
+<SYNC Start=2356490><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇지만 올수 있는건 여기까지야</font>
+<SYNC Start=2358490><P Class=KRCC>&nbsp;
+<SYNC Start=2366160><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">거기까지다<br>손들어~</font>
+<SYNC Start=2368850><P Class=KRCC>&nbsp;
+<SYNC Start=2388290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이년이...</font>
+<SYNC Start=2389610><P Class=KRCC>&nbsp;
+<SYNC Start=2393570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이년이 감히...<br>잡아서 죽여주지!</font>
+<SYNC Start=2397200><P Class=KRCC>&nbsp;
+<SYNC Start=2398980><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">덮치지마<br>절대 지지않아!</font>
+<SYNC Start=2403320><P Class=KRCC>&nbsp;
+<SYNC Start=2404730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐야~</font>
+<SYNC Start=2406180><P Class=KRCC>&nbsp;
+<SYNC Start=2408450><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐하는거야 너<br>이 년 잘 잡아야지</font>
+<SYNC Start=2411570><P Class=KRCC>&nbsp;
+<SYNC Start=2411780><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">진정해...<br>아파 아파</font>
+<SYNC Start=2415010><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">찾았군</font>
+<SYNC Start=2416720><P Class=KRCC>&nbsp;
+<SYNC Start=2419280><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋은 몸매군</font>
+<SYNC Start=2421260><P Class=KRCC>&nbsp;
+<SYNC Start=2423280><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=2424440><P Class=KRCC>&nbsp;
+<SYNC Start=2453540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">직접 만나보게 되니<br>영광이야...</font>
+<SYNC Start=2455730><P Class=KRCC>&nbsp;
+<SYNC Start=2456310><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">비밀수사관...</font>
+<SYNC Start=2457690><P Class=KRCC>&nbsp;
+<SYNC Start=2458140><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">우츠노미야 시온</font>
+<SYNC Start=2459840><P Class=KRCC>&nbsp;
+<SYNC Start=2460480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기운은 차렸나?</font>
+<SYNC Start=2462320><P Class=KRCC>&nbsp;
+<SYNC Start=2464020><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">테라다...</font>
+<SYNC Start=2465530><P Class=KRCC>&nbsp;
+<SYNC Start=2468910><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">나는</font>
+<SYNC Start=2470440><P Class=KRCC>&nbsp;
+<SYNC Start=2472740><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">널 용서할 수 없어</font>
+<SYNC Start=2474670><P Class=KRCC>&nbsp;
+<SYNC Start=2478610><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여러가지 조사해봤지</font>
+<SYNC Start=2481110><P Class=KRCC>&nbsp;
+<SYNC Start=2486070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">내가 너의 아버지를 죽였다지?</font>
+<SYNC Start=2489250><P Class=KRCC>&nbsp;
+<SYNC Start=2490710><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐...</font>
+<SYNC Start=2491590><P Class=KRCC>&nbsp;
+<SYNC Start=2491930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넌 하나씩 죽인 놈들이<br>누군지 기억나?</font>
+<SYNC Start=2496070><P Class=KRCC>&nbsp;
+<SYNC Start=2498460><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">건드리지마</font>
+<SYNC Start=2500420><P Class=KRCC>&nbsp;
+<SYNC Start=2502990><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래서...</font>
+<SYNC Start=2504410><P Class=KRCC>&nbsp;
+<SYNC Start=2505520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그 복수를 위해<br>날 죽이러 온거군</font>
+<SYNC Start=2508810><P Class=KRCC>&nbsp;
+<SYNC Start=2513900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">가소롭군</font>
+<SYNC Start=2515720><P Class=KRCC>&nbsp;
+<SYNC Start=2518320><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">날 죽이기 위해</font>
+<SYNC Start=2520110><P Class=KRCC>&nbsp;
+<SYNC Start=2522190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">흔히 이 세상은 어둠사회에 시들지</font>
+<SYNC Start=2525120><P Class=KRCC>&nbsp;
+<SYNC Start=2525650><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">깨달으면...</font>
+<SYNC Start=2527190><P Class=KRCC>&nbsp;
+<SYNC Start=2528620><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">수사국의 개가 된거 아닌가?</font>
+<SYNC Start=2531430><P Class=KRCC>&nbsp;
+<SYNC Start=2535930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넌 니가 필요한데 꼬릴흔드는</font>
+<SYNC Start=2538950><P Class=KRCC>&nbsp;
+<SYNC Start=2539410><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">비겁한 년이지</font>
+<SYNC Start=2540960><P Class=KRCC>&nbsp;
+<SYNC Start=2542870><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">난 말이지...</font>
+<SYNC Start=2544310><P Class=KRCC>&nbsp;
+<SYNC Start=2544560><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">누구에게도 마음을<br>흔들리거나 하지않아</font>
+<SYNC Start=2547550><P Class=KRCC>&nbsp;
+<SYNC Start=2558460><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">예쁜 표정하면서...</font>
+<SYNC Start=2560250><P Class=KRCC>&nbsp;
+<SYNC Start=2561410><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">내 여자가 되어도 좋아</font>
+<SYNC Start=2563500><P Class=KRCC>&nbsp;
+<SYNC Start=2570260><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">지금부터</font>
+<SYNC Start=2571750><P Class=KRCC>&nbsp;
+<SYNC Start=2573210><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너의 콧대높은 자존심을</font>
+<SYNC Start=2575610><P Class=KRCC>&nbsp;
+<SYNC Start=2576660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">짓밟아주지</font>
+<SYNC Start=2578610><P Class=KRCC>&nbsp;
+<SYNC Start=2602840><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">소용없어</font>
+<SYNC Start=2604620><P Class=KRCC>&nbsp;
+<SYNC Start=2605420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이러면 어떨까?</font>
+<SYNC Start=2607560><P Class=KRCC>&nbsp;
+<SYNC Start=2609620><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">내게 반항하는건</font>
+<SYNC Start=2611600><P Class=KRCC>&nbsp;
+<SYNC Start=2612400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋은만큼 쉬게해주지</font>
+<SYNC Start=2614520><P Class=KRCC>&nbsp;
+<SYNC Start=2646600><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그런 완강한 태도가</font>
+<SYNC Start=2648360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">언제까지 갈수 있을까?</font>
+<SYNC Start=2650610><P Class=KRCC>&nbsp;
+<SYNC Start=2658010><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">더러운 손으로 만지지마!</font>
+<SYNC Start=2660280><P Class=KRCC>&nbsp;
+<SYNC Start=2662390><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">까칠하긴...</font>
+<SYNC Start=2664450><P Class=KRCC>&nbsp;
+<SYNC Start=2669730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">싫진않군</font>
+<SYNC Start=2671590><P Class=KRCC>&nbsp;
+<SYNC Start=2683840><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어떤게 항의일까...</font>
+<SYNC Start=2686230><P Class=KRCC>&nbsp;
+<SYNC Start=2690330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=2691440><P Class=KRCC>&nbsp;
+<SYNC Start=2691660><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">소용없다고 말했지</font>
+<SYNC Start=2693740><P Class=KRCC>&nbsp;
+<SYNC Start=2696200><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=2697770><P Class=KRCC>&nbsp;
+<SYNC Start=2698270><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그럼 이런건 어떨까?</font>
+<SYNC Start=2700890><P Class=KRCC>&nbsp;
+<SYNC Start=2702180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">섰네~</font>
+<SYNC Start=2703760><P Class=KRCC>&nbsp;
+<SYNC Start=2711920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래</font>
+<SYNC Start=2713610><P Class=KRCC>&nbsp;
+<SYNC Start=2714300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">따뜻하군</font>
+<SYNC Start=2716300><P Class=KRCC>&nbsp;
+<SYNC Start=2721690><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너도 한낱 여자에<br>불과하단걸 알게해주지</font>
+<SYNC Start=2724920><P Class=KRCC>&nbsp;
+<SYNC Start=2759700><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=2760880><P Class=KRCC>&nbsp;
+<SYNC Start=2763600><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어디가 느껴져?</font>
+<SYNC Start=2765530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기?<br>아니면 여기?</font>
+<SYNC Start=2767730><P Class=KRCC>&nbsp;
+<SYNC Start=2767910><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?<br>어디가 좋아?</font>
+<SYNC Start=2769380><P Class=KRCC>&nbsp;
+<SYNC Start=2769630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=2770790><P Class=KRCC>&nbsp;
+<SYNC Start=2772540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=2773770><P Class=KRCC>&nbsp;
+<SYNC Start=2780380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">제일 기분좋은데 대주지</font>
+<SYNC Start=2783040><P Class=KRCC>&nbsp;
+<SYNC Start=2786400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=2787630><P Class=KRCC>&nbsp;
+<SYNC Start=2792730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아주 좋은 년이구만<br>응?</font>
+<SYNC Start=2795920><P Class=KRCC>&nbsp;
+<SYNC Start=2806880><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀 흥분한거 같은데</font>
+<SYNC Start=2808880><P Class=KRCC>&nbsp;
+<SYNC Start=2809570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">싫어 하는거 아니었나?<br>응?</font>
+<SYNC Start=2812520><P Class=KRCC>&nbsp;
+<SYNC Start=2812630><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=2813590><P Class=KRCC>&nbsp;
+<SYNC Start=2813960><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">전혀 흥분되지 않아</font>
+<SYNC Start=2815950><P Class=KRCC>&nbsp;
+<SYNC Start=2817750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래?</font>
+<SYNC Start=2819150><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭔가 호흡이 거칠어진거 같은데?</font>
+<SYNC Start=2822060><P Class=KRCC>&nbsp;
+<SYNC Start=2822970><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">글치?</font>
+<SYNC Start=2824140><P Class=KRCC>&nbsp;
+<SYNC Start=2833720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=2834910><P Class=KRCC>&nbsp;
+<SYNC Start=2837320><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">딱 붙여봐</font>
+<SYNC Start=2838770><P Class=KRCC>&nbsp;
+<SYNC Start=2846350><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">쓸데없는 저항은 하지마</font>
+<SYNC Start=2848880><P Class=KRCC>&nbsp;
+<SYNC Start=2849930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=2850790><P Class=KRCC>&nbsp;
+<SYNC Start=2867380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이...<br>이봐~</font>
+<SYNC Start=2869160><P Class=KRCC>&nbsp;
+<SYNC Start=2869300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">방금보다 호흡이<br>더 거칠어진거 같은데...</font>
+<SYNC Start=2871900><P Class=KRCC>&nbsp;
+<SYNC Start=2879900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 강하게 해볼까?</font>
+<SYNC Start=2881620><P Class=KRCC>&nbsp;
+<SYNC Start=2899130><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여긴가?</font>
+<SYNC Start=2900470><P Class=KRCC>&nbsp;
+<SYNC Start=2903050><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그만둬</font>
+<SYNC Start=2904630><P Class=KRCC>&nbsp;
+<SYNC Start=2910790><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그만둘수 있나?</font>
+<SYNC Start=2912670><P Class=KRCC>&nbsp;
+<SYNC Start=2917150><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋게 해줘야지</font>
+<SYNC Start=2919730><P Class=KRCC>&nbsp;
+<SYNC Start=2960410><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">느껴져 이거?</font>
+<SYNC Start=2961990><P Class=KRCC>&nbsp;
+<SYNC Start=2962120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋아?</font>
+<SYNC Start=2963720><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">전혀 기분좋지 않아</font>
+<SYNC Start=2965670><P Class=KRCC>&nbsp;
+<SYNC Start=2965920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래?</font>
+<SYNC Start=2967660><P Class=KRCC>&nbsp;
+<SYNC Start=2970190><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">느껴지지 않는다구</font>
+<SYNC Start=2972880><P Class=KRCC>&nbsp;
+<SYNC Start=2975750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">부들부들 거리는데<br>기분좋아?</font>
+<SYNC Start=2978130><P Class=KRCC>&nbsp;
+<SYNC Start=2978280><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-응?</font><br><font color="#ff0080" face="좋은_얼음땡">-싫어, 안돼</font>
+<SYNC Start=2980050><P Class=KRCC>&nbsp;
+<SYNC Start=2993540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">괜찮지?</font>
+<SYNC Start=2994730><P Class=KRCC>&nbsp;
+<SYNC Start=2996950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너도 말했지?</font>
+<SYNC Start=2998600><P Class=KRCC>&nbsp;
+<SYNC Start=2999360><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-말 안했어!<br></font><font color="#0080ff">-응?</font>
+<SYNC Start=3001450><P Class=KRCC>&nbsp;
+<SYNC Start=3006800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">지금 말했자나</font>
+<SYNC Start=3008640><P Class=KRCC>&nbsp;
+<SYNC Start=3009880><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아냐?</font>
+<SYNC Start=3010650><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">말안했어</font>
+<SYNC Start=3012320><P Class=KRCC>&nbsp;
+<SYNC Start=3024810><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">가만있어봐</font>
+<SYNC Start=3026330><P Class=KRCC>&nbsp;
+<SYNC Start=3034850><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어라?</font>
+<SYNC Start=3036260><P Class=KRCC>&nbsp;
+<SYNC Start=3038100><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">역시 흥분했자나<br>쌌지?</font>
+<SYNC Start=3041670><P Class=KRCC>&nbsp;
+<SYNC Start=3042850><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡" color="#0080ff">-아냐?<br></font><font color="#ff0080" face="좋은_얼음땡">-안쌌어...</font>
+<SYNC Start=3044760><P Class=KRCC>&nbsp;
+<SYNC Start=3046040><P Class=KRCC><font color="#0080ff" face="인어공주">보지가 잔뜩<br>부풀어 올랐구만~</font>
+<SYNC Start=3048180><P Class=KRCC>&nbsp;
+<SYNC Start=3056210><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이거 맘에 들지?</font>
+<SYNC Start=3057960><P Class=KRCC>&nbsp;
+<SYNC Start=3058740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">글치?</font>
+<SYNC Start=3059780><P Class=KRCC>&nbsp;
+<SYNC Start=3111180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐~</font>
+<SYNC Start=3112260><P Class=KRCC>&nbsp;
+<SYNC Start=3112830><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이렇게 젖어버렸는데<br>응?</font>
+<SYNC Start=3115320><P Class=KRCC>&nbsp;
+<SYNC Start=3115860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이거 왜 이래?<br>방금보다 소리도 내고...</font>
+<SYNC Start=3118490><P Class=KRCC>&nbsp;
+<SYNC Start=3120510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여긴가?</font>
+<SYNC Start=3121790><P Class=KRCC>&nbsp;
+<SYNC Start=3126110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">느끼지 않는다면 확실히 말해</font>
+<SYNC Start=3128460><P Class=KRCC>&nbsp;
+<SYNC Start=3128680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=3129640><P Class=KRCC>&nbsp;
+<SYNC Start=3130800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">느낌없다면서?</font>
+<SYNC Start=3132530><P Class=KRCC>&nbsp;
+<SYNC Start=3132690><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-아무 느낌없어<br></font><font color="#0080ff">-어이~ 확실히 말해</font>
+<SYNC Start=3136100><P Class=KRCC>&nbsp;
+<SYNC Start=3137310><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빼지말고 내밀어봐</font>
+<SYNC Start=3139430><P Class=KRCC>&nbsp;
+<SYNC Start=3143730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">싫어?</font>
+<SYNC Start=3145180><P Class=KRCC>&nbsp;
+<SYNC Start=3155770><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=3156980><P Class=KRCC>&nbsp;
+<SYNC Start=3165070><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">제발 그만둬</font>
+<SYNC Start=3167140><P Class=KRCC>&nbsp;
+<SYNC Start=3187750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">흠뻑젖었네<br>자~ 들어봐</font>
+<SYNC Start=3190960><P Class=KRCC>&nbsp;
+<SYNC Start=3197200><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그만두기 싫지?</font>
+<SYNC Start=3199130><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=3200310><P Class=KRCC>&nbsp;
+<SYNC Start=3200770><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말해봐</font>
+<SYNC Start=3202030><P Class=KRCC>&nbsp;
+<SYNC Start=3202460><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 기분좋아지고 싶지?<br>안그래?</font>
+<SYNC Start=3205270><P Class=KRCC>&nbsp;
+<SYNC Start=3206400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">망꼬 기분좋게<br>해달라고 말해봐~</font>
+<SYNC Start=3209080><P Class=KRCC>&nbsp;
+<SYNC Start=3209210><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=3210170><P Class=KRCC>&nbsp;
+<SYNC Start=3211380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이거말야<br>응?</font>
+<SYNC Start=3213450><P Class=KRCC>&nbsp;
+<SYNC Start=3215320><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=3216820><P Class=KRCC>&nbsp;
+<SYNC Start=3217140><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">'망코 기분좋게 해주세요' 라고...</font>
+<SYNC Start=3219290><P Class=KRCC>&nbsp;
+<SYNC Start=3219650><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=3220650><P Class=KRCC>&nbsp;
+<SYNC Start=3228540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">대는거만...</font>
+<SYNC Start=3230470><P Class=KRCC>&nbsp;
+<SYNC Start=3242340><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋지?</font>
+<SYNC Start=3244310><P Class=KRCC>&nbsp;
+<SYNC Start=3255100><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=3256490><P Class=KRCC>&nbsp;
+<SYNC Start=3257580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말 안해?</font>
+<SYNC Start=3258850><P Class=KRCC>&nbsp;
+<SYNC Start=3261630><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">빼죠</font>
+<SYNC Start=3263440><P Class=KRCC>&nbsp;
+<SYNC Start=3268980><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">빼달라구</font>
+<SYNC Start=3270630><P Class=KRCC>&nbsp;
+<SYNC Start=3273190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-못 느낀다며... 그럼 안빼도 되자나?<br></font><font color="#ff0080">-빼줘</font>
+<SYNC Start=3277340><P Class=KRCC>&nbsp;
+<SYNC Start=3277900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡" color="#ff0080">-빼달라고<br></font><font color="#0080ff" face="좋은_얼음땡">-내말이 틀려?</font>
+<SYNC Start=3280650><P Class=KRCC>&nbsp;
+<SYNC Start=3280920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=3282170><P Class=KRCC>&nbsp;
+<SYNC Start=3286010><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">더 쑤시면...</font>
+<SYNC Start=3288130><P Class=KRCC>&nbsp;
+<SYNC Start=3292510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">더 쑤시면 뭐?<br>응?</font>
+<SYNC Start=3295520><P Class=KRCC>&nbsp;
+<SYNC Start=3298160><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싸버려</font>
+<SYNC Start=3299760><P Class=KRCC>&nbsp;
+<SYNC Start=3300400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">에?</font>
+<SYNC Start=3301380><P Class=KRCC>&nbsp;
+<SYNC Start=3301500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">확실히 기분좋다고 말하는거자나</font>
+<SYNC Start=3304440><P Class=KRCC>&nbsp;
+<SYNC Start=3304880><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-자~<br></font><font color="#ff0080">-시...싫어</font>
+<SYNC Start=3306930><P Class=KRCC>&nbsp;
+<SYNC Start=3315410><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">아파ㅜ.ㅜ</font>
+<SYNC Start=3317000><P Class=KRCC>&nbsp;
+<SYNC Start=3321280><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋다고 말해봐</font>
+<SYNC Start=3323160><P Class=KRCC>&nbsp;
+<SYNC Start=3323540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-느낌오지?</font><br><font color="#ff0080" face="좋은_얼음땡">-느낌따윈 없어</font>
+<SYNC Start=3327040><P Class=KRCC>&nbsp;
+<SYNC Start=3327420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">너도 잘 알잖아~</font>
+<SYNC Start=3329270><P Class=KRCC>&nbsp;
+<SYNC Start=3329860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇지?</font>
+<SYNC Start=3331090><P Class=KRCC>&nbsp;
+<SYNC Start=3331610><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋다고 말해</font>
+<SYNC Start=3333610><P Class=KRCC>&nbsp;
+<SYNC Start=3334120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보지 느낌 너무 좋으니까<br>좀더 팍팍 쑤셔달라고 말해~</font>
+<SYNC Start=3338250><P Class=KRCC>&nbsp;
+<SYNC Start=3338750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-해봐<br></font><font color="#ff0080">-싫어ㅜ.ㅜ</font>
+<SYNC Start=3341130><P Class=KRCC>&nbsp;
+<SYNC Start=3345530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋다고 말해</font>
+<SYNC Start=3347490><P Class=KRCC>&nbsp;
+<SYNC Start=3348090><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋다고 말해봐</font>
+<SYNC Start=3350050><P Class=KRCC>&nbsp;
+<SYNC Start=3351230><P Class=KRCC><font color="#ff0080" face="별사탕">기분좋아</font>
+<SYNC Start=3353210><P Class=KRCC>&nbsp;
+<SYNC Start=3353670><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?<br>그렇게 또 말해봐</font>
+<SYNC Start=3355700><P Class=KRCC>&nbsp;
+<SYNC Start=3359670><P Class=KRCC><font color="#ff0080" face="별사탕">기분좋아</font>
+<SYNC Start=3361080><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>아가씨 안들려</font>
+<SYNC Start=3363010><P Class=KRCC>&nbsp;
+<SYNC Start=3366520><P Class=KRCC><font color="#ff0080" face="별사탕">죽겠어요<br>넘 좋아요...</font>
+<SYNC Start=3369440><P Class=KRCC>&nbsp;
+<SYNC Start=3384860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>이걸로 대줄께</font>
+<SYNC Start=3387040><P Class=KRCC>&nbsp;
+<SYNC Start=3401010><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그만둬요</font>
+<SYNC Start=3402620><P Class=KRCC>&nbsp;
+<SYNC Start=3409730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이번엔 뻑간다고<br>확실히 말해~</font>
+<SYNC Start=3412330><P Class=KRCC>&nbsp;
+<SYNC Start=3412890><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 벌려</font>
+<SYNC Start=3414340><P Class=KRCC>&nbsp;
+<SYNC Start=3415590><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-기분좋다고 말했자나<br></font><font color="#ff0080">-쌀꺼같애</font>
+<SYNC Start=3417890><P Class=KRCC>&nbsp;
+<SYNC Start=3418180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">알겠지?</font>
+<SYNC Start=3419780><P Class=KRCC>&nbsp;
+<SYNC Start=3420760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">쌀꺼같다고 말해</font>
+<SYNC Start=3422840><P Class=KRCC>&nbsp;
+<SYNC Start=3430310><P Class=KRCC><font color="#ff0080" face="별사탕">싸요</font>
+<SYNC Start=3432000><P Class=KRCC>&nbsp;
+<SYNC Start=3436030><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아직 부족해<br>더 확실히 말해</font>
+<SYNC Start=3438290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말 안해?</font>
+<SYNC Start=3439560><P Class=KRCC>&nbsp;
+<SYNC Start=3449060><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">한번 더 말해봐~<br>응?</font>
+<SYNC Start=3451150><P Class=KRCC>&nbsp;
+<SYNC Start=3452610><P Class=KRCC><font color="#ff0080" face="별사탕">쌀꺼같아</font>
+<SYNC Start=3454810><P Class=KRCC>&nbsp;
+<SYNC Start=3460720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">움직이니 기분좋아?<br>빨리 말해!</font>
+<SYNC Start=3464200><P Class=KRCC>&nbsp;
+<SYNC Start=3466830><P Class=KRCC><font color="#ff0080" face="별사탕">보지가...<br>너무 좋아</font>
+<SYNC Start=3470680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">안들려</font>
+<SYNC Start=3472260><P Class=KRCC>&nbsp;
+<SYNC Start=3473930><P Class=KRCC><font color="#ff0080" face="별사탕">보지...<br>좋아 죽을 것 같애</font>
+<SYNC Start=3476280><P Class=KRCC><font color="#ff0080" face="별사탕">안돼<br>보즙 싸버려</font>
+<SYNC Start=3479450><P Class=KRCC>&nbsp;
+<SYNC Start=3519990><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=3521000><P Class=KRCC>&nbsp;
+<SYNC Start=3523770><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이년아!</font>
+<SYNC Start=3524970><P Class=KRCC>&nbsp;
+<SYNC Start=3527970><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">일어나</font>
+<SYNC Start=3529090><P Class=KRCC>&nbsp;
+<SYNC Start=3533400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">일어나라고!</font>
+<SYNC Start=3535020><P Class=KRCC>&nbsp;
+<SYNC Start=3541720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아직 살아있네</font>
+<SYNC Start=3543360><P Class=KRCC>&nbsp;
+<SYNC Start=3547850><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기로 와</font>
+<SYNC Start=3549280><P Class=KRCC>&nbsp;
+<SYNC Start=3551680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이리 오라니까 ...</font>
+<SYNC Start=3553490><P Class=KRCC>&nbsp;
+<SYNC Start=3557120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">괜찮아<br>목이 타지?</font>
+<SYNC Start=3558760><P Class=KRCC>&nbsp;
+<SYNC Start=3562020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐</font>
+<SYNC Start=3563070><P Class=KRCC>&nbsp;
+<SYNC Start=3564170><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">마시고 싶지?</font>
+<SYNC Start=3565610><P Class=KRCC>&nbsp;
+<SYNC Start=3569440><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">안 마시고 싶어?</font>
+<SYNC Start=3570970><P Class=KRCC>&nbsp;
+<SYNC Start=3571970><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래?</font>
+<SYNC Start=3573310><P Class=KRCC>&nbsp;
+<SYNC Start=3574740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그럼 필요없군</font>
+<SYNC Start=3576430><P Class=KRCC>&nbsp;
+<SYNC Start=3580130><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">(빨리 안오면)<br>없어져버려</font>
+<SYNC Start=3582020><P Class=KRCC>&nbsp;
+<SYNC Start=3588430><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">물 마시고 싶었지?</font>
+<SYNC Start=3590320><P Class=KRCC>&nbsp;
+<SYNC Start=3597220><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넣어봐</font>
+<SYNC Start=3598710><P Class=KRCC>&nbsp;
+<SYNC Start=3606300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">노예...</font>
+<SYNC Start=3607420><P Class=KRCC>&nbsp;
+<SYNC Start=3610650><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 마시고 싶어?</font>
+<SYNC Start=3612270><P Class=KRCC>&nbsp;
+<SYNC Start=3615180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 마시고 싶냐고?</font>
+<SYNC Start=3617040><P Class=KRCC>&nbsp;
+<SYNC Start=3620260><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=3621480><P Class=KRCC>&nbsp;
+<SYNC Start=3624190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">직접 물어</font>
+<SYNC Start=3626020><P Class=KRCC>&nbsp;
+<SYNC Start=3631360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">스스로 삼켜</font>
+<SYNC Start=3633060><P Class=KRCC>&nbsp;
+<SYNC Start=3633250><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">손 쓰지마</font>
+<SYNC Start=3634940><P Class=KRCC>&nbsp;
+<SYNC Start=3646120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이게 필요했지?</font>
+<SYNC Start=3648120><P Class=KRCC>&nbsp;
+<SYNC Start=3653560><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넌 이걸 원한거야</font>
+<SYNC Start=3655880><P Class=KRCC>&nbsp;
+<SYNC Start=3664280><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">원했지?</font>
+<SYNC Start=3665830><P Class=KRCC>&nbsp;
+<SYNC Start=3667350><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">아냐!</font>
+<SYNC Start=3669050><P Class=KRCC>&nbsp;
+<SYNC Start=3669480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아니긴 뭐가아냐?</font>
+<SYNC Start=3671380><P Class=KRCC>&nbsp;
+<SYNC Start=3675680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">내 똘똘이를 살리면...</font>
+<SYNC Start=3677810><P Class=KRCC>&nbsp;
+<SYNC Start=3682930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자위도 듬뿍하게 해줄께</font>
+<SYNC Start=3685220><P Class=KRCC>&nbsp;
+<SYNC Start=3689570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그런 표정짓지마</font>
+<SYNC Start=3691720><P Class=KRCC>&nbsp;
+<SYNC Start=3695770><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">제대로 삼켜봐~</font>
+<SYNC Start=3697630><P Class=KRCC>&nbsp;
+<SYNC Start=3728100><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">미워?</font>
+<SYNC Start=3729420><P Class=KRCC>&nbsp;
+<SYNC Start=3732950><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">당연히 밉지</font>
+<SYNC Start=3734790><P Class=KRCC>&nbsp;
+<SYNC Start=3736620><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">니가 증오하는<br>남자의 자지를 빠는거야</font>
+<SYNC Start=3739910><P Class=KRCC>&nbsp;
+<SYNC Start=3742780><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">거짓말쟁이</font>
+<SYNC Start=3744170><P Class=KRCC>&nbsp;
+<SYNC Start=3760300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">깊숙히 넣어</font>
+<SYNC Start=3762300><P Class=KRCC>&nbsp;
+<SYNC Start=3763740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자지를 깊숙히 넣으라고</font>
+<SYNC Start=3766430><P Class=KRCC>&nbsp;
+<SYNC Start=3810660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자지 좋아하지?</font>
+<SYNC Start=3812440><P Class=KRCC>&nbsp;
+<SYNC Start=3813940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">글치?</font>
+<SYNC Start=3815010><P Class=KRCC>&nbsp;
+<SYNC Start=3819670><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">젖꼭지 보여봐</font>
+<SYNC Start=3821500><P Class=KRCC>&nbsp;
+<SYNC Start=3855120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">음란한 몸뚱이 가지고 있으면서</font>
+<SYNC Start=3857420><P Class=KRCC>&nbsp;
+<SYNC Start=3858510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기로와</font>
+<SYNC Start=3860160><P Class=KRCC>&nbsp;
+<SYNC Start=3861940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그걸로 끼워봐</font>
+<SYNC Start=3863450><P Class=KRCC>&nbsp;
+<SYNC Start=3866360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리해</font>
+<SYNC Start=3867970><P Class=KRCC>&nbsp;
+<SYNC Start=3884240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">한번 잘해보라구</font>
+<SYNC Start=3886070><P Class=KRCC>&nbsp;
+<SYNC Start=3903960><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">이걸로 됐어?</font>
+<SYNC Start=3905990><P Class=KRCC>&nbsp;
+<SYNC Start=3906450><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">잘하는군</font>
+<SYNC Start=3908110><P Class=KRCC>&nbsp;
+<SYNC Start=3908550><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋군</font>
+<SYNC Start=3910360><P Class=KRCC>&nbsp;
+<SYNC Start=3911680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~<br>그거야</font>
+<SYNC Start=3914020><P Class=KRCC>&nbsp;
+<SYNC Start=3915660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래 잘하네</font>
+<SYNC Start=3917660><P Class=KRCC>&nbsp;
+<SYNC Start=3921040><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분 좋군</font>
+<SYNC Start=3923170><P Class=KRCC>&nbsp;
+<SYNC Start=3933670><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">끝내주는걸</font>
+<SYNC Start=3935550><P Class=KRCC>&nbsp;
+<SYNC Start=3952290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래~<br>지금 굉장히 좋은표정이야</font>
+<SYNC Start=3955720><P Class=KRCC>&nbsp;
+<SYNC Start=3955910><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">죽이는군</font>
+<SYNC Start=3957660><P Class=KRCC>&nbsp;
+<SYNC Start=3957870><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">침흘려봐</font>
+<SYNC Start=3960460><P Class=KRCC>&nbsp;
+<SYNC Start=3962500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래, 잘하고 있어</font>
+<SYNC Start=3966080><P Class=KRCC>&nbsp;
+<SYNC Start=3966400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">존나 좋은데~</font>
+<SYNC Start=3968230><P Class=KRCC>&nbsp;
+<SYNC Start=3968880><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">삼켜봐</font>
+<SYNC Start=3970610><P Class=KRCC>&nbsp;
+<SYNC Start=3971110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">삼키라고</font>
+<SYNC Start=3972680><P Class=KRCC>&nbsp;
+<SYNC Start=3986390><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">질퍽해지면<br>바로 끼워~</font>
+<SYNC Start=3988760><P Class=KRCC>&nbsp;
+<SYNC Start=3994730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">지금...</font>
+<SYNC Start=3996250><P Class=KRCC>&nbsp;
+<SYNC Start=3996950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇게 해봐</font>
+<SYNC Start=3998640><P Class=KRCC>&nbsp;
+<SYNC Start=4005030><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그상태로 확실히 움직여봐</font>
+<SYNC Start=4007570><P Class=KRCC>&nbsp;
+<SYNC Start=4009430><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">내 존슨 잘 흔들어봐 잔뜩 싸줄께</font>
+<SYNC Start=4013520><P Class=KRCC>&nbsp;
+<SYNC Start=4015610><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기쁘지?</font>
+<SYNC Start=4017430><P Class=KRCC>&nbsp;
+<SYNC Start=4018380><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">치욕스러워</font>
+<SYNC Start=4020810><P Class=KRCC>&nbsp;
+<SYNC Start=4021060><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">거짓말!</font>
+<SYNC Start=4022650><P Class=KRCC>&nbsp;
+<SYNC Start=4023480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기쁘자나</font>
+<SYNC Start=4025250><P Class=KRCC>&nbsp;
+<SYNC Start=4026420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">흥분한거 같은데...</font>
+<SYNC Start=4028730><P Class=KRCC>&nbsp;
+<SYNC Start=4030170><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-흥분 안했어<br></font><font color="#0080ff">-그래도 괜찮아</font>
+<SYNC Start=4033100><P Class=KRCC>&nbsp;
+<SYNC Start=4036970><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋군</font>
+<SYNC Start=4038660><P Class=KRCC>&nbsp;
+<SYNC Start=4046470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇게나...</font>
+<SYNC Start=4048230><P Class=KRCC>&nbsp;
+<SYNC Start=4049120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">흥분시켜줄테니까...</font>
+<SYNC Start=4051260><P Class=KRCC>&nbsp;
+<SYNC Start=4054370><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋은 표정이군</font>
+<SYNC Start=4056330><P Class=KRCC>&nbsp;
+<SYNC Start=4067950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">쌀거같아</font>
+<SYNC Start=4069460><P Class=KRCC>&nbsp;
+<SYNC Start=4069590><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">싼다</font>
+<SYNC Start=4071010><P Class=KRCC>&nbsp;
+<SYNC Start=4076480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~<br>나온다...</font>
+<SYNC Start=4078850><P Class=KRCC>&nbsp;
+<SYNC Start=4097740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">확실히 마무리해</font>
+<SYNC Start=4099930><P Class=KRCC>&nbsp;
+<SYNC Start=4113560><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뒤로 앉아봐</font>
+<SYNC Start=4115150><P Class=KRCC>&nbsp;
+<SYNC Start=4115890><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">지릴것 같은데...</font>
+<SYNC Start=4117710><P Class=KRCC>&nbsp;
+<SYNC Start=4124270><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">존물이 묻어서 더 야시시하군</font>
+<SYNC Start=4127660><P Class=KRCC>&nbsp;
+<SYNC Start=4134800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보스에겐 비밀로해</font>
+<SYNC Start=4137750><P Class=KRCC>&nbsp;
+<SYNC Start=4239930><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">테라다...</font>
+<SYNC Start=4241490><P Class=KRCC>&nbsp;
+<SYNC Start=4243140><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">내몸에</font>
+<SYNC Start=4245160><P Class=KRCC>&nbsp;
+<SYNC Start=4246380><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">무슨짓을 한거야?</font>
+<SYNC Start=4248280><P Class=KRCC>&nbsp;
+<SYNC Start=4249780><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">최음제를 좀 주입했지</font>
+<SYNC Start=4252780><P Class=KRCC>&nbsp;
+<SYNC Start=4253820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">금방 좋아질거야</font>
+<SYNC Start=4255680><P Class=KRCC>&nbsp;
+<SYNC Start=4257020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넌 한시도<br>방심할 수 없는 여자니까~</font>
+<SYNC Start=4260210><P Class=KRCC>&nbsp;
+<SYNC Start=4263310><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">난 그딴거에 절대<br>굴복하지 않아</font>
+<SYNC Start=4267390><P Class=KRCC>&nbsp;
+<SYNC Start=4269480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그런말 할수있는 것도<br>지금뿐이야</font>
+<SYNC Start=4272280><P Class=KRCC>&nbsp;
+<SYNC Start=4277820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀 있으면<br>니 몸이 먼저 바랄테니까...</font>
+<SYNC Start=4280810><P Class=KRCC>&nbsp;
+<SYNC Start=4288750><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그만해</font>
+<SYNC Start=4290390><P Class=KRCC>&nbsp;
+<SYNC Start=4292620><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">니 멋대로 만지지마!</font>
+<SYNC Start=4294760><P Class=KRCC>&nbsp;
+<SYNC Start=4296430><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">한번 더</font>
+<SYNC Start=4298040><P Class=KRCC>&nbsp;
+<SYNC Start=4298190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">한번 더 말해봐</font>
+<SYNC Start=4300280><P Class=KRCC>&nbsp;
+<SYNC Start=4309040><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">도대체 내몸에<br>무슨짓을 한거야?</font>
+<SYNC Start=4312990><P Class=KRCC>&nbsp;
+<SYNC Start=4314610><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀 있으면 알게돼</font>
+<SYNC Start=4316690><P Class=KRCC>&nbsp;
+<SYNC Start=4323370><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">알겠어?</font>
+<SYNC Start=4325050><P Class=KRCC>&nbsp;
+<SYNC Start=4325660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넌 말이지...</font>
+<SYNC Start=4327340><P Class=KRCC>&nbsp;
+<SYNC Start=4328730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">지금부터...</font>
+<SYNC Start=4330040><P Class=KRCC>&nbsp;
+<SYNC Start=4331020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아버지 원수의<br>세컨이 되는거지~</font>
+<SYNC Start=4333830><P Class=KRCC>&nbsp;
+<SYNC Start=4334710><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">굴욕적이지?</font>
+<SYNC Start=4336720><P Class=KRCC>&nbsp;
+<SYNC Start=4340640><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-싫어<br></font><font color="#0080ff">-싫지?</font>
+<SYNC Start=4342510><P Class=KRCC>&nbsp;
+<SYNC Start=4343640><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이 약기운이 퍼지면...</font>
+<SYNC Start=4345850><P Class=KRCC>&nbsp;
+<SYNC Start=4346780><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넌 나의 노예가 되는거야~</font>
+<SYNC Start=4349500><P Class=KRCC>&nbsp;
+<SYNC Start=4352320><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그럴리 없어!</font>
+<SYNC Start=4354430><P Class=KRCC>&nbsp;
+<SYNC Start=4362460><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">약 때문에 머잖아 쾌감을 느낄거야</font>
+<SYNC Start=4365860><P Class=KRCC>&nbsp;
+<SYNC Start=4367330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">즐거움이지~</font>
+<SYNC Start=4369260><P Class=KRCC>&nbsp;
+<SYNC Start=4371910><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그만둬</font>
+<SYNC Start=4373310><P Class=KRCC>&nbsp;
+<SYNC Start=4374190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=4375560><P Class=KRCC>&nbsp;
+<SYNC Start=4377590><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">몸에 힘이 빠지고 축 처지지?</font>
+<SYNC Start=4380360><P Class=KRCC>&nbsp;
+<SYNC Start=4389510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">온몸이 뜨겁지?</font>
+<SYNC Start=4391080><P Class=KRCC>&nbsp;
+<SYNC Start=4391310><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">하반신도 욱신욱신거리고 말야...</font>
+<SYNC Start=4393480><P Class=KRCC>&nbsp;
+<SYNC Start=4393750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4394650><P Class=KRCC>&nbsp;
+<SYNC Start=4404330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기 잘봐봐</font>
+<SYNC Start=4406330><P Class=KRCC>&nbsp;
+<SYNC Start=4406940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">에?</font>
+<SYNC Start=4408030><P Class=KRCC>&nbsp;
+<SYNC Start=4409930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">약이 잘 드나?<br>응?</font>
+<SYNC Start=4412730><P Class=KRCC>&nbsp;
+<SYNC Start=4413000><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">약효과가 즉빵인걸...<br>여기 들려?</font>
+<SYNC Start=4416710><P Class=KRCC>&nbsp;
+<SYNC Start=4422860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아<br>그 상태로 자~</font>
+<SYNC Start=4424960><P Class=KRCC>&nbsp;
+<SYNC Start=4425220><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기 들려?</font>
+<SYNC Start=4426890><P Class=KRCC>&nbsp;
+<SYNC Start=4443830><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">이건 내가 아냐</font>
+<SYNC Start=4445980><P Class=KRCC>&nbsp;
+<SYNC Start=4446120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아니 너야</font>
+<SYNC Start=4448240><P Class=KRCC>&nbsp;
+<SYNC Start=4449710><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어<br>이건 내가 아냐</font>
+<SYNC Start=4451930><P Class=KRCC>&nbsp;
+<SYNC Start=4456000><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">내가 아닌데...</font>
+<SYNC Start=4457930><P Class=KRCC>&nbsp;
+<SYNC Start=4458890><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아닌데 뭐?</font>
+<SYNC Start=4460830><P Class=KRCC>&nbsp;
+<SYNC Start=4469230><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">이상해</font>
+<SYNC Start=4471110><P Class=KRCC>&nbsp;
+<SYNC Start=4472530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋자나</font>
+<SYNC Start=4474300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">전신 성감대가 되버렸자나<br>어때?</font>
+<SYNC Start=4477300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">다리 벌려봐<br>응?</font>
+<SYNC Start=4479810><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=4481090><P Class=KRCC>&nbsp;
+<SYNC Start=4490620><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~ 좋은데...<br>좀더 빨아야겠어</font>
+<SYNC Start=4492790><P Class=KRCC>&nbsp;
+<SYNC Start=4498950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=4500350><P Class=KRCC>&nbsp;
+<SYNC Start=4504240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">꼴사나운 모습이 좋군</font>
+<SYNC Start=4506540><P Class=KRCC>&nbsp;
+<SYNC Start=4509040><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">보지마</font>
+<SYNC Start=4510630><P Class=KRCC>&nbsp;
+<SYNC Start=4513030><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">우수한 비밀수사관이 말야</font>
+<SYNC Start=4515660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이런 꼴이라니<br>어이~</font>
+<SYNC Start=4518180><P Class=KRCC>&nbsp;
+<SYNC Start=4519290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">흠뻑 젖었자나</font>
+<SYNC Start=4520970><P Class=KRCC>&nbsp;
+<SYNC Start=4521070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4522240><P Class=KRCC>&nbsp;
+<SYNC Start=4532650><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐~</font>
+<SYNC Start=4534200><P Class=KRCC>&nbsp;
+<SYNC Start=4540140><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>들어봐</font>
+<SYNC Start=4542510><P Class=KRCC>&nbsp;
+<SYNC Start=4545080><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4546110><P Class=KRCC>&nbsp;
+<SYNC Start=4546700><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기 좀 봐</font>
+<SYNC Start=4548100><P Class=KRCC>&nbsp;
+<SYNC Start=4553350><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">우수한 비밀수사관이...</font>
+<SYNC Start=4555580><P Class=KRCC>&nbsp;
+<SYNC Start=4555780><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이런 꼴이라니</font>
+<SYNC Start=4558050><P Class=KRCC>&nbsp;
+<SYNC Start=4560550><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">보지마</font>
+<SYNC Start=4562210><P Class=KRCC>&nbsp;
+<SYNC Start=4563970><P Class=KRCC><font color="#0080ff" face="인어공주">보지가 애액으로<br>흠뻑 젖었구만</font>
+<SYNC Start=4566550><P Class=KRCC>&nbsp;
+<SYNC Start=4570880><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아무리 강한척해도<br>어차피 계집애구만</font>
+<SYNC Start=4574280><P Class=KRCC>&nbsp;
+<SYNC Start=4574960><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분 좋게 해줄까?</font>
+<SYNC Start=4576660><P Class=KRCC>&nbsp;
+<SYNC Start=4577050><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4578230><P Class=KRCC>&nbsp;
+<SYNC Start=4582290><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">그만둬</font>
+<SYNC Start=4584020><P Class=KRCC>&nbsp;
+<SYNC Start=4589300><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">부끄러워 죽겠어</font>
+<SYNC Start=4591550><P Class=KRCC>&nbsp;
+<SYNC Start=4599830><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 원하게 해주지</font>
+<SYNC Start=4602440><P Class=KRCC>&nbsp;
+<SYNC Start=4606570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">누워봐</font>
+<SYNC Start=4608280><P Class=KRCC>&nbsp;
+<SYNC Start=4611720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-이거야<br></font><font color="#ff0080">-싫어</font>
+<SYNC Start=4614260><P Class=KRCC>&nbsp;
+<SYNC Start=4615510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">존슨 원하는면 뭐든 할래?<br>응?</font>
+<SYNC Start=4618570><P Class=KRCC>&nbsp;
+<SYNC Start=4618920><P Class=KRCC><font color="#ff0080" face="인어공주">네~<br>뭐든 할께요</font>
+<SYNC Start=4621480><P Class=KRCC>&nbsp;
+<SYNC Start=4625900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아니...<br>뭐라고?</font>
+<SYNC Start=4627510><P Class=KRCC>&nbsp;
+<SYNC Start=4627660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">날 미워한다 했자나<br>니 입으로...</font>
+<SYNC Start=4630260><P Class=KRCC>&nbsp;
+<SYNC Start=4630910><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4632040><P Class=KRCC>&nbsp;
+<SYNC Start=4634530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐야 그거?<br>거짓말이야?</font>
+<SYNC Start=4636400><P Class=KRCC>&nbsp;
+<SYNC Start=4636790><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4637830><P Class=KRCC>&nbsp;
+<SYNC Start=4638990><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">거짓말쟁이군</font>
+<SYNC Start=4640820><P Class=KRCC>&nbsp;
+<SYNC Start=4643220><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그렇지?</font>
+<SYNC Start=4644600><P Class=KRCC>&nbsp;
+<SYNC Start=4648310><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=4649190><P Class=KRCC>&nbsp;
+<SYNC Start=4649580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">거짓말해서<br>죄송하다고 해야지</font>
+<SYNC Start=4652080><P Class=KRCC>&nbsp;
+<SYNC Start=4655690><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">거짓말해서</font>
+<SYNC Start=4657780><P Class=KRCC>&nbsp;
+<SYNC Start=4658830><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">죄송해요ㅜ.ㅜ</font>
+<SYNC Start=4661250><P Class=KRCC>&nbsp;
+<SYNC Start=4671990><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=4673150><P Class=KRCC>&nbsp;
+<SYNC Start=4681720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이제 싸도 돼</font>
+<SYNC Start=4683720><P Class=KRCC>&nbsp;
+<SYNC Start=4684100><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">므흣한 망코자나</font>
+<SYNC Start=4685940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-쩍 벌린 상태로 싸보라구...<br></font><font color="#ff0080">-네</font>
+<SYNC Start=4689410><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-응? 잘 보라구<br></font><font color="#ff0080">-네</font>
+<SYNC Start=4692320><P Class=KRCC>&nbsp;
+<SYNC Start=4700600><P Class=KRCC><font color="#ff0080" face="별사탕">쌀꺼같애<br>가요...</font>
+<SYNC Start=4703360><P Class=KRCC>&nbsp;
+<SYNC Start=4705010><P Class=KRCC><font color="#ff0080" face="별사탕">아~<br>정말 안돼</font>
+<SYNC Start=4707080><P Class=KRCC>&nbsp;
+<SYNC Start=4712330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~ 그래?<br>망코 싸고 싶다고 말해</font>
+<SYNC Start=4715190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자지를 원하지?<br>뭐든 말하고 싶지?</font>
+<SYNC Start=4717900><P Class=KRCC>&nbsp;
+<SYNC Start=4718400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아<br>간다</font>
+<SYNC Start=4720340><P Class=KRCC>&nbsp;
+<SYNC Start=4720860><P Class=KRCC><font color="#ff0080" face="별사탕">보지가...<br>미칠 것 같아요</font>
+<SYNC Start=4723080><P Class=KRCC>&nbsp;
+<SYNC Start=4724940><P Class=KRCC><font color="#ff0080" face="별사탕">안돼</font>
+<SYNC Start=4726510><P Class=KRCC>&nbsp;
+<SYNC Start=4731680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아</font>
+<SYNC Start=4733030><P Class=KRCC>&nbsp;
+<SYNC Start=4746230><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=4747920><P Class=KRCC>&nbsp;
+<SYNC Start=4760530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때? 응?</font>
+<SYNC Start=4762720><P Class=KRCC>&nbsp;
+<SYNC Start=4767250><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자지를 먹고 싶지?<br>맛보기 원해?</font>
+<SYNC Start=4770240><P Class=KRCC>&nbsp;
+<SYNC Start=4770530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-응?<br></font><font color="#ff0080">-네</font>
+<SYNC Start=4772030><P Class=KRCC>&nbsp;
+<SYNC Start=4773240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=4774490><P Class=KRCC>&nbsp;
+<SYNC Start=4776740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보고싶다고 해야지</font>
+<SYNC Start=4778490><P Class=KRCC>&nbsp;
+<SYNC Start=4779730><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">보여주세요</font>
+<SYNC Start=4782010><P Class=KRCC>&nbsp;
+<SYNC Start=4782260><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>여기</font>
+<SYNC Start=4784490><P Class=KRCC>&nbsp;
+<SYNC Start=4786490><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">므흣하게 부르는군</font>
+<SYNC Start=4788540><P Class=KRCC>&nbsp;
+<SYNC Start=4789560><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">굴욕적이군</font>
+<SYNC Start=4791950><P Class=KRCC>&nbsp;
+<SYNC Start=4798590><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">므흣하게 불러봐</font>
+<SYNC Start=4800380><P Class=KRCC>&nbsp;
+<SYNC Start=4804620><P Class=KRCC><font color="#ff0080" face="파리의아침">자지...</font>
+<SYNC Start=4805870><P Class=KRCC>&nbsp;
+<SYNC Start=4806190><P Class=KRCC><font color="#ff0080" face="파리의아침">빨리 자지 주세요~</font>
+<SYNC Start=4808380><P Class=KRCC>&nbsp;
+<SYNC Start=4814720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>여기 있어</font>
+<SYNC Start=4816830><P Class=KRCC>&nbsp;
+<SYNC Start=4820630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>더 원하게 해주지</font>
+<SYNC Start=4823210><P Class=KRCC>&nbsp;
+<SYNC Start=4826230><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이런거 당하면서도 기뻐?</font>
+<SYNC Start=4828550><P Class=KRCC>&nbsp;
+<SYNC Start=4828800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">변녀구만</font>
+<SYNC Start=4830400><P Class=KRCC>&nbsp;
+<SYNC Start=4830540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4831770><P Class=KRCC>&nbsp;
+<SYNC Start=4855690><P Class=KRCC><font color="#ff0080" face="인어공주">아~~<br>이걸 원했어요~</font>
+<SYNC Start=4858840><P Class=KRCC>&nbsp;
+<SYNC Start=4872480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넌 어딜<br>만지작거리는거야?</font>
+<SYNC Start=4874590><P Class=KRCC>&nbsp;
+<SYNC Start=4875090><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4876170><P Class=KRCC>&nbsp;
+<SYNC Start=4877110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어딜 만지작거려?</font>
+<SYNC Start=4878890><P Class=KRCC>&nbsp;
+<SYNC Start=4879720><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡" face="파리의아침">-보지요~</font><br>-에~ 그렇군
+<SYNC Start=4882590><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이것도...</font>
+<SYNC Start=4883890><P Class=KRCC>&nbsp;
+<SYNC Start=4929700><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">내꺼빼고 혀내밀어</font>
+<SYNC Start=4931880><P Class=KRCC>&nbsp;
+<SYNC Start=4932880><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~<br>이건가?</font>
+<SYNC Start=4934800><P Class=KRCC>&nbsp;
+<SYNC Start=4951980><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">므흣하구만~</font>
+<SYNC Start=4953590><P Class=KRCC>&nbsp;
+<SYNC Start=4953970><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>끼워봐</font>
+<SYNC Start=4955790><P Class=KRCC>&nbsp;
+<SYNC Start=4956230><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=4957550><P Class=KRCC>&nbsp;
+<SYNC Start=4959250><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">느껴지지?</font>
+<SYNC Start=4961140><P Class=KRCC>&nbsp;
+<SYNC Start=4961350><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-어이~<br></font><font color="#ff0080">-네</font>
+<SYNC Start=4962990><P Class=KRCC>&nbsp;
+<SYNC Start=4963290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>해봐</font>
+<SYNC Start=4964970><P Class=KRCC>&nbsp;
+<SYNC Start=4983210><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리 움직여봐</font>
+<SYNC Start=4985100><P Class=KRCC>&nbsp;
+<SYNC Start=4986270><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">막치는게 좋군</font>
+<SYNC Start=4989060><P Class=KRCC>&nbsp;
+<SYNC Start=5006980><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">색꼴인가?<br>응?</font>
+<SYNC Start=5009830><P Class=KRCC>&nbsp;
+<SYNC Start=5016820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-느껴져? 응?<br></font><font color="#ff0080">-네</font>
+<SYNC Start=5020200><P Class=KRCC>&nbsp;
+<SYNC Start=5036760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>여기야</font>
+<SYNC Start=5038500><P Class=KRCC>&nbsp;
+<SYNC Start=5039930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>직접잡고 굴려봐</font>
+<SYNC Start=5042260><P Class=KRCC>&nbsp;
+<SYNC Start=5051120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">팔팔한 자지 좋아하지?</font>
+<SYNC Start=5053480><P Class=KRCC>&nbsp;
+<SYNC Start=5053940><P Class=KRCC><font color="#ff0080" face="파리의아침">아~<br>넘 좋아~</font>
+<SYNC Start=5056090><P Class=KRCC>&nbsp;
+<SYNC Start=5061190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래</font>
+<SYNC Start=5062490><P Class=KRCC>&nbsp;
+<SYNC Start=5113240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넣어달라고 말해</font>
+<SYNC Start=5115440><P Class=KRCC>&nbsp;
+<SYNC Start=5115920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=5117010><P Class=KRCC>&nbsp;
+<SYNC Start=5117910><P Class=KRCC><font color="#ff0080" face="파리의아침">제 보지에 꽂아주세요</font>
+<SYNC Start=5120580><P Class=KRCC>&nbsp;
+<SYNC Start=5122220><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">벌써 넣었군</font>
+<SYNC Start=5123820><P Class=KRCC>&nbsp;
+<SYNC Start=5174340><P Class=KRCC><font color="#ff0080" face="별사탕">너무 좋아</font>
+<SYNC Start=5175950><P Class=KRCC>&nbsp;
+<SYNC Start=5203860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">굉장히 좋지?</font>
+<SYNC Start=5205710><P Class=KRCC>&nbsp;
+<SYNC Start=5205940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기는?</font>
+<SYNC Start=5207860><P Class=KRCC>&nbsp;
+<SYNC Start=5213950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여긴 어때?</font>
+<SYNC Start=5215780><P Class=KRCC>&nbsp;
+<SYNC Start=5220060><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=5221470><P Class=KRCC>&nbsp;
+<SYNC Start=5239230><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">해봐</font>
+<SYNC Start=5240820><P Class=KRCC>&nbsp;
+<SYNC Start=5247700><P Class=KRCC><font color="#ff0080" face="별사탕">ㅇㅏ~<br>미칠 것 같아</font>
+<SYNC Start=5250010><P Class=KRCC>&nbsp;
+<SYNC Start=5270860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">올려쳐달라고 해봐</font>
+<SYNC Start=5273200><P Class=KRCC>&nbsp;
+<SYNC Start=5273630><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">올려쳐주세요</font>
+<SYNC Start=5275520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보지에 꽂아달라고 말해</font>
+<SYNC Start=5277810><P Class=KRCC>&nbsp;
+<SYNC Start=5278530><P Class=KRCC><font color="#ff0080" face="인어공주">보지에~</font>
+<SYNC Start=5279740><P Class=KRCC><font color="#ff0080" face="인어공주">보지에 팍팍<br>꽂아주세요~</font>
+<SYNC Start=5283460><P Class=KRCC>&nbsp;
+<SYNC Start=5343810><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어디까지 쑤셔줄까?</font>
+<SYNC Start=5345680><P Class=KRCC>&nbsp;
+<SYNC Start=5346710><P Class=KRCC><font color="#ff0080" face="파리의아침">깊숙히 쑤셔줘요~</font>
+<SYNC Start=5348750><P Class=KRCC>&nbsp;
+<SYNC Start=5348910><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어디?</font>
+<SYNC Start=5350200><P Class=KRCC>&nbsp;
+<SYNC Start=5352710><P Class=KRCC><font color="#ff0080" face="파리의아침">아~<br>더 깊숙히</font>
+<SYNC Start=5354710><P Class=KRCC>&nbsp;
+<SYNC Start=5358590><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이건 어때?</font>
+<SYNC Start=5360270><P Class=KRCC>&nbsp;
+<SYNC Start=5384580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">앞으로 넌 나의 노예야</font>
+<SYNC Start=5386780><P Class=KRCC>&nbsp;
+<SYNC Start=5391870><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">알겠지?</font>
+<SYNC Start=5393350><P Class=KRCC>&nbsp;
+<SYNC Start=5394110><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">네ㅜ.ㅜ</font>
+<SYNC Start=5395780><P Class=KRCC>&nbsp;
+<SYNC Start=5406130><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">해봐</font>
+<SYNC Start=5407430><P Class=KRCC>&nbsp;
+<SYNC Start=5410410><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~<br>쫄깃한 보지야</font>
+<SYNC Start=5413020><P Class=KRCC>&nbsp;
+<SYNC Start=5415720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">마지막까지 확실히 해</font>
+<SYNC Start=5417760><P Class=KRCC>&nbsp;
+<SYNC Start=5418020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">답은?</font>
+<SYNC Start=5419050><P Class=KRCC>&nbsp;
+<SYNC Start=5420000><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">네</font>
+<SYNC Start=5421370><P Class=KRCC>&nbsp;
+<SYNC Start=5423360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">흥~ 실컷 건방지게<br>지껄이더니...</font>
+<SYNC Start=5426390><P Class=KRCC>&nbsp;
+<SYNC Start=5426610><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=5427880><P Class=KRCC>&nbsp;
+<SYNC Start=5428320><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">반성하고 있어?</font>
+<SYNC Start=5430280><P Class=KRCC>&nbsp;
+<SYNC Start=5431190><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-반성하고 있어요<br></font><font color="#0080ff">-응?</font>
+<SYNC Start=5433250><P Class=KRCC>&nbsp;
+<SYNC Start=5436760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보지 마음껏<br>따먹어도 되지?</font>
+<SYNC Start=5439170><P Class=KRCC>&nbsp;
+<SYNC Start=5441450><P Class=KRCC><font color="#ff0080" face="인어공주">-네, 맘껏 따먹어 주세요</font><br><font color="#0080ff" face="좋은_얼음땡">-한번 더 말해봐</font>
+<SYNC Start=5445220><P Class=KRCC>&nbsp;
+<SYNC Start=5445330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보지를 따먹어도 좋다고 말해</font>
+<SYNC Start=5447790><P Class=KRCC>&nbsp;
+<SYNC Start=5448280><P Class=KRCC><font color="#ff0080" face="파리의아침">좀 더 제 보지를...<br>맘껏 따먹어 주세요~</font>
+<SYNC Start=5452310><P Class=KRCC>&nbsp;
+<SYNC Start=5463990><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">나눠서 잡으니 좋아?</font>
+<SYNC Start=5465620><P Class=KRCC>&nbsp;
+<SYNC Start=5466010><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=5466930><P Class=KRCC>&nbsp;
+<SYNC Start=5467040><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">네</font>
+<SYNC Start=5467900><P Class=KRCC>&nbsp;
+<SYNC Start=5468260><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">잡으세요</font>
+<SYNC Start=5470000><P Class=KRCC>&nbsp;
+<SYNC Start=5486000><P Class=KRCC><font color="#ff0080" face="별사탕">쌀거같애</font>
+<SYNC Start=5487700><P Class=KRCC>&nbsp;
+<SYNC Start=5492850><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">위험해</font>
+<SYNC Start=5494900><P Class=KRCC>&nbsp;
+<SYNC Start=5516340><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~<br>존나 좋아</font>
+<SYNC Start=5518330><P Class=KRCC>&nbsp;
+<SYNC Start=5519070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~<br>싼다</font>
+<SYNC Start=5520700><P Class=KRCC>&nbsp;
+<SYNC Start=5526200><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">싸~</font>
+<SYNC Start=5527740><P Class=KRCC>&nbsp;
+<SYNC Start=5593092><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이번 결과 말입니다</font>
+<SYNC Start=5595279><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">실패했습니다</font>
+<SYNC Start=5597140><P Class=KRCC>&nbsp;
+<SYNC Start=5597950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">비밀수사관</font>
+<SYNC Start=5599430><P Class=KRCC>&nbsp;
+<SYNC Start=5599967><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">우츠노미야 시온이...</font>
+<SYNC Start=5601560><P Class=KRCC>&nbsp;
+<SYNC Start=5601750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">소속불명이 되었습니다</font>
+<SYNC Start=5603950><P Class=KRCC>&nbsp;
+<SYNC Start=5604580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">면목없습니다</font>
+<SYNC Start=5606300><P Class=KRCC>&nbsp;
+<SYNC Start=5607510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래<br>그렇구만...</font>
+<SYNC Start=5609370><P Class=KRCC>&nbsp;
+<SYNC Start=5609700><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자기 아버지 원수의<br>노예가 되었군</font>
+<SYNC Start=5612230><P Class=KRCC>&nbsp;
+<SYNC Start=5613010><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래서...</font>
+<SYNC Start=5614450><P Class=KRCC>&nbsp;
+<SYNC Start=5615095><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">다음 적에 대한 조사는...</font>
+<SYNC Start=5617090><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">단단히 하고 있지?</font>
+<SYNC Start=5619017><P Class=KRCC>&nbsp;
+<SYNC Start=5619470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">다음을 기대해야 하겠군</font>
+<SYNC Start=5621570><P Class=KRCC>&nbsp;
+<SYNC Start=5622320><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">네</font>
+<SYNC Start=5623660><P Class=KRCC>&nbsp;
+<SYNC Start=5626220><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">선생님들에게는</font>
+<SYNC Start=5628063><P Class=KRCC>&nbsp;
+<SYNC Start=5628454><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">마음 푹 놓으라고 일러두도록...</font>
+<SYNC Start=5631235><P Class=KRCC>&nbsp;
+<SYNC Start=5637930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">알겠습니다</font>
+<SYNC Start=5639520><P Class=KRCC>&nbsp;
+<SYNC Start=5652400><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋군~</font>
+<SYNC Start=5653380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">첫 업소는 왜 그래?</font>
+<SYNC Start=5655420><P Class=KRCC>&nbsp;
+<SYNC Start=5656740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">흥~</font>
+<SYNC Start=5657980><P Class=KRCC>&nbsp;
+<SYNC Start=5659720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">귀엽군<br>비밀수사관</font>
+<SYNC Start=5663000><P Class=KRCC>&nbsp;
+<SYNC Start=5663190><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=5663960><P Class=KRCC>&nbsp;
+<SYNC Start=5666070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보스도 니몸이 싫증났대<br>알아?</font>
+<SYNC Start=5669780><P Class=KRCC>&nbsp;
+<SYNC Start=5670580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">앞으론 말이지</font>
+<SYNC Start=5672040><P Class=KRCC>&nbsp;
+<SYNC Start=5672520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">우리들이</font>
+<SYNC Start=5674300><P Class=KRCC>&nbsp;
+<SYNC Start=5674600><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">충분히 조교해주지~</font>
+<SYNC Start=5676960><P Class=KRCC>&nbsp;
+<SYNC Start=5679980><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>봐봐</font>
+<SYNC Start=5681420><P Class=KRCC>&nbsp;
+<SYNC Start=5681680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">원하는거 말해봐</font>
+<SYNC Start=5683800><P Class=KRCC>&nbsp;
+<SYNC Start=5685230><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡" face="파리의아침">자지~</font>
+<SYNC Start=5686680><P Class=KRCC>&nbsp;
+<SYNC Start=5687160><P Class=KRCC><font color="#ff0080" face="파리의아침">언능 자지 좀 주세요~</font>
+<SYNC Start=5689750><P Class=KRCC>&nbsp;
+<SYNC Start=5699170><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">기분좋지?</font>
+<SYNC Start=5701010><P Class=KRCC>&nbsp;
+<SYNC Start=5704930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=5706200><P Class=KRCC>&nbsp;
+<SYNC Start=5707720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아주 제대로 해주지</font>
+<SYNC Start=5709660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">핥아봐</font>
+<SYNC Start=5710960><P Class=KRCC>&nbsp;
+<SYNC Start=5723000><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>일어나봐</font>
+<SYNC Start=5725490><P Class=KRCC>&nbsp;
+<SYNC Start=5730280><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">도저히 못견디겠군</font>
+<SYNC Start=5732470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">글치?</font>
+<SYNC Start=5733850><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">죽이는군</font>
+<SYNC Start=5735410><P Class=KRCC>&nbsp;
+<SYNC Start=5736570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-잠시만 좀...</font><br><font color="#0080ff" face="좋은_얼음땡">-이래도 잘 보이네</font>
+<SYNC Start=5738540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기서도 보이네</font>
+<SYNC Start=5740480><P Class=KRCC>&nbsp;
+<SYNC Start=5742290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨리</font>
+<SYNC Start=5743440><P Class=KRCC>&nbsp;
+<SYNC Start=5744310><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">꽉 잡아서...</font>
+<SYNC Start=5746090><P Class=KRCC>&nbsp;
+<SYNC Start=5746660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨아줘야겠네</font>
+<SYNC Start=5748700><P Class=KRCC>&nbsp;
+<SYNC Start=5756930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">제대로 움직여봐</font>
+<SYNC Start=5758700><P Class=KRCC>&nbsp;
+<SYNC Start=5762530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빠는거 좋으면 좋다고 말해~</font>
+<SYNC Start=5765190><P Class=KRCC>&nbsp;
+<SYNC Start=5765970><P Class=KRCC><font color="#ff0080" face="파리의아침">기분좋아요~</font>
+<SYNC Start=5768020><P Class=KRCC>&nbsp;
+<SYNC Start=5775560><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">귀엽군 그래</font>
+<SYNC Start=5777690><P Class=KRCC>&nbsp;
+<SYNC Start=5780220><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=5781360><P Class=KRCC>&nbsp;
+<SYNC Start=5783250><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">전부 빨아야지</font>
+<SYNC Start=5784790><P Class=KRCC>&nbsp;
+<SYNC Start=5786570><P Class=KRCC><font color="#0080ff" face="파리의아침">으음~<br>보지가 엄청 향기로운데~</font>
+<SYNC Start=5789600><P Class=KRCC>&nbsp;
+<SYNC Start=5799180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">우와~<br>이런거 입고서</font>
+<SYNC Start=5801820><P Class=KRCC>&nbsp;
+<SYNC Start=5805740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">므흣한 두덩이군</font>
+<SYNC Start=5807770><P Class=KRCC>&nbsp;
+<SYNC Start=5808110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=5809370><P Class=KRCC>&nbsp;
+<SYNC Start=5810920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">차분하게 맘껏 괴롭혀주지</font>
+<SYNC Start=5813250><P Class=KRCC>&nbsp;
+<SYNC Start=5822510><P Class=KRCC><font color="#0080ff" face="인어공주">흐으음~<br>보지털도 나왔군</font>
+<SYNC Start=5825040><P Class=KRCC>&nbsp;
+<SYNC Start=5828120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">므흣한 뇬이군</font>
+<SYNC Start=5830250><P Class=KRCC>&nbsp;
+<SYNC Start=5837340><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이렇게 클리 비비면</font>
+<SYNC Start=5839480><P Class=KRCC>&nbsp;
+<SYNC Start=5840820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아</font>
+<SYNC Start=5842460><P Class=KRCC>&nbsp;
+<SYNC Start=5845670><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋았어</font>
+<SYNC Start=5846900><P Class=KRCC><font color="#0080ff" face="인어공주">자~<br>달아오른 보지를 보여줘</font>
+<SYNC Start=5850190><P Class=KRCC>&nbsp;
+<SYNC Start=5855380><P Class=KRCC><font color="#0080ff" face="인어공주">색꼴틱한 망코군</font>
+<SYNC Start=5857380><P Class=KRCC>&nbsp;
+<SYNC Start=5857920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">똥꼬도 벌려주지</font>
+<SYNC Start=5859790><P Class=KRCC>&nbsp;
+<SYNC Start=5866280><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">찬찬히 봐달라고 해봐</font>
+<SYNC Start=5868410><P Class=KRCC>&nbsp;
+<SYNC Start=5869160><P Class=KRCC><font color="#ff0080" face="인어공주">찬찬히 봐주세요~</font>
+<SYNC Start=5871890><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">'보지 안쪽까지'<br>라고 해야지</font>
+<SYNC Start=5874200><P Class=KRCC>&nbsp;
+<SYNC Start=5875410><P Class=KRCC><font color="#ff0080" face="인어공주">보지 안쪽까지~</font>
+<SYNC Start=5877690><P Class=KRCC>&nbsp;
+<SYNC Start=5881040><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아~<br>못견디겠군</font>
+<SYNC Start=5883100><P Class=KRCC>&nbsp;
+<SYNC Start=5908540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">맛있어</font>
+<SYNC Start=5909620><P Class=KRCC>&nbsp;
+<SYNC Start=5922440><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">싫어</font>
+<SYNC Start=5923580><P Class=KRCC>&nbsp;
+<SYNC Start=5928870><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">못참을 것 같으면 꽉 껴앉아</font>
+<SYNC Start=5931130><P Class=KRCC>&nbsp;
+<SYNC Start=5933940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">쌀때까지 움직일테니까</font>
+<SYNC Start=5936170><P Class=KRCC>&nbsp;
+<SYNC Start=5942530><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=5943720><P Class=KRCC>&nbsp;
+<SYNC Start=5952380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">쌀꺼같으면 싼다고 제대로 말해</font>
+<SYNC Start=5954740><P Class=KRCC>&nbsp;
+<SYNC Start=5957300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">말해봐 망코 어딘지</font>
+<SYNC Start=5958790><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-여기야?<br></font><font color="#ff0080" face="별사탕">-거기 안돼</font>
+<SYNC Start=5961550><P Class=KRCC>&nbsp;
+<SYNC Start=5961790><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">못버티겠어</font>
+<SYNC Start=5964490><P Class=KRCC>&nbsp;
+<SYNC Start=5964800><P Class=KRCC><font color="#ff0080" face="별사탕">ㅆ...싼다구</font>
+<SYNC Start=5967430><P Class=KRCC>&nbsp;
+<SYNC Start=5979180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아</font>
+<SYNC Start=5980580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">밑에 내려봐</font>
+<SYNC Start=5982220><P Class=KRCC>&nbsp;
+<SYNC Start=5984500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그럼...</font>
+<SYNC Start=5985590><P Class=KRCC>&nbsp;
+<SYNC Start=5985890><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자지를 원한다고 말해</font>
+<SYNC Start=5987790><P Class=KRCC>&nbsp;
+<SYNC Start=5990270><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡" face="인어공주">-자지가 먹고 싶어요~</font><br><font color="#0080ff">-응</font>
+<SYNC Start=5993100><P Class=KRCC>&nbsp;
+<SYNC Start=5993470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">냄새나고 므흣한 자지를<br>원한다고 말해</font>
+<SYNC Start=5996560><P Class=KRCC>&nbsp;
+<SYNC Start=5997310><P Class=KRCC><font color="#ff0080" face="인어공주">냄새나고 므흣한<br>자지를 원해요~</font>
+<SYNC Start=6000960><P Class=KRCC>&nbsp;
+<SYNC Start=6002930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아</font>
+<SYNC Start=6004360><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-다들 존슨 꺼내<br></font><font color="#ff0080">-에?</font>
+<SYNC Start=6006610><P Class=KRCC>&nbsp;
+<SYNC Start=6010070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6011080><P Class=KRCC>&nbsp;
+<SYNC Start=6011570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">일단 빨아</font>
+<SYNC Start=6013090><P Class=KRCC>&nbsp;
+<SYNC Start=6024920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 제대로 빨아</font>
+<SYNC Start=6027220><P Class=KRCC>&nbsp;
+<SYNC Start=6033060><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6033980><P Class=KRCC>&nbsp;
+<SYNC Start=6034160><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>이번엔 여기야</font>
+<SYNC Start=6035740><P Class=KRCC>&nbsp;
+<SYNC Start=6035900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기라구</font>
+<SYNC Start=6037110><P Class=KRCC>&nbsp;
+<SYNC Start=6038860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-넙죽 엎드려봐<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6041550><P Class=KRCC>&nbsp;
+<SYNC Start=6047970><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래</font>
+<SYNC Start=6049010><P Class=KRCC>&nbsp;
+<SYNC Start=6049980><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">밑에 들어봐</font>
+<SYNC Start=6051620><P Class=KRCC>&nbsp;
+<SYNC Start=6056040><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">못견디겠군</font>
+<SYNC Start=6057780><P Class=KRCC>&nbsp;
+<SYNC Start=6061020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">다리 벌려</font>
+<SYNC Start=6062420><P Class=KRCC>&nbsp;
+<SYNC Start=6067420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 벌려봐 자~</font>
+<SYNC Start=6069500><P Class=KRCC>&nbsp;
+<SYNC Start=6069700><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-제대로 순순히 비벼봐<br>-여기야</font>
+<SYNC Start=6072670><P Class=KRCC>&nbsp;
+<SYNC Start=6073350><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=6074340><P Class=KRCC>&nbsp;
+<SYNC Start=6082130><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~<br>여기야</font>
+<SYNC Start=6083670><P Class=KRCC>&nbsp;
+<SYNC Start=6084730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6085570><P Class=KRCC>&nbsp;
+<SYNC Start=6085800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">맛있어?</font>
+<SYNC Start=6086720><P Class=KRCC>&nbsp;
+<SYNC Start=6086830><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-여기도 빨아봐<br></font><font color="#ff0080" face="인어공주">-맛있어요</font>
+<SYNC Start=6088900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-좀더...<br>-자~ 여기보라구</font>
+<SYNC Start=6091900><P Class=KRCC>&nbsp;
+<SYNC Start=6100640><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~ 한판 해보자</font>
+<SYNC Start=6102180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">못참겠네</font>
+<SYNC Start=6103780><P Class=KRCC>&nbsp;
+<SYNC Start=6108150><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기...<br>여기봐봐</font>
+<SYNC Start=6110250><P Class=KRCC>&nbsp;
+<SYNC Start=6111140><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">넙죽 엎드려<br>치켜들고...</font>
+<SYNC Start=6113350><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-빨아도 돼<br></font><font color="#ff0080">-안돼, 이거 빨래</font>
+<SYNC Start=6116300><P Class=KRCC>&nbsp;
+<SYNC Start=6124480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-방금전보다 흠뻑젖었는데...<br>-응, 흠뻑젖었어</font>
+<SYNC Start=6129070><P Class=KRCC>&nbsp;
+<SYNC Start=6130570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>좀더 빨아봐</font>
+<SYNC Start=6132430><P Class=KRCC>&nbsp;
+<SYNC Start=6137820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">존슨이 좋아?</font>
+<SYNC Start=6139200><P Class=KRCC>&nbsp;
+<SYNC Start=6140180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐~</font>
+<SYNC Start=6141340><P Class=KRCC>&nbsp;
+<SYNC Start=6141940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?</font>
+<SYNC Start=6142900><P Class=KRCC>&nbsp;
+<SYNC Start=6143580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-솟았네</font><br><font color="#0080ff" face="좋은_얼음땡">-여기야, 여기</font>
+<SYNC Start=6145710><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이렇게 넙죽 엎드려봐</font>
+<SYNC Start=6147950><P Class=KRCC>&nbsp;
+<SYNC Start=6151540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기 빨아</font>
+<SYNC Start=6152830><P Class=KRCC>&nbsp;
+<SYNC Start=6153380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-봐봐~ 엉덩이 치켜들고...<br>-어디보자, 응?</font>
+<SYNC Start=6156290><P Class=KRCC>&nbsp;
+<SYNC Start=6158660><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">몇번이나 할까</font>
+<SYNC Start=6160710><P Class=KRCC>&nbsp;
+<SYNC Start=6161520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아?</font>
+<SYNC Start=6163070><P Class=KRCC>&nbsp;
+<SYNC Start=6164390><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이거...</font>
+<SYNC Start=6165550><P Class=KRCC>&nbsp;
+<SYNC Start=6175020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">끝까지 빨아<br>어이~</font>
+<SYNC Start=6177880><P Class=KRCC>&nbsp;
+<SYNC Start=6178470><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">한쪽 발 올려봐<br>개처럼 제대로~</font>
+<SYNC Start=6180970><P Class=KRCC>&nbsp;
+<SYNC Start=6182390><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨아줄께</font>
+<SYNC Start=6183760><P Class=KRCC>&nbsp;
+<SYNC Start=6192460><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아?</font>
+<SYNC Start=6193570><P Class=KRCC>&nbsp;
+<SYNC Start=6195820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=6196930><P Class=KRCC>&nbsp;
+<SYNC Start=6224250><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이러면 끝이없겠군<br>이리와봐</font>
+<SYNC Start=6227020><P Class=KRCC>&nbsp;
+<SYNC Start=6227270><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">다들 둥글게 모여봐<br>빨리~</font>
+<SYNC Start=6229920><P Class=KRCC>&nbsp;
+<SYNC Start=6232250><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">전부 원한다고 제대로 말해</font>
+<SYNC Start=6234500><P Class=KRCC>&nbsp;
+<SYNC Start=6235120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡" color="#ff0080">-전부 원해요~</font><br>-뭐야 이거?
+<SYNC Start=6237770><P Class=KRCC>&nbsp;
+<SYNC Start=6248750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 봐봐<br>제대로 여기봐봐</font>
+<SYNC Start=6251540><P Class=KRCC>&nbsp;
+<SYNC Start=6253100><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기봐봐</font>
+<SYNC Start=6255040><P Class=KRCC>&nbsp;
+<SYNC Start=6271790><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래</font>
+<SYNC Start=6272660><P Class=KRCC>&nbsp;
+<SYNC Start=6272770><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">뭐해? 좀더 다리벌려<br>빨아</font>
+<SYNC Start=6275430><P Class=KRCC>&nbsp;
+<SYNC Start=6294990><P Class=KRCC><font color="#0080ff" face="인어공주">탱탱한게<br>아주 물올랐네~</font>
+<SYNC Start=6297260><P Class=KRCC>&nbsp;
+<SYNC Start=6307050><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-입에 물어~ 그걸 원하자나<br></font><font color="#ff0080">-네, 맞아요</font>
+<SYNC Start=6309680><P Class=KRCC>&nbsp;
+<SYNC Start=6328570><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-좋아, 이리와</font><br><font color="#ff0080" face="좋은_얼음땡">-네</font>
+<SYNC Start=6331580><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아</font>
+<SYNC Start=6333000><P Class=KRCC>&nbsp;
+<SYNC Start=6334510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">노예~<br>기대봐</font>
+<SYNC Start=6336370><P Class=KRCC>&nbsp;
+<SYNC Start=6340020><P Class=KRCC><font color="#0080ff" face="인어공주">똥꼬안까지 비벼주지~</font>
+<SYNC Start=6341750><P Class=KRCC>&nbsp;
+<SYNC Start=6342390><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">봐봐~</font>
+<SYNC Start=6343490><P Class=KRCC>&nbsp;
+<SYNC Start=6349430><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">안돼ㅜ.ㅜ</font>
+<SYNC Start=6350850><P Class=KRCC>&nbsp;
+<SYNC Start=6351620><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">안돼~</font>
+<SYNC Start=6353510><P Class=KRCC>&nbsp;
+<SYNC Start=6369480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=6370540><P Class=KRCC>&nbsp;
+<SYNC Start=6370950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-좀더 보여줘<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6373200><P Class=KRCC>&nbsp;
+<SYNC Start=6378830><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">들어봐</font>
+<SYNC Start=6380680><P Class=KRCC>&nbsp;
+<SYNC Start=6380800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보지를 맘껏 써달라고 말해</font>
+<SYNC Start=6383020><P Class=KRCC>&nbsp;
+<SYNC Start=6383190><P Class=KRCC><font color="#ff0080" face="파리의아침">좋을대로 제 보지를...<br>맘껏 써주세요~</font>
+<SYNC Start=6388620><P Class=KRCC>&nbsp;
+<SYNC Start=6388750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=6389930><P Class=KRCC>&nbsp;
+<SYNC Start=6397820><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-좀더 소리 질러봐<br></font><font color="#ff0080">-네ㅜ.ㅡ</font>
+<SYNC Start=6400240><P Class=KRCC>&nbsp;
+<SYNC Start=6415900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-좋아, 그대로 이쪽으로 돌아<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6419880><P Class=KRCC>&nbsp;
+<SYNC Start=6424630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-다리 벌려<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6426700><P Class=KRCC>&nbsp;
+<SYNC Start=6431180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~</font>
+<SYNC Start=6432540><P Class=KRCC>&nbsp;
+<SYNC Start=6444240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이 자지 넘 좋다고 말해</font>
+<SYNC Start=6446260><P Class=KRCC>&nbsp;
+<SYNC Start=6447150><P Class=KRCC><font color="#ff0080" face="별사탕">이 자지...<br>넘흐 좋아요</font>
+<SYNC Start=6450750><P Class=KRCC>&nbsp;
+<SYNC Start=6455300><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-'바로 이맛이야' 라고 말해<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6458510><P Class=KRCC><font color="#ff0080" face="별사탕">바로 이맛이야</font>
+<SYNC Start=6460740><P Class=KRCC>&nbsp;
+<SYNC Start=6473610><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-이거야?<br></font><font color="#ff0080">-그거... 그거 넘 좋아</font>
+<SYNC Start=6477800><P Class=KRCC>&nbsp;
+<SYNC Start=6490380><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">패왕색기구만<br>므흣해</font>
+<SYNC Start=6492800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-손을 앞으로 대봐<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6495070><P Class=KRCC>&nbsp;
+<SYNC Start=6495650><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이건 어때?<br>어떠냐구?</font>
+<SYNC Start=6498220><P Class=KRCC>&nbsp;
+<SYNC Start=6498500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-허리 움직여<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6499870><P Class=KRCC>&nbsp;
+<SYNC Start=6511680><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-최고구만<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6513750><P Class=KRCC>&nbsp;
+<SYNC Start=6513860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-확실히 움직여<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6516480><P Class=KRCC>&nbsp;
+<SYNC Start=6520680><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">아~<br>가...가버려요</font>
+<SYNC Start=6522900><P Class=KRCC>&nbsp;
+<SYNC Start=6531930><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6532890><P Class=KRCC>&nbsp;
+<SYNC Start=6548860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6549870><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">입에 물어<br>어이~</font>
+<SYNC Start=6552180><P Class=KRCC>&nbsp;
+<SYNC Start=6558200><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">확실히 움직여</font>
+<SYNC Start=6560000><P Class=KRCC>&nbsp;
+<SYNC Start=6567630><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6568540><P Class=KRCC>&nbsp;
+<SYNC Start=6569100><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">여기에도 있어</font>
+<SYNC Start=6571120><P Class=KRCC>&nbsp;
+<SYNC Start=6573040><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">들어올려봐</font>
+<SYNC Start=6574470><P Class=KRCC>&nbsp;
+<SYNC Start=6578800><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더</font>
+<SYNC Start=6580080><P Class=KRCC>&nbsp;
+<SYNC Start=6582830><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">일어서봐</font>
+<SYNC Start=6584090><P Class=KRCC>&nbsp;
+<SYNC Start=6585540><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">숙여봐</font>
+<SYNC Start=6586910><P Class=KRCC>&nbsp;
+<SYNC Start=6592790><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-굉장히 잘하자나 좀더 다리벌려<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6596260><P Class=KRCC>&nbsp;
+<SYNC Start=6596480><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">무릎 굽혀봐</font>
+<SYNC Start=6598060><P Class=KRCC>&nbsp;
+<SYNC Start=6600330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 벌려</font>
+<SYNC Start=6601940><P Class=KRCC>&nbsp;
+<SYNC Start=6603670><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래</font>
+<SYNC Start=6604790><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-물어봐~ 입으로 물어<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6607890><P Class=KRCC>&nbsp;
+<SYNC Start=6612790><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-깊숙히 쑤시니까 좋지?<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6615180><P Class=KRCC>&nbsp;
+<SYNC Start=6625180><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자지를 떼면 안되지</font>
+<SYNC Start=6627090><P Class=KRCC>&nbsp;
+<SYNC Start=6644020><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡" color="#ff0080">-싫어, 만지지마</font><br>-아직 더...
+<SYNC Start=6646690><P Class=KRCC>&nbsp;
+<SYNC Start=6659430><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6660310><P Class=KRCC>&nbsp;
+<SYNC Start=6660900><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-누구 맘대로 자지를 떼?<br></font><font color="#ff0080">-잘못했어요ㅜ.ㅜ</font>
+<SYNC Start=6663740><P Class=KRCC>&nbsp;
+<SYNC Start=6664070><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡" color="#ff0080">-죄송해요</font><br>-어이~ 여기로와
+<SYNC Start=6666120><P Class=KRCC>&nbsp;
+<SYNC Start=6683260><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">바로 들어간다</font>
+<SYNC Start=6685410><P Class=KRCC>&nbsp;
+<SYNC Start=6697270><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-혀내밀어<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6699280><P Class=KRCC>&nbsp;
+<SYNC Start=6702560><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">전부...</font>
+<SYNC Start=6703850><P Class=KRCC>&nbsp;
+<SYNC Start=6705600><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어때?</font>
+<SYNC Start=6706760><P Class=KRCC>&nbsp;
+<SYNC Start=6706920><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡" color="#ff0080" face="인어공주">-넘흐 맛있어요~<br></font><font color="#0080ff" face="좋은_얼음땡">-좋아</font>
+<SYNC Start=6709500><P Class=KRCC>&nbsp;
+<SYNC Start=6711560><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6712800><P Class=KRCC>&nbsp;
+<SYNC Start=6730740><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">안돼, 못견디겠어</font>
+<SYNC Start=6733460><P Class=KRCC>&nbsp;
+<SYNC Start=6747110><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">아직 안끝났어</font>
+<SYNC Start=6748940><P Class=KRCC>&nbsp;
+<SYNC Start=6749940><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좆물 많이 싸달라고 말해</font>
+<SYNC Start=6752010><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡" face="파리의아침">-좆물... 좆물 듬뿍 싸주세요~</font><br>-그거야
+<SYNC Start=6756380><P Class=KRCC>&nbsp;
+<SYNC Start=6756810><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">가득 뿌려달라고 해봐</font>
+<SYNC Start=6758460><P Class=KRCC>&nbsp;
+<SYNC Start=6758600><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-듬뿍 뿌려주세요<br></font><font color="#0080ff">-귀여운뇬, 아앙~♥</font>
+<SYNC Start=6762240><P Class=KRCC>&nbsp;
+<SYNC Start=6768030><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-원해?<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6770340><P Class=KRCC>&nbsp;
+<SYNC Start=6781700><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-봐봐~<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6783260><P Class=KRCC>&nbsp;
+<SYNC Start=6796770><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">깊숙한 곳까지 싸주겠어</font>
+<SYNC Start=6798540><P Class=KRCC>&nbsp;
+<SYNC Start=6803060><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">요부근은 어때?</font>
+<SYNC Start=6804810><P Class=KRCC>&nbsp;
+<SYNC Start=6804950><P Class=KRCC><font color="#ff0080" face="별사탕">끝내줘요</font>
+<SYNC Start=6806740><P Class=KRCC>&nbsp;
+<SYNC Start=6809590><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">안돼</font>
+<SYNC Start=6811370><P Class=KRCC>&nbsp;
+<SYNC Start=6827950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">언능...<br>말해봐</font>
+<SYNC Start=6830170><P Class=KRCC>&nbsp;
+<SYNC Start=6830750><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">존물 듬뿍싸달라고</font>
+<SYNC Start=6832450><P Class=KRCC>&nbsp;
+<SYNC Start=6833630><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡" face="파리의아침">-존물 듬뿍 싸주세요~</font><br><font color="#0080ff">-응</font>
+<SYNC Start=6837460><P Class=KRCC>&nbsp;
+<SYNC Start=6849120><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋아</font>
+<SYNC Start=6850520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">므흣해</font>
+<SYNC Start=6852160><P Class=KRCC>&nbsp;
+<SYNC Start=6854520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">자~<br>이거...</font>
+<SYNC Start=6856570><P Class=KRCC>&nbsp;
+<SYNC Start=6857730><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">빨아</font>
+<SYNC Start=6859150><P Class=KRCC>&nbsp;
+<SYNC Start=6879720><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">왜 소리 안나<br>어이~ 빨아</font>
+<SYNC Start=6882510><P Class=KRCC>&nbsp;
+<SYNC Start=6909080><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">응?<br>그렇단 말이지</font>
+<SYNC Start=6910810><P Class=KRCC>&nbsp;
+<SYNC Start=6918650><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-이제 대가리 빨아봐봐<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6920910><P Class=KRCC>&nbsp;
+<SYNC Start=6926620><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">듬뿍 싸줄테니까</font>
+<SYNC Start=6928560><P Class=KRCC>&nbsp;
+<SYNC Start=6940860><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그대로 쭉빨아</font>
+<SYNC Start=6942780><P Class=KRCC>&nbsp;
+<SYNC Start=6944520><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이봐</font>
+<SYNC Start=6945670><P Class=KRCC>&nbsp;
+<SYNC Start=6948060><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-충분치 않지?<br></font><font color="#ff0080">-네</font>
+<SYNC Start=6950320><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-좀더 해달라고...<br></font><font color="#ff0080" face="인어공주">-좀더... 좀만 더 해주세요</font>
+<SYNC Start=6953650><P Class=KRCC>&nbsp;
+<SYNC Start=6960240><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">어이~</font>
+<SYNC Start=6961200><P Class=KRCC>&nbsp;
+<SYNC Start=6963040><P Class=KRCC><font color="#ff0080" face="파리의아침">싸줘<br>가득 뿌려줘~</font>
+<SYNC Start=6965670><P Class=KRCC>&nbsp;
+<SYNC Start=6966200><P Class=KRCC><font color="#ff0080" face="파리의아침">싸줘요~</font>
+<SYNC Start=6967560><P Class=KRCC>&nbsp;
+<SYNC Start=6971420><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">마무리해줘야지</font>
+<SYNC Start=6973220><P Class=KRCC>&nbsp;
+<SYNC Start=6984160><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-이봐~ 좀더 남았자나<br></font><font color="#ff0080">-알아요</font>
+<SYNC Start=6986700><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">좀더...</font>
+<SYNC Start=6988430><P Class=KRCC>&nbsp;
+<SYNC Start=6988740><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좋았어</font>
+<SYNC Start=6990000><P Class=KRCC>&nbsp;
+<SYNC Start=6996500><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">혀 내밀어</font>
+<SYNC Start=6998050><P Class=KRCC>&nbsp;
+<SYNC Start=7015510><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">이야~</font>
+<SYNC Start=7016960><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-아주 색꼴틱한 표정이네<br></font><font color="#ff0080">-네</font>
+<SYNC Start=7019350><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">-여기봐<br></font><font color="#ff0080">-네</font>
+<SYNC Start=7021160><P Class=KRCC>&nbsp;
+<SYNC Start=7029600><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-안돼</font><br><font color="#0080ff" face="좋은_얼음땡">-어딘지 잘모르겠지?</font>
+<SYNC Start=7032210><P Class=KRCC>&nbsp;
+<SYNC Start=7033310><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">자~ 좀 주세요</font>
+<SYNC Start=7035600><P Class=KRCC>&nbsp;
+<SYNC Start=7038290><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">좀더 좆물달라고 해</font>
+<SYNC Start=7039940><P Class=KRCC><font color="#ff0080" face="인어공주">좀더...<br>존물 좀 싸주세요~</font>
+<SYNC Start=7043250><P Class=KRCC>&nbsp;
+<SYNC Start=7060050><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보지에...</font>
+<SYNC Start=7061340><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">보지에 달라고 해봐</font>
+<SYNC Start=7063310><P Class=KRCC>&nbsp;
+<SYNC Start=7064310><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">보지에...</font>
+<SYNC Start=7065740><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">-제 보지에 넣어주세요</font><br><font color="#0080ff" face="좋은_얼음땡">-안들려!</font>
+<SYNC Start=7069480><P Class=KRCC>&nbsp;
+<SYNC Start=7069640><P Class=KRCC><font color="#ff0080" face="별사탕">거긴 안돼요<br>싸요, 정말 쌀거같애</font>
+<SYNC Start=7074020><P Class=KRCC>&nbsp;
+<SYNC Start=7074320><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">안돼욧</font>
+<SYNC Start=7076140><P Class=KRCC>&nbsp;
+<SYNC Start=7083950><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">혀내밀어</font>
+<SYNC Start=7085440><P Class=KRCC>&nbsp;
+<SYNC Start=7087760><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">그래</font>
+<SYNC Start=7088960><P Class=KRCC>&nbsp;
+<SYNC Start=7099990><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">잘하네</font>
+<SYNC Start=7101230><P Class=KRCC>&nbsp;
+<SYNC Start=7125290><P Class=KRCC><font color="#ff0080" face="좋은_얼음땡">좀더 하고싶어~</font>
+<SYNC Start=7127360><P Class=KRCC>&nbsp;
+<SYNC Start=7137330><P Class=KRCC><font color="#0080ff" face="좋은_얼음땡">흥~<br>이상한 뇬이구만</font>
+<SYNC Start=7140520><P Class=KRCC>&nbsp;
+<SYNC Start=7144310><P Class=KRCC><font color="#00ff00" face="타이포_꾸미기 입체빗금">끝까지 즐감해 주셔서 감사합니다^^</font>
+<SYNC Start=7148030><P Class=KRCC>&nbsp;
+</BODY>
+</SAMI>
