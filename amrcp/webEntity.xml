@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebCheckEntity>		
+	<trialDay>15</trialDay>
+	<levelUpCode>AMRCP-0007</levelUpCode>
+	
+	<minCanServiceVersion>3.2.0</minCanServiceVersion>
+	
+	<urlRepository>https://amrcp.sourceforge.io/updates/</urlRepository>	
+	<urlVersionHistory>https://amrcp.sourceforge.io/amrcp2/check/versionHistory.html</urlVersionHistory>
+		
+	<urlSubTitleBase>https://amrcp.sourceforge.io/amrcp2/subtitle/</urlSubTitleBase>
+		
+	<urlDbsBase>https://amrcp.sourceforge.io/amrcp2/dbs/</urlDbsBase>
+	<versionDbs>3.3.4</versionDbs>
+	
+	<urlExtModuleBase>https://amrcp.sourceforge.io/amrcp2/extmodule/</urlExtModuleBase>
+	<versionOpenCV>4.0.1</versionOpenCV>
+	<versionChromeDriver>74.0.3729</versionChromeDriver>
+	<versionFFMpeg>4.1.1</versionFFMpeg>		
+</WebCheckEntity>
