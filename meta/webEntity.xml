@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<WebCheckEntity>		
+<WebEntity>		
 	<trialDay>15</trialDay>
-	<levelUpCode>AMRCP-0007</levelUpCode>
+	<unLockCode>AMRCP-0007</unLockCode>	
+	<reqMinAppVersion>3.2.0</reqMinAppVersion>
 	
-	<minCanServiceVersion>3.2.0</minCanServiceVersion>
+	<baseUrl>https://rcpsync.github.io/update/</baseUrl>
 	
-	<urlRepository>https://amrcp.sourceforge.io/updates/</urlRepository>	
-	<urlVersionHistory>https://amrcp.sourceforge.io/amrcp2/check/versionHistory.html</urlVersionHistory>
+	<urlRepository>https://rcpsync.github.io/update/repository/</urlRepository>		
+	<versionApp>3.3.4</versionApp>
+	
+	<urlDbsBase>https://rcpsync.github.io/update/dbs/</urlDbsBase>
+	<versionDbs>3.3.4</versionDbs>	
 		
-	<urlSubTitleBase>https://amrcp.sourceforge.io/amrcp2/subtitle/</urlSubTitleBase>
-		
-	<urlDbsBase>https://amrcp.sourceforge.io/amrcp2/dbs/</urlDbsBase>
-	<versionDbs>3.3.4</versionDbs>
+	<urlVersionHistory>https://rcpsync.github.io/update/meta/versionHistory.html</urlVersionHistory>		
+	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>			
 	
-	<urlExtModuleBase>https://amrcp.sourceforge.io/amrcp2/extmodule/</urlExtModuleBase>
-	<versionOpenCV>4.0.1</versionOpenCV>
-	<versionChromeDriver>74.0.3729</versionChromeDriver>
-	<versionFFMpeg>4.1.1</versionFFMpeg>		
-</WebCheckEntity>
+	<urlFFMpeg>https://rcpsync.github.io/update/ext/ffmpeg.zip</urlFFMpeg>
+	<versionFFMpeg>4.1.1</versionFFMpeg>			
+	
+	<urlOpenCV>https://rcpsync.github.io/update/ext/opencv.zip</urlOpenCV>				
+	<versionOpenCV>4.0.1</versionOpenCV>	
+</WebEntity>
