@@ -21,6 +21,6 @@
 	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>
 
 	<urlWebBase>http://amrcp.epizy.com</urlWebBase>
-	<urlRpcService>http://amrcp.epizy.com/web/rpcService.php</urlRpcService>
+	<urlRpcService>https://amrcp.sourceforge.io/web/rpcService.php</urlRpcService>
 	
 </WebEntity>
