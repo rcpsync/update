@@ -6,7 +6,7 @@
 	<urlUpdateBase>https://rcpsync.github.io/update</urlUpdateBase>
 
 	<urlRepository>repository</urlRepository>
-	<versionApp>3.5.4</versionApp>
+	<versionApp>3.5.5</versionApp>
 
 	<urlDbsBase>dbs</urlDbsBase>
 	<versionDbs>3.5.5</versionDbs>
@@ -20,7 +20,7 @@
 	<urlVersionHistory>https://rcpsync.github.io/update/meta/versionHistory.html</urlVersionHistory>
 	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>
 
-	<urlWebBase>http://amrcp.epizy.com</urlWebBase>
+	<urlWebBase>https://amrcp.sourceforge.io/web/g5/index.php?cache=new</urlWebBase>
 	<urlRpcService>https://amrcp.sourceforge.io/web/rpcService.php</urlRpcService>
 	
 </WebEntity>
