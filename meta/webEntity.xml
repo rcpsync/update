@@ -20,7 +20,7 @@
 	<urlVersionHistory>https://rcpsync.github.io/update/meta/versionHistory.html</urlVersionHistory>
 	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>
 
-	<urlWebBase>https://amrcp.sourceforge.io/web/g5/index.php?cache=new</urlWebBase>
+	<urlWebBase>http://amrcpblog.blogspot.com/</urlWebBase>
 	<urlRpcService>https://amrcp.sourceforge.io/web/rpcService.php</urlRpcService>
 	
 </WebEntity>
