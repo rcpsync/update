@@ -6,10 +6,10 @@
 	<urlUpdateBase>https://rcpsync.github.io/update</urlUpdateBase>
 
 	<urlRepository>repository</urlRepository>
-	<versionApp>3.7.0</versionApp>
+	<versionApp>3.7.3</versionApp>
 
 	<urlDbsBase>dbs</urlDbsBase>
-	<versionDbs>3.5.5</versionDbs>
+	<versionDbs>3.7.3</versionDbs>
 
 	<urlFFMpeg>ext/ffmpeg.zip</urlFFMpeg>
 	<versionFFMpeg>4.1.1</versionFFMpeg>
