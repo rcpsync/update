@@ -20,7 +20,7 @@
 	<urlVersionHistory>https://rcpsync.github.io/update/meta/versionHistory.html</urlVersionHistory>
 	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>
 
-	<urlWebBase>http://amrcp.xyz/</urlWebBase>
-	<urlRpcService>http://amrcp.xyz/web/rpcService.php</urlRpcService>
+	<urlWebBase>https://amrcp.xyz/</urlWebBase>
+	<urlRpcService>https://amrcp.xyz/web/rpcService.php</urlRpcService>
 	
 </WebEntity>
