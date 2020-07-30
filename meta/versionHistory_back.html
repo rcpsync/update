@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+
+<title>AMRCP Version History</title>
+<style>
+body {
+	font-size: 12px;
+	font-family: "돋음", Dotum, "굴림", Gulim, AppleGothic, Sans-serif;
+	color: #000;
+	margin: 0;
+	background-color: #FFF;
+}
+
+span.redBold {
+	color: #FF0000;
+	text-align: left;
+	font: bold 12px/1.5 Helvetica, App Verdana, sans-serif;
+}
+
+span.blueBold {
+	color: #0000FF;
+	text-align: left;
+	font: bold 12px/1.5 Helvetica, App Verdana, sans-serif;
+}
+
+span.appVersion {
+	color: #5DADE2;
+	text-align: left;
+	font: bold 12px/1.5 Helvetica, App Verdana, sans-serif;
+}
+
+span.dbVersion {
+	color: #9B59B6;
+	text-align: left;
+	font: bold 12px/1.5 Helvetica, App Verdana, sans-serif;
+}
+</style>
+</head>
+<body>
+	<div id="versionHistory">
+
+<pre>
+<span class="dbVersion">DB Ver 5.0.5</span>
+1. 2020.01.09 기준 DB 업데이트
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 5.0.5</span>
+1. 코어 모듈 대폭 업데이트로 인하여, <span class="redBold">Full 버전을 다운 받아 설치해주세요.</span>
+
+2. (중요) 영화모듈 신규 파일 자동 싱크될때, xml 업데이트 오류 조치
+   - (영화모듈) 만약 신규 파일 자동으로 싱크되어진 경우, 신규 파일 로딩시 자동으로 싱크정보가 로딩되지 않습니다.
+   - 폴더 선택후, 자동 싱크기능 또는 개별 수동 싱크기능을 이용하시면 됩니다. 
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 5.0.4</span>
+1. 2019.12.29 기준 DB 업데이트
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 5.0.3</span>
+1. 중요 코어 모듈 업그레이드 (만약 업데이트이후 오작동이 있을 경우, Full 버전으로 설치해주세요.)
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 5.0.2</span>
+1. 2019.12.11 기준 DB 업데이트
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 5.0.1</span>
+1. 2019.11.28 기준 DB 업데이트
+2. Ama 품번 확장
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 4.0.9</span>
+1. 영화를 파일명순(기본)으로 디스플레이시, 갤러리에서 타이틀의 년도 순서 변경
+   - 2019 어벤져스 -> 어벤져스(2019)
+2. 트라이얼 인증 코드 발급 오류 Fix   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 4.0.8</span>
+1. MyTag 클릭시, 미디어 안나오는 문제 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 4.0.7</span>
+1. 동영상 확장자 지원 기능 확대
+   - rm, tp
+2. 미디어 유형에 UnCensored Leaked 추가
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 4.0.6</span>
+1. 2019.11.10 기준 DB 업데이트        
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 4.0.5</span>
+1. DB 최적화시 커버 사이즈의 비율이 깨지는 문제 Fix
+   - 커버 사이즈가 80,000byte를 넘어가는 대상에 대하여 이미지 크기를 조정하면서 초기 버전부터 발생된 문제
+(조치)
+  Step1. 커버 비율이 깨진 미디어를 다수로 선택한후, 커버 리셋을 하세요. 
+  Step2. DB 오류보정및 최적화 기능에서 최신 미디어로 갱신을 해주시면 일괄 커버가 업데이트 됩니다.
+               단, 커버를 수동으로 등록한 경우는 업데이트 되지 않습니다.
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 4.0.4</span>
+1. 2019.10.16 기준 DB 업데이트        
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 4.0.3</span>
+1. 테이블 모드에 라벨 항목 추가 (수정, 조회)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.9.9</span>
+1. 미디어 삭제시, 배우의 작품수 업데이트 오류 문제 Fix
+   - 3.9.7 배우탭 로딩 속도 개선시 발생된 문제
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.9.8</span>
+1. 2019.10.02 기준 DB 업데이트        
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.9.7</span>
+1. 배우탭 로딩 속도 개선
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.9.3</span>
+1. Web 포트 수동 변경 적용
+2. 만화,성인2 (이미지 갤러리) 드래그앤드롭 기능 1차 적용
+</pre>
+	
+<pre>
+<span class="dbVersion">DB Ver 3.9.3</span>
+1. 2019.09.17 기준 DB 업데이트        
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.9.2</span>
+1. 영화 개봉일자 싱크 개선 (재개봉이 된 영화의 경우, 최초로 개봉한 일자를 가져오도록 개선)
+2. (Web)나의 DB검색시 글자 가려짐 현상 Fix
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.9.2</span>
+1. 2019.09.01 기준 DB 업데이트        
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.9.1</span>
+1. VOB 영상 파일 지원 추가
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.9.1</span>
+1. 2019.08.13 기준 DB 업데이트        
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.9.0</span>
+1. 2019.07.20 기준 DB 업데이트        
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.8.9</span>
+1. 일부 배우의 이미지가 비율 무시되서 찐빵형태로 나오는 문제 Fix
+2. 커버 썸네일 생성 퀄리티 개선        
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.8.8</span>
+1. 2019.07.14 기준 DB 업데이트        
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.8.7</span>
+1. 배우탭 페이징 처리 (로딩 속도 향상)
+   - 기본 보기 1000명 (추후 환경설정에서 셑팅가능하도록 변경 예정)
+  * 긴급 적용으로 문제시 피드백 주세요.      
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.8.3</span>
+1. TV모듈에서 싱크시, 드라마 시즌들중 일부가 안나오던 문제 Fix   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.8.2</span>
+1. 파일 이름에 #이 들어갈 경우, xml 파일 인식 문제점 Fix
+2. 조회모드, 오프라인상태의 폴더 조회시 동영상 썸네일이 미싱크로 나오는 문제 Fix
+3. 모듈 버튼 선택시 조회/동기화 버튼 선택이 초기화 되는 문제 Fix
+4. 커버 크게 보기 보완 - 로컬 이미지가 있을 경우 우선하여 보여줌
+5. Web 통합 검색시 화면 겹치는 부분 및 갤러리에서 재생시간 단위 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.8.0</span>
+1. 품번 식별 보완
+2. 파일명과 동일한 로컬 이미지 파일로 부터 커버 생성 기능 누락 보완 
+3. 배우탭 오류 Fix (초기 배우 이미지 지정 오류로 인한)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.7.9</span>
+1. 최적화 진행중 발생한 오류 Fix (미디어 싱크중 멈춤현상)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.7.8</span>
+1. 미디어 싱크, 동영상 썸네일 집계 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.7.7</span>
+1. 싱크 속도, 폴더 로딩속도 향상 및 최적화
+2. <span class="blueBold">신규 파일의 경우 미디어 정보 자동 싱크 (폴더 선택시)</span>
+3. 오류 수정
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.7.3</span>
+1. 최신 DB 업데이트 및 품번 확장
+   - West 메이저 작품 싱크 가능      
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.7.2</span>
+1. <span class="blueBold">서양 메이저 작품 싱크 기능 추가</span>
+   - 스튜디오 :RealityK???, Brazz???, MetartNe???, ddfnet???;
+2. 배우 업데이트 기능 개선   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.6.8</span>
+1. 3.6.7 오류 패치
+   - 동기화 모드 관련     
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.6.7</span>
+1. 영상 메타 정보, 파일 이름으로 부터 정보 추출 기능 확장 (배우)
+   - 서양미디어의 경우 배우 식별 추가  
+     (파일의 경우에는 : ABCD.18.01.03.ABCD 형식)
+   * 배우이름이 올바르지 못한 케이스에 대해서는 피드백 필요(타이틀 정보와 함께)
+   - 타이틀 정보 디스플레이       
+2. 파일 이름에 날짜형태가 있는 경우, 릴리즈 날짜로 적용
+   - 미싱크되거나 싱크되었어도 릴리즈 날짜 정보가 없는 경우만 대상임     
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.6.4</span>
+<span class="redBold">업데이트 이후, 메뉴->DB초기화를 권고합니다.(수정한 정보가 많은 경우는 Full 버전설치를 하세요.)</span>
+<span class="redBold">업데이트만 할경우 실행 안됩니다. 메타 정보 관리 확장에 따른점 양해 바랍니다.</span>
+1. 영상 메타 정보 추출 기능 확장
+   - 서양파일의 경우 릴리즈날짜, 메이커 식별
+   - 동양파일의 경우 릴리즈날짜 식별
+2. 파일 이름을 통한 메타 정보(메이커, 릴리즈 날짜) 추출 기능 확장
+   - 서양 파일 ABCD.18.01.03.ABCD 형식
+3. 품번 추출 기능 보완
+4. 재싱시간 추출 정보 초단위로 세분화
+5. 동영상 썸네일 생성관련 일부 변경
+5. 가상폴더 최적화 및 오류 Fix   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.6.2</span>
+1. 핫키 기능 확장
+   - Delete(파일 삭제), Ctrl + X(잘라내기), Ctrl + V(붙여넣기)
+2. 파일 특수 문자 오류 처리시 발생한 다른 오류 Fix
+   - % 포함 파일명 관련          
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.5.9</span>
+1. 3.5.1 버전에서 발생한 지속적인 오류 Fix (Final)
+2. 폴더 관리에서, 폴더이름타입을 배우로 지정했을때 속도 개선
+3. 이름은 같고, 확장자만 다른 영상 파일을 삭제할때 함께 삭제되는 오류 Fix
+4. 파일에 예외적인 특수문자가이 포함되어있을때 간혹 발생하는 오류 Fix            
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.5.8</span>
+1. 3.5.1 버전 오류 Fix
+   - 배우 탭 개선 버전에서, 배우탭을 클릭시 간헐적으로 발생하는 오류 Fix
+2. 3.5.7 배포 버전에서, 3.5.1 버전 오류 미 조치된사항 조치         
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.5.6</span>
+1. 폴더 관리 기능 확장
+   - 싱크할수 없는 서양/한국/중국등의 Adult 미디어에 대한 관리 편의 기능 개선
+   - 폴더별 세부 설정(국가등)에 따라 포함된 영상들이 자동 설정(동기화) 됩니다.
+   - 만약 폴더 이름 타입을 배우로 설정한 경우, 미디어의 배우이름이 폴더 이름 자동 설정됨
+     (1명만 가능)
+   - 기타
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.5.5</span>
+1. Home Tab에서 연결되는 AMRCP 홈페이지 변경 (주소 변경)
+2. 폴더 관리 기능 확장을 위한 기능 추가 (미완료)
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.5.5</span>
+1. DB 업데이트
+   - 배우 정보 확장, 카테고리 조정
+2. <span class="redBold">업데이트메뉴->데이타 오류보정 및 최적화를 꼭 실행하세요.</span>
+   - 원활한 DB업데이트를 위해 전체적으로 최적화가 되면서, 상당 부분 변경됨
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.5.4</span>
+1. 배우탭이 작아질경우 스크롤이 가려지는 현상 개선 	   
+2. 배우이미지로 구글 검색 오류 Fix
+3. 배우탭에서 배우 이미지 크기 변경을 환경설정으로 이동
+4. 배우탭에서 Refresh 문제 Fix
+5. 배우보기 테이블 모드에서 일본어 이름 수정/조회 기능 추가
+5. DB의 배우 이름 교정기능에서 한문자열로 되어있는 배우의 한글,일본이름이 잘못 들어가는 오류 Fix
+   - 한글 이름이 나가세 아아이로 들어간 배우의 경우 수정 필요   
+6. 배우 이미지 교체 기능 개선
+   - 배우 갤러리에서 배우 선택하여, 변경 가능 (임의의 다수 미디어 파일에서 얼굴 인식적용)   
+6. Web에서 나의 자료 검색 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.5.3</span>
+<span class="blueBold">(필수 업데이트 사항)</span>
+1. 3.5.1 오류 Fix(프로그램 첫 실행시 로딩 지연 문제) 	   
+2. 배우탭 	로딩 속도 1차 개선
+3. 배우 구분 Tab의 위치 변경 (아래 -> 위)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.5.1</span>
+1. 배우 모듈 개선
+   - 관심, 동양, 서양, 미지정으로 세분화
+   - 미지정의 경우, 배우의 국적이 지정되지 않은 경우임
+   <span class="blueBold">배우탭화면에서 하단탭을 클릭하여 상세 조회할수 있으며, 관심배우를 활용을 추천함</span>
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.5.0</span>
+1. 음악 모듈 오류 조치
+   - 음악 모듈 파일 리스트 자체가 나오지 않는 문제
+   (음악 모듈은 라이센스 없이 사용 가능합니다.) 
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.4.9</span>
+1. 품번 확장
+   - Yau?? 메이커 추가
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.4.9</span>
+1. 미디어 정보창에서 배우 이름 순서가 바뀌어 나오는 문제 개선
+<span class="redBold">2. 중요 : 품번.확장자(GCF-009.mp4)와 같은 형식의 품번 인식 오류 문제 패치</span> 
+</pre>
+
+<pre>
+<span class="dbVersion">App/DB Ver 3.4.8</span>
+1. DB 업데이트
+   - 배우 정보 확장 및 한글 이름 적용
+   - 배우 영문 이름 표기 형식 통일 (이름 성)
+   - 카테고리(분류) 한글 적용 및 통합
+2. <span class="redBold">업데이트메뉴->데이타 오류보정 및 최적화를 꼭 실행하세요.</span>
+   - 카테고리 한글/영문 표기 설정 적용
+   - 배우이름 한글/영문 표기 설정 적용
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.4.7</span>
+1. DB Update
+   - Major 누락 품번등 현재일 기준 업데이트
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.4.6</span>
+1. 폴더의 파일 로딩 문제 개선 
+   - 3.4.5 버전에서 개선로직 적용하면서 발생된 문제
+2. 파일 드래그앤 드롭시 문제가 없음에도 Alert창 뜨는 문제 개선 
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.4.5</span>
+1. 통합 검색 페이지 오류 수정
+2. 품번 추출 로직 보완
+3. 폴더 관리화면 수정
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.4.5</span>
+1. 2019.05.05 기준 업데이트
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.4.4</span>
+1. 업데이트 안정화 적용
+   - 안정성, 신뢰성이 보장되는 서버 적용
+   - 향후 접속 장애 현상 없음        
+2. 구버전 인증 코드 지원 중지 
+   - 기존에 메일로 발송된 신규 인증 코드 사용
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.4.2</span>
+1. 배우 이미지 변경 기능 개선
+2. 즐겨찾기 기능 개선               
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.4.1</span>
+1. 강제 싱크 처리된 미디어의 로직 개선
+   - 불필요한 품번 체크를 하지 않음
+   - 자동싱크시 싱크대상에서 제외 처리 (누락된 기능 추가)
+2. 웹 기능 보완            
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.4.0</span>
+1. 웹에서 배우별 영상 보기 기능 추가
+2. 배우탭에서 Full Screen으로 배우별 영상 조회 기능 추가           
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.3.9</span>
+1. 웹에서 폴더별 영상 보기 기능 추가           
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.3.8</span>
+1. 라이브뷰 기능 보완 및 안정화
+2. 웹 검색 기능 보완           
+3. 기타 오류 보정           
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.3.7</span>
+1. 정렬 오류 패치
+2. 라이브 뷰 및 Web 검색 결과  개선                      
+</pre>
+
+<pre>
+<span class="dbVersion">App/DB Ver 3.3.5</span>
+1. DB 업데이트 (2019.04.12)
+2. <span class="redBold">App는 Full 버전 설치로 진행해주세요. </span>
+   - 단, 기존 파일 하나만 신규 버전 폴더에 복사하시면 그대로 사용 가능합니다.
+     AmRcp/dbs/amrcpdb.db (이 파일만 동일한 위치에 복사 시키시면 됩니다.)
+* 더 나은 기능과 확장성을 위하여 큰폭의 변경 사항으로 업데이트 지원에 문제가 있는점
+   양해 부탁드리겠습니다.     
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.3.4</span>
+1. Web기능 개선
+2. 해당 버전 이후, 업데이트 되어지는 파일 크기 최적화      
+3. 최적화등
+* 해당 버전은 전체적인 구조가 크게 변경이 되었기에,업데이트 될 경우 불필요하게 프로그램의
+   용량이 증가될수 있습니다.                
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.3.3</span>
+1. 썸네일 생성 기능 개선
+   - 영상에서 얼굴 인식 범위 개선
+   - 예외적으로 썸네일 생성방식 #1,#2에서 실패하는 영상의 경우, #3.None방식 적용으로 해결 가능  	      
+2. 중요 확장 모듈 업데이트 로직 적용
+   - 기존방식에서는 확장 모듈의 업데이트 불가하였으나, 현 버전 부터 확장 모듈도 업데이트 적용
+3. IMDB를 통한 영화 정보 싱크 확장 적용
+   - 국내에 등록이 안된 영화는 싱크가 불가능했으나, 현 버전부터 IMDB를 통해 싱크 가능               
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.3.1</span>
+1. 파일 로딩 오류 Fix
+   - 분할 영상중 6번이상의 분할 영상 인식 오류 Fix 	                 
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.3.0</span>
+1. 얼굴 인식시 추출 이미지 범위 개선 및 배우 이미지 추출 다이얼로그 개선
+2. 썸네일 성능 및 화질 개선, 오류 Fix 	                 
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.2.9</span>
+1. 배우 이미지 교체시 얼굴 인식 정확도 대폭 향상         
+2. 썸네일 기능 개선 (기존방식대비 속도 차이가 발생하니 여유를 갖고 실행하세요^^)
+   - 생성 방식  1) 얼굴식별(남/녀)이 되는 경우 적용
+	  생성 방식  2) 여자 얼굴 식별이 되는 경우 우선 적용
+	  생성 방식  3) 기존 방식
+
+<span class="redBold">32비트 사용자는 Full버전으로 설치하세요</span> 	                 
+</pre>
+
+<pre>
+<span class="dbVersion">App/DB Ver 3.2.8</span>
+1. 엑셀 리포팅 성능/기능 개선
+   - 갤러리 화면에서 데이타를 출력할수 있는 기능 추가 (툴바에서 엑셀 아이콘)
+   - 배우/스튜디오/감독/폴더 선택에 따라 조회되는 미디어 내용을 엑셀로 출력 가능
+   * 이미지가 포함된 출력은 10,000건이하만 가능           
+2. 2019.03.27 기준 DB 업데이트 및 누락된 Maker 추가   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.2.7</span>
+1. 폴더탭 성능 개선 (폴더 로딩, 펼침 속도)         
+2. 오프라인 모드 개선, 폴더 추가 UI 변경
+   - 오프라인 폴더의 경우 하위 폴더가 디스플레이 되지 않던 부분 개선
+3.  데이타 오류 보정및 최적화 개선
+4. 주요 기반 모듈 버전업
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.2.6</span>
+1. 엑셀 리포팅 기능 추가 (갤러리화면등에서 필요에 따라 확대 예정) 
+   - 미싱크된 파일목록을 피드백시 및 개인 용도에 따라 사용 가능  
+2. 오류 수정 및 최적화 진행중      
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.2.5</span>
+1. 폴더 로딩 속도 개선 (모듈 변경시 또는 처음 폴더 로딩시 등)
+2. 이미지에 배우이름 출력 개선 (미디어 정보 화면)
+3. 오류 수정 및 최적화 진행중      
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.2.4</span>
+1. 품번 식별 로직 보완
+2. 최적화 진행중 (1차)
+   - 해당 사항은 성능과 편의사항에 영향을 주는 사항으로 지속적으로 업데이트 예정임   
+</pre>
+
+<pre>
+<span class="appVersion">App/DB Ver 3.2.3</span>
+[App]
+	1. 오류 개선 조치
+	   - 폴더명 변경 등 
+	2. 품번 식별 로직 보완
+	3. m2ts 지원
+[DB]
+	1차 보완
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.2.2</span>
+1. 데이타 오류 보정 및 최적화 기능 보완
+   - 드라이브가 오프라인일 경우에 대한 처리
+2. 배우 이미지 수정 시 얼굴 인식 적용 기능 추가
+3. 유사 영상 검색 테스트 버전 추가
+</pre>
+
+<pre>
+<span class="appVersion">App/DB Ver 3.2.0</span>
+	<span class="redBold">업데이트 지원안됩니다. (신규로 설치하여, 기존 폴더 추가후 재로딩하면 됩니다.)</span>
+	<span class="blueBold">업데이트 메뉴에 신규 메뉴(데이타 오류보정 및 최적화)가 추가되었습니다.</span>
+	<span class="blueBold">자세한 사항은 <a
+				href="https://amrcp.sourceforge.io/web/g5/bbs/board.php?bo_table=license&wr_id=15"
+				target='_blank'>해당 링크</a>를 참고하세요.</span>
+	1. (중요) 썸네일 및 커버 크기 생성 오류 수정
+	2. 원 미디어의 러닝타임 및 라벨정보 싱크 기능 추가
+	3. 썸네일 생성시 동영상의 재생길이 정보 추출 (원미디어의 러닝타임과 비교 가능)
+	4. 재생 시간순으로 정렬 기능 추가
+	5. 영화 싱크 정보 개선
+	6. 단독 작품과 단체 작품으로 그룹핑할수 있는 기능 추가
+	7. 그외 오류 수정 및 최적화
+	
+	DB 확장, 충돌 품번 조치, 품번 식별 로직 개선 
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.1.5</span>
+1. (중요) 3.1.4 버전으로 업그레이드한 사용자의 경우 필히 업데이트 필요
+   - 배우명과 미디어정보 일치 및 배우정보 업데이트
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.1.4</span>
+1. 2019.02.27 기준 Update
+2. 배우 정보 업데이트 (이미지 정보 보정 및 데이타 확장)
+3. 품번 확장 및 커버 보정 등
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.1.4</span>
+1. (중요) 가상폴더 전환시 발생되는 성능 문제 개선
+   - 3.1.3에서 Fix된 부분이 일부 미반영되어 발생된 문제로서 해결조치함
+2. 무비정보항목에 라벨(시리즈) 추가
+   - 미디어 싱크시 라벨(시리즈)값도 자동으로 업데이트될 수 있도록 DB 정보는 보정 예정
+   - 사용자가 수정하여 활용 가능   
+3. 중요 라이브러리 최신으로 업데이트   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.1.3</span>
+1. (중요) 카테고리 탭 또는 정보수정에서 분류 변경시 성능 문제 개선
+   - 무한루프라고 여겨질 정도로 로딩이 지연되는 문제를 개선 (1초정도)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.1.2</span>
+1. 갤러리 화면에서 CD번호가 5를 넘어가도 디스플레이 될수 있도록 개선
+2. 중복 파일 체크시, Cut/Sample 파일은 품번이 같아도 중복으로 나오지 않도록 개선
+3. 파일이름 자동 변경에서 사용되는 규칙 추가 
+   - [배우] 파트번호 
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.1.2</span>
+1. 2019.02.02 기준 Update
+2. srt,smi 업데이트
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.1.1</span>
+1. Uncen 품번 확장
+2. Uncen 커버 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.1.0</span>
+1. 품번 로직 개선
+2. Trial 인증 코드 받기 Fix
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.1.0</span>
+1. 누락 품번 적용 (SIRO외 17 Studio Ama..)
+2. FC2 품번 확장 (2019 Ver)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.0.9</span>
+VPN 업데이트
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.0.9</span>
+1. 2019.01.12 기준 Update
+2. 품번 확장 (CaribPR)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.0.8</span>
+3.0.7 오류 패치
+ - 중복 파일 관리 기능 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.0.7</span>
+1. 가상 폴더에서 대량 데이타 로딩시 오류 발생 패치
+  - 대량 데이타 로딩의 로직 수정 및 속도 개선
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.0.7</span>
+1. 2018.12.09 기준 Update
+2. 품번류 확장 : 253KAKU, 300NTK, 302GEBB, 302GEGR, 302GRQR
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.0.6</span>
+1. 2018.11.14 기준 Update
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.0.5</span>
+1. 자막 싱크 핫키 적용(F9)
+2. 정보 수정창이  오픈되는 위치 수정(오류 정정)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.0.3</span>
+1. 분할 영상의 파일 리스트 보기 화면 개선
+2. 미디어의 링크 기능 개선
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 3.0.3</span>
+1. 2018.10.20 기준 Update
+2. Cover 오류 업데이트
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.0.2</span>
+<span class="redBold">3.0.0 버전을 신규 설치한 경우만 업데이트 가능하며, 그렇지 않을 경우 신규 설치하셔야 합니다.</span>
+1. 분할된 영상이 묶여 있는 경우, 파일 리스트 보여주는 화면 개선
+2. VPN 기능 추가 (해당 프로그램 실행시, 자동 활성화)   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 3.0.1</span>
+<span class="redBold">3.0.0 버전을 신규 설치한 경우만 업데이트 가능하며, 그렇지 않을 경우 신규 설치하셔야 합니다.</span>
+1. 구버전 데이타 가져오기 오류 수정 및 즐겨찾기 가져오기 추가   
+</pre>
+
+<pre>
+<span class="redBold">App Ver 3.0.0</span>
+<span class="redBold">업데이트 지원안됩니다. (신규로 설치하여, 기존 폴더 추가후 재로딩하면 됩니다.)</span>
+1. 분할된 영상(CD1,CD2..)을 하나로 묶어서 볼수 있는 기능 추가 (1차 버전)
+   - Full, Smaple, Cut, P01(CD1),P02(CD2)...형태로서 자동 지정 및 선택 가능   
+   - 기본값 : TV/드라마 모듈은 기본적으로 묶어서 보여지며, 그 외는 개별로 보임
+                     변경된 값은 위와 같은 모듈별로 개별 적용됨                     
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.8.2</span>
+1. 나의 영상 DB 통합 검색 기능 추가
+   - 메인메뉴의 검색 -> 나의 DB 검색
+2. 갤러리 창이 일정크기 이하로 줄어들때, 일부 미디어가 보이지 않던 문제 개선   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.8.1</span>
+1. 데이타의 결과가 1페이징(기본설정값:500건)을 넘어갈때, 정렬문제 오류 개선
+2. 영화, 그외 모듈에 따라 이미지 크기 별도 적용
+   - 영화의 커버 사이즈 비율과 그외의 이미지 사이즈 비율이 다름
+   - 모듈 이미지 크기를 별도로 지정(저장)하여, 추가적인 변경 작업없이 모듈이동에 따라
+         최적화된 사이즈로 볼수 있도록 개선  
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.8.0</span>
+1. 국가 폴더로 이동 기능 추가
+2. 카테고리 폴더로 이동시 일부 카데고리명(예:멜로/로맨스)에 따른 폴더경로 오류 Fix        
+3. 파일날짜 정렬 오류 Fix (2.7.5 버전에서 발생한 에러)
+4. 미디어 정보 탭에서 파일명이 모두 보이도록 UI 조정
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.9</span>
+1. 수동 싱크에서 영화 검색시 AutoComplete(자동완성) 기능 적용
+2. 수동 싱크시 검색 결과가 없을 경우에 대한 메세지 표시         
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.8</span>
+1. 중복 파일 관리 개선 Final
+   - 파일 Hash값(Unique)을 통한 비교
+   * 중복 의심 파일에 대해서 파일 해쉬값을 추출함
+     Hash값은 파일 정보 탭에서 MD5항목으로 Display됨 
+
+* 추후 모든 파일에 대해서 Hash값을 추출하여, 싱크되지 않는 파일 및 
+   품번이 없는 파일의 정확한 정보 싱크를 위해 사용되어질 예정         
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 2.7.8</span>
+1. 2018.09.29 기준 Update
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.7</span>
+1. 자동으로 파일이동시 이미 존재하는 파일이 있을 경우 알림 표시
+   - 배우, 카테고리, 스튜디오 폴도로 자동 이동시    
+2. 중복 파일 관리 기능 1차 개선
+   - 파트번호가 중복되는 파일도 검출되도록 기능 추가   
+   
+   * 분할된 파일중 CD1, CD2.., A,B..의 형태로 끝나지 않는 파일명의 경우도 검출됨
+     - 파일명을 확인하여 CD1, CD2 또는 A, B의 형태로 파일명 변경필요   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.6</span>
+1. Google 검색 기능 개선
+   - 성인인증 절차 없이 검색되도록 개선
+2. 동영상/파일 자동 찾기 Tab화면 추가 추가
+   - 보유하지 않은 미디어를 클릭하였을 경우 자동 활성화 (UI만 구성-준비중)
+3. 정렬 문제 개선
+   - 대소문자 구분없이 정렬되도록 수정 (파일명, 품번, 배우, 스튜디오)      
+4. 강제 싱크 처리시 Link필드 오류 현상 수정         
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.5</span>
+1. Virtual(Wish/Cart) 리스트 기능 추가 (1차 버전)
+   - 보유하지 않는 미디어 중 관심 미디어 별도 관리 기능
+   - 배우별등 전체 작품보기시 보유하지 않은 작품중, 원하는 작품을 별도의 공간에 담을 수 있는 기능
+   
+   * 전체 검색 기능에서 관심작품을 담을수 있는 기능은 추후 제공 예정 
+   * 영화 모듈은 추후 제공 예정
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.3</span>
+1. 미디어 정보 화면 개선
+   - 미디어의 링크 기능 활성화 (수정 및 참고 페이지로 활용 가능)
+   - 출연배우 항목 부문 개선
+2. 갤러리 화면 상단 부분 개선
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.2</span>
+1. 툴바 UI 개선
+2. 미디어 정보 일괄 수정 핫키(F4) 적용   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.1</span>
+1. 오류 Fix     
+2. 확장성을 고려한 UI 개선및 변경 (카테고리, 스튜디오, 일자별 신작 화면)   
+</pre>
+
+<pre>
+<span class="dbVersion">DB Ver 2.7.1</span>
+1. 2018.09.09 기준 Update
+2. Cover 오류 정보 1차 보정
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.7.0</span>
+1. webm 확장자의 동영상 관리 기능 추가
+     
+2. 배우 정보 화면 개선
+   - 배우정보탭이 표시되는 위치를 미디어 정보 표시영역으로 이동 (배우 갤러리 화면 확보)     
+   - 배우정보탭의 UI 개선 (가로/세로에 따라 자동 조정되도록 변경)
+   - Reference Link 수정 기능 추가
+   * 사용자 편의에 따라 창을 도킹하여 원하는 위치로 이동하여 사용 가능   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.6.9</span>
+1. 배우 이미지 교체 기능 추가
+   - 로컬 파일로 부터 이미지 교체
+   - Web URL로 부터 이미지 교체  
+2. 미디어 정보 화면(영화/배우/파일정보) 개선
+   - 가로로 보여지는 미디어 정보 화면을 세로로 변환시에도     
+     창의 크기에 알맞게 표시되도록 개선   
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.6.8</span>
+1. 2.6.7 Bug fix
+2. 환경 설정 UI 개선
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.6.7</span>
+1. 화면 구성 저장 기능 적용
+  - 프로그램 재시작시, 가장 마지막에 변경된 화면으로 로딩할수 있는 기능 추가
+    메뉴 -> Window -> Save Perspective 기능 활용시 저장 기능 활성화
+  
+   * 저장된 화면 로딩에 문제가 발생하거나, 매번 초기화된 화면으로 로딩을 원할 경우는
+    메뉴->Window -> Reset Perspective 기능을 이용하면 됨
+
+    * 프로그램이 업데이트 될 경우, 안전한 기능 활용을 위해 초기화 기능으로 복원됨
+     (향후 보완/개선 예정임)
+2. Show View 기능 추가
+   - Message를 보여주는 화면의 경우, 불필요할경우 제거 가능하며, 필요할 경우에
+     Show View기능을 통해 화면 표시 가능
+
+* 해당 버전은 프레임웍 자체가 한단계 높은 버전으로 업그레이드 되어 전체적인 업데이트가 이루어질 것입니다. 
+   다소 시간이 소요되며, 깔끔한 설치를 원할경우는 Full 버전을 받아 이용하시기 바랍니다. 
+ (업데이트시 Old 버전의 파일은 지워지지 않습니다.)
+- 업데이트와 Full버전 설치에 있어서, 기능상 성능상 차이는 전혀 없습니다.
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.6.5</span>
+1. 커버 변경 핫키(F6) 적용
+2. 미디어 파일 그룹핑을 해제하는 항목 추가
+   - 그룹핑에 상관없이, 날짜, 파일이름등의 정렬 기능으로 미디어를 빠르게 찾고자 할경우
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.6.4</span>
+1. 미디어 정보 수정시, 배우 팝업화면에서 본인이 추가한 배우가 조회되지 않는 오류수정
+2. 미디어 정보 화면 일부 수정
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.6.3</span>
+1. 즐겨 찾기 관리 기능 추가 (폴더탭항목에 즐겨찾기 탭 추가)
+   - 사이트의 스크린샷으로 즐겨 찾기 관리
+   - 브라우져의 즐겨찾기 기능 사용시, 보안및 프라이버시 문제가 발생되는 부분 대체 가능
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.5.8</span>
+1. 이미지 갤러리 보완  및 오류 Fix
+2. 폴더 드래그&드롭시의 refresh 오류 Fix
+3. 배우 정보 수정시 일본이름이 한글이름으로 Reset되는 오류 Fix
+4. 그 밖의 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.5.6</span>
+1. 만화/이미지 모듈 수정
+   -  Tag 및 정보 수정 기능 반영
+   - 임시로 추가되어있던, 접근 불가 컨텐츠 성인2 모듈로 이동
+2. DB 업데이트
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.5.5</span>
+1. 갤러리에서  보여지는 이미지를 사용자가 실시간으로 선택할수 있는 기능 추가
+   - 배우 이미지 사이즈 선택 가능
+   - 갤러리에서 보여지는 커버, 썸네일 사이즈 선택 가능
+   * 선택된 이미지 크기는, 창을 새로 열거나 프로그램을 재시작하여도 유지됨
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.5.4</span>
+1. [중요] 2.5.3 오류 Fix
+   - 레벨업된 인증에서 기능 제약이 걸리는 부분(전체 작품 조회) Fix
+   - 커버 및 이미지 조회 오류 Fix 등
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.5.3</span>
+1. App 업데이트, DB 업데이트 서버 통합
+2. 인증방법을 이메일 인증으로 변경
+   - 인증 레벨업 : 인증 레벨업 탭에서, 그전에 부여받은 코드값 입력후 진행
+                       기본인증이 미리  이루어져있어야 함
+     * 한번 인증레벨업이 이루어진 상태에서는,  신규 인증시 레벨업된 인증이 적용됨
+3. 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.9</span>
+1. 2.4.8 오류 Fix
+2. 미디어 정보 탭에서 내가 평가하는 점수가 일부 업데이트 되지 않는 문제 Fix
+   - 파트 번호 없는 것은 업데이트가 안되었던 오류 Fix
+3. 환경설정 적용시, 모듈의 툴바가 업데이트 되지 않는 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.8</span>
+1. 일부 UI 조정
+   - 폴더 정보 탭 삭제하여, 창 크기 확보. 정렬번호는 폴더 관리에서 일괄 업데이트 가능
+   - 배우, 카테고리, 스튜디오 일부 변경
+2. 수동 싱크시, 제작사 항목 추가 및  이미지 크게 보기 기능 적용
+3. 폴더탭에서 폴더별 크기를 확인할 수 있도록 컬럼 추가
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.7</span>
+1. 갤러리의 파일을 드래그 앤 드롭해서 폴더로 옮길수 있는 기능 추가
+   - 같은 드라이브내에서의 이동만 가능
+2. 영화 출시일 누락되는 사항에 대한 오류 Fix
+   - 개봉일이 없이 출시년도만 있는 경우, 출시년도로 업데이트 될수 있도록 조치
+   - 많은 부분이 누락되었음-> 파일명 자동변경후, 싱크를 전부 푼다음에 재싱크를 하세요.
+3. 수동 싱크시 통합 검색과, 페이징 처리 되도록 기능 확장
+4. 일괄 정보 수정기능에서 출시일이 누락되어있던 부분을 추가하여 조치
+5. 큰 이미지에 대한 기능 제약
+6. 최적화 도중에 발생한 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.6</span>
+1. 오류 Fix
+   - 수동 싱크시, 특정 파일에서 간혹 Autocomplete기능이 작동되지 않는 오류 Fix
+     (파일명에 예외적인 특수문자가 포함된 켱우)
+   - 갤러리  창을 고정하고, 새로운 창을 연상태에서 테이블 모드, 라이브뷰 모드로 전환시
+     고정창이 사라지는 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.5</span>
+1. 폴더 드래그 앤 드롭 기능 추가
+   - 폴더 탭안에서 관리되는 모든 폴더간에 폴더를  자유롭게 이동 시킬수 있음
+     * 최상위 폴더 이동은 불가하며,  같은 드라이브에서 폴더이동만 지원함    
+2. 그룹핑 기능 추가
+   - 갤러리에서 현재 영상 구분(UnCen,Cen)으로만 그룹핑을 보여주던 것을
+     폴더, 스튜디오, 배우, 국가로 사용자가 그룹을 지어서 볼수 있도록 기능 개선함
+   - 폴더 작업이나, 배우 작업을 하는 사용자분에게는 매우 유용한 기능
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.3</span>
+1. 중요 오류 Fix - TV 모듈을 비롯한 배우 업데이트 관련
+   - 언제버전 부터인지 모르나  TV모듈 배우가 제대로 표시되지 않는 문제 Fix
+   - 배우 업데이트 성능의 문제 해결, 간단히 Refresh만  해주면 배우 작품수가 업데이트됨
+     (작품이 없는 배우는 자동으로 제외됨)
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.2</span>
+1. 품번 확장 및 품번 추출 로직 일부 개선
+2. 뒤로가기, 앞으로가기 기능 추가
+3. 수동 싱크시 배우로 검색할수 있는 기능 추가
+4. 2.4.0 2차 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.1</span>
+1. 2.4.0 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.4.0</span>
+1. 이미지로 검색할수 있는 기능 추가
+    - 커버, 썸네일, 배우 이미지로 구글 검색을 쉽게 할수 있는 기능
+    - 커버 이미지 검색의 경우 정확도 매우 높음
+2. 관리 메뉴에 중복 파일 추출 기능 추가
+   - 현재는 파일 사이즈로만 판단
+3. 파일 경로 관련한 중요 오류 Fix
+    - 경로명 또는 파일명이 대소문자만 변경되었을 경우, 이중으로 처리되는 오류 Fix
+4. 만화 모듈 일부 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.3.8</span>
+1. 만화 확장 기능 완료
+   - 관심 만화 지정 기능 추가
+   - 작가별, 시리즈별, Tag별 조회 기능 추가
+2. 만화의 이미지 로딩 속도 개선
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.3.6</span>
+1. 만화 모듈에 공개하지 않는 기능 추가함
+    - 슬라이드 보기는 잠시 보류 상태
+2. 동영상 찾기 결과에  토렌토 검색 결과 추가
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.3.5</span>
+1. XXX-AV 품번 식별 오류 Fix
+2. FC2 품번 확대 및 일부 커버 오류 보정
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.3.4</span>
+1. (중요) 환경 설정/모드 변경시 일부 유저(업데이트 문제)에서 발생하는 오류 Fix
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.3.3</span>
+1. 환경 설정 관련 로직 수정
+2. 프로그램 종료시점의 창 사이즈로, 다음번 실행시에 반영되도록 조치
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.3.2</span>
+1. [중대오류] 카테고리 탭에서, 카테고리 재구성 기능(툴바버튼)을 실행하였을 경우,
+   모든 미디어에서, 기존에 존재하던 카테고리가 초기화 되는 중대 오류 Fix
+2. 폴더 탭에서 드라이브 표시 컬럼  추가
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.3.1</span>
+1. 하드디스크 탈착시 드라이브명  변경에 따른 작동 오류 Fix
+   - 오프라인 모드에서 온라인 모드로 변경되어지는 경우  
+2. 조회  모드에서 삭제된 파일이라고 하더라도 강제 갱신되지 않도록 처리
+3. 조회(잠금) 모드/동기화 모드의 사용자 선택값 유지
+   - 다음 로그온시 마지막 선택값이 적용되어짐
+
+[오프라인 모드]
+하드디스크가 분리되어진 경우를 말하며, 데이타가 그대로 유지됨
+즉, 동기화 모드라고 하더라도 하드디스크가 장착되기 전까지는 데이타가 유지됨
+- 사용자가 선택할수 없는 모드이며, 프로그램에서 자동으로 판단해서 적용되어짐
+
+[온라인 모드 - 조회(잠금)모드]
+싱크/썸네일 작업등이 완료되었거나, 빠른 속도를 위해 데이타  갱신없이 조회용으로
+사용하는 경우에 사용자가 선택하는 모드
+- 하드  디스크를 Access하지 않음
+- 폴더 선택시 하위전부열기가기본값으로 적용됨
+- 단, 싱크 작업이나 썸네일 작업시에는 해당 폴더에 대해서 동기화 조치가 됨
+
+[온라인 모드 - 동기화 모드]
+폴더에  파일이 추가되거나 삭제된 경우, 실시간으로 동기화가 이루어짐                      
+
+* 특별히 성능의 이슈가 없거나 하위폴더열기등을 기본적으로 사용해야 되는 경우가
+  아니라면, 동기화 모드를 유지시켜주는 것을  권장함
+</pre>
+
+<pre>
+<span class="appVersion">App Ver 2.3.0</span>
+1. 자동 이름 변경시 파일 날짜가 초기화 되는 오류 Fix
+2. 신작확인하기 - Test
+3. DB가 사용중일 경우 DB업데이트 못하도록 사전에 Check 기능 추가
+   - DB업데이트 정상 조건 : 재시작 하자마자 DB업데이트를 수행하되, 업데이트 중 다른 기능 사용 금지
+</pre>
+	</div>
+</body>
+</html>
