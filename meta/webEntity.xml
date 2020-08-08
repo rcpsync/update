@@ -6,7 +6,7 @@
 	<urlUpdateBase>https://rcpsync.github.io/update</urlUpdateBase>
 
 	<urlRepository>repository</urlRepository>
-	<versionApp>5.9.1</versionApp>
+	<versionApp>5.9.3</versionApp>
 
 	<urlDbsBase>dbs</urlDbsBase>
 	<versionDbs>5.9.2</versionDbs>
