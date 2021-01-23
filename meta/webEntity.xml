@@ -18,7 +18,7 @@
 	<versionOpenCV>4.5.1</versionOpenCV>
 
 	<urlVersionHistory>https://rcpsync.github.io/update/meta/versionHistory.html</urlVersionHistory>
-	<urlSubTitleBase>https://rcpsync.github.io/update/subtitle/</urlSubTitleBase>
+	<urlSubTitleBase>https://amrcp.xyz/amrcp/subtitle/</urlSubTitleBase>
 
 	<urlWebBase>https://amrcp.xyz/</urlWebBase>
 	<urlRpcService>https://amrcp.xyz/web/rpcService.php</urlRpcService>
