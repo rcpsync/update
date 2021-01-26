@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<WebEntity>	
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><WebEntity>	
 	<unLockCode>AMRCP-0007</unLockCode>
 	<reqMinAppVersion>3.2.0</reqMinAppVersion>
 
 	<urlUpdateBase>https://rcpsync.github.io/update</urlUpdateBase>
 
 	<urlRepository>repository</urlRepository>
-	<versionApp>6.1.6</versionApp>
+	<versionApp>6.1.8</versionApp>
 
 	<urlDbsBase>dbs</urlDbsBase>
 	<versionDbs>6.1.4</versionDbs>
