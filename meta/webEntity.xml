@@ -8,7 +8,7 @@
 	<versionApp>6.2.5</versionApp>
 
 	<urlDbsBase>dbs</urlDbsBase>
-	<versionDbs>6.2.6</versionDbs>
+	<versionDbs>6.2.7</versionDbs>
 
 	<urlFFMpeg>ext/ffmpeg.zip</urlFFMpeg>
 	<versionFFMpeg>4.1.1</versionFFMpeg>
