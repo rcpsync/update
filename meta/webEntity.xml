@@ -8,7 +8,7 @@
 	<versionApp>6.5.4</versionApp>
 
 	<urlDbsBase>dbs</urlDbsBase>
-	<versionDbs>6.4.5</versionDbs>
+	<versionDbs>6.5.5</versionDbs>
 
 	<urlVPN>ext/vpn.zip</urlVPN>
 	<versionVPN>2.2.50</versionVPN>
